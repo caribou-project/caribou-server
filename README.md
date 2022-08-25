@@ -27,9 +27,3 @@ Bu aşamada opensubtitles.org üzerinde belirli bir dilde bulunan film ve dizile
 ## Evre 4 - Sınılandırılan veriler için bir web arayüzü oluşturmak
 
 *Eklenecek.*
-
-
-## Yapılacaklar
-- [] opensubtitles.org üzerinden film altyazılarını indiren (subtitles/archive dizinine) bir script yazılacak
-- [] İndirilen altyazı arşiv dosyaları (zip formatında) extract (subtitles/files dizinine) edilecek
-- [] Extract edilen altyazı dosyaları (.srt) yeniden formatlanacak
