@@ -1,0 +1,24 @@
+{
+  "name": "caribou",
+  "description": "Projenin amacı: film ve dizilerin altyazı dosyalarındaki kelimeleri işleyerek sıklıklarına göre sıralamak ve dil öğrenme konusunda yardımcı bir araç oluşturmak.",
+  "version": "1.0.0",
+  "main": "crawler.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sametcodes/caribou-crawler.git"
+  },
+  "author": "sametcodes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sametcodes/caribou-crawler/issues"
+  },
+  "homepage": "https://github.com/sametcodes/caribou-crawler#readme",
+  "dependencies": {
+    "node-fetch": "2",
+    "throat": "^6.0.1"
+  }
+}
