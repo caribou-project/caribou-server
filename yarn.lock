@@ -21,10 +21,20 @@ node-fetch@2:
   dependencies:
     whatwg-url "^5.0.0"
 
+parse-srt@^1.0.0-alpha:
+  version "1.0.0-alpha"
+  resolved "https://registry.yarnpkg.com/parse-srt/-/parse-srt-1.0.0-alpha.tgz#85e3c60d31e4dd0924faf541ea85a188fc344f61"
+  integrity sha512-Vqn4yAYCUfuhlhHQfPUHDu6IeVunrsWrTVQoKuLXJyrdSSo+SdBuRRO4fXHsUh4NmimI4dGIocbN993GnNcfyA==
+
 pend@~1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/pend/-/pend-1.2.0.tgz#7a57eb550a6783f9115331fcf4663d5c8e007a50"
   integrity sha512-F3asv42UuXchdzt+xXqfW1OGlVBe+mxa2mqI0pg5yAHZPvFmY3Y6drSf/GQ1A86WgWEN9Kzh/WrgKa6iGcHXLg==
+
+srt-to-json@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/srt-to-json/-/srt-to-json-1.0.1.tgz#722c66f234532f1698fd9be6784a6264a104c48b"
+  integrity sha512-ZVA5LZaG+GfjyXYUQR/pLyOjo90ygqz+nd3KIhiRGT7hsmiCsLr4fqHpZ5LiuvoDU2t+CIH7+AenyBRwU7OIGw==
 
 throat@^6.0.1:
   version "6.0.1"
