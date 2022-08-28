@@ -1,2 +1,5 @@
 node_modules/*
 *.zip
+subtitles/archive/*
+subtitles/files/*
+.DS_Store

@@ -5,7 +5,8 @@
   "main": "crawler.js",
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run-crawler": "node crawler/index.js"
   },
   "repository": {
     "type": "git",
@@ -19,6 +20,7 @@
   "homepage": "https://github.com/sametcodes/caribou-crawler#readme",
   "dependencies": {
     "node-fetch": "2",
-    "throat": "^6.0.1"
+    "throat": "^6.0.1",
+    "yauzl": "^2.10.0"
   }
 }
