@@ -10,6 +10,7 @@ const __dirname_abs = __dirname.split("/").slice(0, -1).join("/");
 if(!fs.existsSync(__dirname_abs + '/subtitles')) fs.mkdirSync(__dirname_abs + '/subtitles');
 if(!fs.existsSync(__dirname_abs + '/subtitles/archive')) fs.mkdirSync(__dirname_abs + '/subtitles/archive');
 if(!fs.existsSync(__dirname_abs + '/subtitles/files')) fs.mkdirSync(__dirname_abs + '/subtitles/files');
+if(!fs.existsSync(__dirname_abs + '/.cache')) fs.writeFileSync(__dirname_abs + '/.cache', "");
 
 let cached_paths = fs.readFileSync('./.cache', 'utf-8');
 
@@ -18,13 +19,25 @@ const parser = {
     resolve: ([_, name, id, imdb_id]) => ({
         id,
         name,
-        download: `https://dl.opensubtitles.org/en/download/sub/${id}`,
+        download: `https://dl.opensubtitles.org/tr/download/sub/${id}`,
         imdb: `http://www.imdb.com/title/${imdb_id}/`
     })
 }
 
 const getFileContent = async (download_link) => {
-    const response = await fetch(download_link, { headers: {} });
+    const response = await fetch(download_link, { headers: {
+        "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+        "accept-language": "tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7",
+        "sec-ch-ua": "\"Chromium\";v=\"104\", \" Not A;Brand\";v=\"99\", \"Google Chrome\";v=\"104\"",
+        "sec-ch-ua-mobile": "?0",
+        "sec-ch-ua-platform": "\"macOS\"",
+        "sec-fetch-dest": "document",
+        "sec-fetch-mode": "navigate",
+        "sec-fetch-site": "same-site",
+        "upgrade-insecure-requests": "1",
+        "Referer": "https://www.opensubtitles.org/",
+        "Referrer-Policy": "strict-origin-when-cross-origin"
+    } });
     if(response.headers.get('content-type') !== "application/zip"){
         return null;
     }
@@ -50,7 +63,7 @@ const getMovies = async (lang, letter, offset, max) => {
     // getMovies works recursively
     const next = () => getMovies(lang, letter, offset + 40, max);
 
-    const path_url = `sublanguageid-${lang}/moviename-${letter}/offset-${offset}`;
+    const path_url = `sublanguageid-${lang}/moviename-${letter}/sort-8/asc-0/offset-${offset}`;
     if(cached_paths.includes(path_url)) return next();
 
     const target_url = `https://www.opensubtitles.org/tr/search/${path_url}`;
@@ -61,10 +74,10 @@ const getMovies = async (lang, letter, offset, max) => {
     const sources = [...stripText(source).matchAll(parser.value)].map(parser.resolve);
 
     return Promise.all(sources.map(throat(1, async source => {
-        console.log(`― ${source.id} downloaded`)
         const source_path = __dirname_abs + `/subtitles/archive/${source.id}.zip`;
         const extract_path = __dirname_abs + `/subtitles/files/${source.id}`;
         await downloadSource(source, source_path);
+        console.log(`― ${source.id} downloaded`)
         await unzip(source_path, extract_path)
         createMetadata(source, `${extract_path}/metadata.json`);
         await waitFor(1000);
