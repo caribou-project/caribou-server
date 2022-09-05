@@ -8,7 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "crawler": "node crawler/index.js",
     "formatter": "node formatter/index.js",
-    "analyzer": "node analyzer/index.js"
+    "analyzer": "node analyzer/index.js",
+    "server": "node server/index.js"
   },
   "repository": {
     "type": "git",

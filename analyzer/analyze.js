@@ -9,7 +9,7 @@ const word_rarities = summary_json.reduce((obj, [word, usage_count]) => {
 }, {});
 
 const tracks = fs.readdirSync('./subtitles/files');
-const tracks_with_points = tracks.map(track => {
+tracks.forEach(track => {
     if(!/^[0-9]+/.test(track)){ return };
     const track_summary = JSON.parse(fs.readFileSync(`./subtitles/files/${track}/summary.json`, 'utf8'));
     const track_metadata = JSON.parse(fs.readFileSync(`./subtitles/files/${track}/metadata.json`, 'utf8'));
@@ -17,11 +17,11 @@ const tracks_with_points = tracks.map(track => {
         return sum + (count * word_rarities[word])
     }, 0);
 
-    return {
-        name: track_metadata.name,
-        track,
-        track_summary_rarity_point: Number((track_summary_rarity_point * 100).toFixed(3))
-    }
-}).filter(Boolean).sort((a, b) => b.track_summary_rarity_point - a.track_summary_rarity_point)
 
-console.log({tracks_with_points});
+    const json_metadata_body = JSON.stringify(Object.assign({}, track_metadata, {
+        track_summary_rarity_point: Number((track_summary_rarity_point * 100).toFixed(3))
+    }), null, 4);
+    fs.writeFileSync(`./subtitles/files/${track}/metadata.json`, json_metadata_body);
+});
+
+console.log("The track summary rarity points are calculated for the all subtitles.");
