@@ -22,9 +22,11 @@
   },
   "homepage": "https://github.com/sametcodes/caribou-crawler#readme",
   "dependencies": {
+    "express": "^4.18.1",
     "node-fetch": "2",
     "parse-srt": "^1.0.0-alpha",
     "throat": "^6.0.1",
     "yauzl": "^2.10.0"
-  }
+  },
+  "type": "module"
 }
