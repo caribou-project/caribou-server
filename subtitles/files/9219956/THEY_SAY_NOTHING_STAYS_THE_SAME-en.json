@@ -1,0 +1,5912 @@
+[
+    {
+        "id": 1,
+        "start": 261.862,
+        "end": 267.96,
+        "text": "THEY SAY NOTHING STAYS THE SAME"
+    },
+    {
+        "id": 2,
+        "start": 309.743,
+        "end": 311.609,
+        "text": "Thank you."
+    },
+    {
+        "id": 3,
+        "start": 314.014,
+        "end": 315.311,
+        "text": "I'll need a ride back..."
+    },
+    {
+        "id": 4,
+        "start": 316.35,
+        "end": 318.785,
+        "text": "at around sunset."
+    },
+    {
+        "id": 5,
+        "start": 467.201,
+        "end": 468.726,
+        "text": "Boatman!"
+    },
+    {
+        "id": 6,
+        "start": 472.739,
+        "end": 473.706,
+        "text": "Hurry up!"
+    },
+    {
+        "id": 7,
+        "start": 477.644,
+        "end": 478.77,
+        "text": "Move it!"
+    },
+    {
+        "id": 8,
+        "start": 486.82,
+        "end": 488.754,
+        "text": "Faster, boatman!"
+    },
+    {
+        "id": 9,
+        "start": 490.591,
+        "end": 491.786,
+        "text": "Right away."
+    },
+    {
+        "id": 10,
+        "start": 496.029,
+        "end": 497.463,
+        "text": "Hurry!"
+    },
+    {
+        "id": 11,
+        "start": 498.499,
+        "end": 502.231,
+        "text": "Thank you for waiting, sir."
+    },
+    {
+        "id": 12,
+        "start": 503.704,
+        "end": 506.469,
+        "text": "Watch it! You're in my way."
+    },
+    {
+        "id": 13,
+        "start": 508.942,
+        "end": 510.671,
+        "text": "Get going."
+    },
+    {
+        "id": 14,
+        "start": 510.777,
+        "end": 512.745,
+        "text": "Yes, sir. Right away."
+    },
+    {
+        "id": 15,
+        "start": 514.114,
+        "end": 516.606,
+        "text": "Off we go."
+    },
+    {
+        "id": 16,
+        "start": 516.717,
+        "end": 518.617,
+        "text": "You can barely row!"
+    },
+    {
+        "id": 17,
+        "start": 526.193,
+        "end": 527.718,
+        "text": "Give me a ride."
+    },
+    {
+        "id": 18,
+        "start": 529.129,
+        "end": 531.564,
+        "text": "Don't go back. I'm in a hurry!"
+    },
+    {
+        "id": 19,
+        "start": 531.665,
+        "end": 534.157,
+        "text": "I'm sorry, but it's the rule."
+    },
+    {
+        "id": 20,
+        "start": 534.268,
+        "end": 538,
+        "text": "What rule? There are no rules for boatmen."
+    },
+    {
+        "id": 21,
+        "start": 538.105,
+        "end": 540.073,
+        "text": "Just take me across!"
+    },
+    {
+        "id": 22,
+        "start": 542.276,
+        "end": 543.675,
+        "text": "Get a move on!"
+    },
+    {
+        "id": 23,
+        "start": 544.711,
+        "end": 546.577,
+        "text": "Get in, let's go."
+    },
+    {
+        "id": 24,
+        "start": 546.68,
+        "end": 549.706,
+        "text": "Sorry. This thing's so heavy."
+    },
+    {
+        "id": 25,
+        "start": 549.817,
+        "end": 551.945,
+        "text": "Stop fumbling around!"
+    },
+    {
+        "id": 26,
+        "start": 555.756,
+        "end": 558.851,
+        "text": " Sorry to stall you.  Go, boatman!"
+    },
+    {
+        "id": 27,
+        "start": 559.927,
+        "end": 561.656,
+        "text": "Faster, you incompetent fool"
+    },
+    {
+        "id": 28,
+        "start": 567.034,
+        "end": 569.025,
+        "text": "You're so clumsy."
+    },
+    {
+        "id": 29,
+        "start": 576.777,
+        "end": 578.074,
+        "text": "Here."
+    },
+    {
+        "id": 30,
+        "start": 578.178,
+        "end": 579.202,
+        "text": "Thanks."
+    },
+    {
+        "id": 31,
+        "start": 579.313,
+        "end": 581.247,
+        "text": "You wasted my time!"
+    },
+    {
+        "id": 32,
+        "start": 582.716,
+        "end": 585.151,
+        "text": "I caused you trouble, Toichi."
+    },
+    {
+        "id": 33,
+        "start": 585.252,
+        "end": 587.118,
+        "text": "I delayed you."
+    },
+    {
+        "id": 34,
+        "start": 588.288,
+        "end": 591.815,
+        "text": "What an arrogant man he is!"
+    },
+    {
+        "id": 35,
+        "start": 592.993,
+        "end": 597.226,
+        "text": "I don't know him. Maybe he's from upstream?"
+    },
+    {
+        "id": 36,
+        "start": 600.134,
+        "end": 602.796,
+        "text": "I bet he's involved..."
+    },
+    {
+        "id": 37,
+        "start": 603.904,
+        "end": 606.168,
+        "text": "in building the bridge."
+    },
+    {
+        "id": 38,
+        "start": 606.273,
+        "end": 609.072,
+        "text": "All that banging is so noisy."
+    },
+    {
+        "id": 39,
+        "start": 610.244,
+        "end": 613.179,
+        "text": "Hey, Toichi, have you eaten?"
+    },
+    {
+        "id": 40,
+        "start": 613.28,
+        "end": 614.805,
+        "text": "Not yet."
+    },
+    {
+        "id": 41,
+        "start": 614.915,
+        "end": 617.646,
+        "text": "I've been ferrying people nonstop."
+    },
+    {
+        "id": 42,
+        "start": 617.751,
+        "end": 620.777,
+        "text": "I got potatoes upstream. Want some?"
+    },
+    {
+        "id": 43,
+        "start": 620.888,
+        "end": 623.118,
+        "text": "Don't worry. Go home and eat."
+    },
+    {
+        "id": 44,
+        "start": 623.223,
+        "end": 624.85,
+        "text": "It's okay!"
+    },
+    {
+        "id": 45,
+        "start": 624.958,
+        "end": 629.156,
+        "text": "It's always better to eat with someone."
+    },
+    {
+        "id": 46,
+        "start": 630.898,
+        "end": 632.992,
+        "text": "Let me cook them here."
+    },
+    {
+        "id": 47,
+        "start": 633.1,
+        "end": 634.329,
+        "text": "You're so kind."
+    },
+    {
+        "id": 48,
+        "start": 642.209,
+        "end": 643.87,
+        "text": "It's so heavy!"
+    },
+    {
+        "id": 49,
+        "start": 646.713,
+        "end": 648.306,
+        "text": "Hey, I want to cross."
+    },
+    {
+        "id": 50,
+        "start": 648.415,
+        "end": 649.94,
+        "text": "Yes, sir."
+    },
+    {
+        "id": 51,
+        "start": 660.093,
+        "end": 660.924,
+        "text": "Get in."
+    },
+    {
+        "id": 52,
+        "start": 662.763,
+        "end": 664.026,
+        "text": "Thank you."
+    },
+    {
+        "id": 53,
+        "start": 694.695,
+        "end": 696.254,
+        "text": "Toichi, here."
+    },
+    {
+        "id": 54,
+        "start": 696.363,
+        "end": 697.956,
+        "text": "Thank you, sir."
+    },
+    {
+        "id": 55,
+        "start": 698.999,
+        "end": 700.763,
+        "text": "Let's see what I shoot."
+    },
+    {
+        "id": 56,
+        "start": 700.868,
+        "end": 702.302,
+        "text": "I'll be back."
+    },
+    {
+        "id": 57,
+        "start": 702.402,
+        "end": 704.029,
+        "text": "Have a nice hunt, sir!"
+    },
+    {
+        "id": 58,
+        "start": 715.315,
+        "end": 717.306,
+        "text": "This'll make it even."
+    },
+    {
+        "id": 59,
+        "start": 717.417,
+        "end": 719.01,
+        "text": "What's that?"
+    },
+    {
+        "id": 60,
+        "start": 719.119,
+        "end": 720.348,
+        "text": "My passenger..."
+    },
+    {
+        "id": 61,
+        "start": 721.822,
+        "end": 724.154,
+        "text": "Nihei gave me them."
+    },
+    {
+        "id": 62,
+        "start": 724.258,
+        "end": 728.126,
+        "text": "That means I won't owe you anymore."
+    },
+    {
+        "id": 63,
+        "start": 728.228,
+        "end": 729.821,
+        "text": "I lost out..."
+    },
+    {
+        "id": 64,
+        "start": 731.265,
+        "end": 733.256,
+        "text": "These look better!"
+    },
+    {
+        "id": 65,
+        "start": 741.308,
+        "end": 745.711,
+        "text": "Hot potatoes on a hot day is hellish!"
+    },
+    {
+        "id": 66,
+        "start": 754.388,
+        "end": 756.186,
+        "text": "There they go again."
+    },
+    {
+        "id": 67,
+        "start": 757.958,
+        "end": 762.191,
+        "text": "Are you okay, Toichi? Doesn't the noise bother you?"
+    },
+    {
+        "id": 68,
+        "start": 765.165,
+        "end": 767.327,
+        "text": "I guess I got used to it."
+    },
+    {
+        "id": 69,
+        "start": 770.504,
+        "end": 772.268,
+        "text": "Not me."
+    },
+    {
+        "id": 70,
+        "start": 774.374,
+        "end": 776.399,
+        "text": "You know, Toichi."
+    },
+    {
+        "id": 71,
+        "start": 776.51,
+        "end": 781.812,
+        "text": "When the noise is unbearable, I think I'll destroy that bridge!"
+    },
+    {
+        "id": 72,
+        "start": 783.517,
+        "end": 787.385,
+        "text": "That bridge will be bad for you, tool"
+    },
+    {
+        "id": 73,
+        "start": 788.989,
+        "end": 793.517,
+        "text": "The villagers say it'll be convenient,"
+    },
+    {
+        "id": 74,
+        "start": 793.827,
+        "end": 797.991,
+        "text": "but they're wrong. I don't think it'll be good."
+    },
+    {
+        "id": 75,
+        "start": 799.566,
+        "end": 804.197,
+        "text": "You've ferried people over the river for years."
+    },
+    {
+        "id": 76,
+        "start": 805.339,
+        "end": 809.401,
+        "text": "That's how we've always got upstream."
+    },
+    {
+        "id": 77,
+        "start": 810.511,
+        "end": 811.979,
+        "text": "Why change it?"
+    },
+    {
+        "id": 78,
+        "start": 814.081,
+        "end": 819.019,
+        "text": "I know the bridge will be convenient..."
+    },
+    {
+        "id": 79,
+        "start": 820.287,
+        "end": 824.281,
+        "text": "but then we won't need your boat, Toichi."
+    },
+    {
+        "id": 80,
+        "start": 824.391,
+        "end": 826.052,
+        "text": "That's wrong."
+    },
+    {
+        "id": 81,
+        "start": 827.594,
+        "end": 829.323,
+        "text": "It's just wrong!"
+    },
+    {
+        "id": 82,
+        "start": 836.136,
+        "end": 837.365,
+        "text": "Toichi."
+    },
+    {
+        "id": 83,
+        "start": 838.472,
+        "end": 840.463,
+        "text": "Join me."
+    },
+    {
+        "id": 84,
+        "start": 840.574,
+        "end": 844.238,
+        "text": "Let's destroy the bridge before it's done."
+    },
+    {
+        "id": 85,
+        "start": 846.313,
+        "end": 849.339,
+        "text": "I can't tell if you're fooling."
+    },
+    {
+        "id": 86,
+        "start": 850.918,
+        "end": 852.443,
+        "text": "Me neither!"
+    },
+    {
+        "id": 87,
+        "start": 853.987,
+        "end": 856.046,
+        "text": "I'm not very smart."
+    },
+    {
+        "id": 88,
+        "start": 1047.447,
+        "end": 1052.146,
+        "text": "...so I thought it was a boar!"
+    },
+    {
+        "id": 89,
+        "start": 1052.252,
+        "end": 1058.316,
+        "text": "I was shocked when he jumped out of the bush!"
+    },
+    {
+        "id": 90,
+        "start": 1058.425,
+        "end": 1060.484,
+        "text": "I'd shoot, too."
+    },
+    {
+        "id": 91,
+        "start": 1061.528,
+        "end": 1064.361,
+        "text": "Lucky I'm a bad shot."
+    },
+    {
+        "id": 92,
+        "start": 1064.465,
+        "end": 1067.765,
+        "text": "He'd be dead if I wasn't."
+    },
+    {
+        "id": 93,
+        "start": 1068.068,
+        "end": 1070.503,
+        "text": "Is he okay?"
+    },
+    {
+        "id": 94,
+        "start": 1070.604,
+        "end": 1072.402,
+        "text": "His ear was scorched"
+    },
+    {
+        "id": 95,
+        "start": 1072.506,
+        "end": 1076.033,
+        "text": "so he was in a daze for a while."
+    },
+    {
+        "id": 96,
+        "start": 1076.143,
+        "end": 1077.577,
+        "text": "He would be!!"
+    },
+    {
+        "id": 97,
+        "start": 1078.746,
+        "end": 1083.411,
+        "text": "Thank God, he was quicker than a boar!"
+    },
+    {
+        "id": 98,
+        "start": 1265.365,
+        "end": 1269.529,
+        "text": "Damn, that noise! The fish got spooked."
+    },
+    {
+        "id": 99,
+        "start": 1273.874,
+        "end": 1277.401,
+        "text": "River hobos!"
+    },
+    {
+        "id": 100,
+        "start": 1277.511,
+        "end": 1280.742,
+        "text": " Get out of here, scum! "
+    },
+    {
+        "id": 101,
+        "start": 1280.848,
+        "end": 1284.284,
+        "text": "Eat this and die!"
+    },
+    {
+        "id": 102,
+        "start": 1284.384,
+        "end": 1286.648,
+        "text": "You brats! Cut it out!"
+    },
+    {
+        "id": 103,
+        "start": 1286.754,
+        "end": 1288.62,
+        "text": "I'm going to eat you up!"
+    },
+    {
+        "id": 104,
+        "start": 1291.024,
+        "end": 1293.55,
+        "text": "You stupid brats!"
+    },
+    {
+        "id": 105,
+        "start": 1296.73,
+        "end": 1299.927,
+        "text": "Those kids are hopeless."
+    },
+    {
+        "id": 106,
+        "start": 1303.47,
+        "end": 1305.495,
+        "text": "I want peace and quiet."
+    },
+    {
+        "id": 107,
+        "start": 1314.414,
+        "end": 1315.882,
+        "text": "We need to cross!"
+    },
+    {
+        "id": 108,
+        "start": 1319.82,
+        "end": 1321.447,
+        "text": "Look at that bull!"
+    },
+    {
+        "id": 109,
+        "start": 1321.555,
+        "end": 1322.954,
+        "text": "Let me help."
+    },
+    {
+        "id": 110,
+        "start": 1324.758,
+        "end": 1326.283,
+        "text": "Be care full"
+    },
+    {
+        "id": 111,
+        "start": 1335.002,
+        "end": 1338.632,
+        "text": "It'd be easier if there was a bridge."
+    },
+    {
+        "id": 112,
+        "start": 1338.739,
+        "end": 1341.674,
+        "text": "Come on, this is nothing."
+    },
+    {
+        "id": 113,
+        "start": 1341.775,
+        "end": 1343.3,
+        "text": "Right, Toichi?"
+    },
+    {
+        "id": 114,
+        "start": 1349.65,
+        "end": 1351.744,
+        "text": "We'll go where the water's shallow."
+    },
+    {
+        "id": 115,
+        "start": 1353.053,
+        "end": 1354.885,
+        "text": "Come on."
+    },
+    {
+        "id": 116,
+        "start": 1354.988,
+        "end": 1356.956,
+        "text": "Steady, boy."
+    },
+    {
+        "id": 117,
+        "start": 1358.459,
+        "end": 1361.793,
+        "text": " That's the way.  Good boy!"
+    },
+    {
+        "id": 118,
+        "start": 1362.863,
+        "end": 1365.355,
+        "text": "This way."
+    },
+    {
+        "id": 119,
+        "start": 1365.466,
+        "end": 1366.661,
+        "text": "Come on."
+    },
+    {
+        "id": 120,
+        "start": 1368.068,
+        "end": 1369.866,
+        "text": "You can do it."
+    },
+    {
+        "id": 121,
+        "start": 1369.97,
+        "end": 1371.665,
+        "text": "Let's go."
+    },
+    {
+        "id": 122,
+        "start": 1373.006,
+        "end": 1374.701,
+        "text": "You okay, Genzo?"
+    },
+    {
+        "id": 123,
+        "start": 1378.011,
+        "end": 1381.413,
+        "text": " Are you okay?  Yes, it was no trouble."
+    },
+    {
+        "id": 124,
+        "start": 1382.583,
+        "end": 1384.051,
+        "text": "We made it!"
+    },
+    {
+        "id": 125,
+        "start": 1384.151,
+        "end": 1388.554,
+        "text": "I thought I was stuck, but you made it possible."
+    },
+    {
+        "id": 126,
+        "start": 1388.655,
+        "end": 1390.487,
+        "text": "Your bull got wet."
+    },
+    {
+        "id": 127,
+        "start": 1390.591,
+        "end": 1393.754,
+        "text": "It'll dry on our way upstream"
+    },
+    {
+        "id": 128,
+        "start": 1393.861,
+        "end": 1398.355,
+        "text": "in this heat! And its hide is silkier."
+    },
+    {
+        "id": 129,
+        "start": 1398.465,
+        "end": 1399.694,
+        "text": "Let's go."
+    },
+    {
+        "id": 130,
+        "start": 1407.441,
+        "end": 1409,
+        "text": "It feels nice!"
+    },
+    {
+        "id": 131,
+        "start": 1434.601,
+        "end": 1436.797,
+        "text": "It'll be another hot day."
+    },
+    {
+        "id": 132,
+        "start": 1501.568,
+        "end": 1505.129,
+        "text": "It's such a desolate village."
+    },
+    {
+        "id": 133,
+        "start": 1505.239,
+        "end": 1507.936,
+        "text": "There's nothing there."
+    },
+    {
+        "id": 134,
+        "start": 1508.041,
+        "end": 1511.739,
+        "text": "You from there, Mr. Boatman?"
+    },
+    {
+        "id": 135,
+        "start": 1511.845,
+        "end": 1513.677,
+        "text": "No, I'm not."
+    },
+    {
+        "id": 136,
+        "start": 1513.78,
+        "end": 1517.876,
+        "text": "I came from another village upstream."
+    },
+    {
+        "id": 137,
+        "start": 1517.985,
+        "end": 1519.612,
+        "text": "Right."
+    },
+    {
+        "id": 138,
+        "start": 1519.72,
+        "end": 1523.52,
+        "text": "Well, I guess you had your reasons for leaving..."
+    },
+    {
+        "id": 139,
+        "start": 1523.624,
+        "end": 1525.991,
+        "text": "Something like that."
+    },
+    {
+        "id": 140,
+        "start": 1526.093,
+        "end": 1530.553,
+        "text": "Right. I knew that was the case."
+    },
+    {
+        "id": 141,
+        "start": 1532.065,
+        "end": 1535.194,
+        "text": "Don't you want to go back?"
+    },
+    {
+        "id": 142,
+        "start": 1535.302,
+        "end": 1539.205,
+        "text": "I have no family or relatives there."
+    },
+    {
+        "id": 143,
+        "start": 1539.306,
+        "end": 1542.071,
+        "text": "I don't think I'd belong."
+    },
+    {
+        "id": 144,
+        "start": 1545.312,
+        "end": 1547.542,
+        "text": "I know what you mean."
+    },
+    {
+        "id": 145,
+        "start": 1551.185,
+        "end": 1555.019,
+        "text": "Do you know the Chinese character for loneliness?"
+    },
+    {
+        "id": 146,
+        "start": 1556.089,
+        "end": 1558.524,
+        "text": "Uh... no."
+    },
+    {
+        "id": 147,
+        "start": 1558.625,
+        "end": 1562.152,
+        "text": "Oh, okay. Never mind that."
+    },
+    {
+        "id": 148,
+        "start": 1563.897,
+        "end": 1566.594,
+        "text": "Don't be embarrassed."
+    },
+    {
+        "id": 149,
+        "start": 1566.7,
+        "end": 1572.537,
+        "text": "The character for loneliness is similar to fox."
+    },
+    {
+        "id": 150,
+        "start": 1574.675,
+        "end": 1578.202,
+        "text": "There are foxes around here, right?"
+    },
+    {
+        "id": 151,
+        "start": 1578.312,
+        "end": 1581.612,
+        "text": "Foxes, raccoon dogs and even bears."
+    },
+    {
+        "id": 152,
+        "start": 1581.715,
+        "end": 1584.207,
+        "text": "I bet."
+    },
+    {
+        "id": 153,
+        "start": 1584.318,
+        "end": 1585.911,
+        "text": "So..."
+    },
+    {
+        "id": 154,
+        "start": 1586.019,
+        "end": 1590.786,
+        "text": "foxes always seem lonely to me."
+    },
+    {
+        "id": 155,
+        "start": 1592.126,
+        "end": 1593.719,
+        "text": "Isn't that strange?"
+    },
+    {
+        "id": 156,
+        "start": 1594.795,
+        "end": 1599.858,
+        "text": "You're right. I guess foxes are lonely, too."
+    },
+    {
+        "id": 157,
+        "start": 1603.07,
+        "end": 1609.1,
+        "text": "Mr. Boatman, I was sold as a child so my family could eat."
+    },
+    {
+        "id": 158,
+        "start": 1609.209,
+        "end": 1612.11,
+        "text": "I worked for a medicine maker."
+    },
+    {
+        "id": 159,
+        "start": 1612.212,
+        "end": 1616.274,
+        "text": "They had many books, so I learned to read."
+    },
+    {
+        "id": 160,
+        "start": 1616.383,
+        "end": 1618.613,
+        "text": "Good for you."
+    },
+    {
+        "id": 161,
+        "start": 1618.719,
+        "end": 1622.28,
+        "text": "I was born very sturdy."
+    },
+    {
+        "id": 162,
+        "start": 1622.389,
+        "end": 1624.357,
+        "text": "I've never been sick."
+    },
+    {
+        "id": 163,
+        "start": 1626.193,
+        "end": 1629.959,
+        "text": "I sold medicine, but I never needed any!"
+    },
+    {
+        "id": 164,
+        "start": 1632.132,
+        "end": 1637.298,
+        "text": "I did okay for a child who was sold off."
+    },
+    {
+        "id": 165,
+        "start": 1640.641,
+        "end": 1642.268,
+        "text": "Even so..."
+    },
+    {
+        "id": 166,
+        "start": 1642.376,
+        "end": 1647.177,
+        "text": "I've become sentimental about the old village."
+    },
+    {
+        "id": 167,
+        "start": 1649.349,
+        "end": 1652.319,
+        "text": "I thought I'd never go back but"
+    },
+    {
+        "id": 168,
+        "start": 1653.921,
+        "end": 1657.88,
+        "text": "I keep thinking about the past lately."
+    },
+    {
+        "id": 169,
+        "start": 1659.026,
+        "end": 1660.653,
+        "text": "Isn't that funny?"
+    },
+    {
+        "id": 170,
+        "start": 1662.396,
+        "end": 1665.798,
+        "text": "So I went back to the village..."
+    },
+    {
+        "id": 171,
+        "start": 1668.068,
+        "end": 1672.096,
+        "text": "but there's nothing for me there anymore."
+    },
+    {
+        "id": 172,
+        "start": 1859.526,
+        "end": 1863.292,
+        "text": "What? A kid was drifting in the river?"
+    },
+    {
+        "id": 173,
+        "start": 1863.397,
+        "end": 1867.834,
+        "text": "The boat hit something and it was a human."
+    },
+    {
+        "id": 174,
+        "start": 1867.935,
+        "end": 1869.869,
+        "text": "Let me check."
+    },
+    {
+        "id": 175,
+        "start": 1872.272,
+        "end": 1873.865,
+        "text": "A person?"
+    },
+    {
+        "id": 176,
+        "start": 1873.974,
+        "end": 1878.172,
+        "text": "I thought she was dead, but she was breathing."
+    },
+    {
+        "id": 177,
+        "start": 1878.278,
+        "end": 1881.179,
+        "text": "I did what I could."
+    },
+    {
+        "id": 178,
+        "start": 1883.617,
+        "end": 1885.517,
+        "text": "What the hell!"
+    },
+    {
+        "id": 179,
+        "start": 1885.619,
+        "end": 1888.213,
+        "text": "I need more mugwort."
+    },
+    {
+        "id": 180,
+        "start": 1888.322,
+        "end": 1891.622,
+        "text": "Is there any around your place?"
+    },
+    {
+        "id": 181,
+        "start": 1891.925,
+        "end": 1893.359,
+        "text": "Yes, there isl!"
+    },
+    {
+        "id": 182,
+        "start": 1894.395,
+        "end": 1895.863,
+        "text": "So..."
+    },
+    {
+        "id": 183,
+        "start": 1897.097,
+        "end": 1898.622,
+        "text": "I'll get some!!"
+    },
+    {
+        "id": 184,
+        "start": 1898.932,
+        "end": 1900.024,
+        "text": "Thanks."
+    },
+    {
+        "id": 185,
+        "start": 1900.134,
+        "end": 1901.431,
+        "text": "Okay!"
+    },
+    {
+        "id": 186,
+        "start": 1903.07,
+        "end": 1905.3,
+        "text": "Okay! I'll be right back!"
+    },
+    {
+        "id": 187,
+        "start": 1907.107,
+        "end": 1909.872,
+        "text": "Mugwort. Mugwort, mugwort..."
+    },
+    {
+        "id": 188,
+        "start": 1952.586,
+        "end": 1954.281,
+        "text": "Hey, Toichi."
+    },
+    {
+        "id": 189,
+        "start": 1956.19,
+        "end": 1961.219,
+        "text": "She looks better. Her breathing's steadier."
+    },
+    {
+        "id": 190,
+        "start": 1961.328,
+        "end": 1963.228,
+        "text": "That's good."
+    },
+    {
+        "id": 191,
+        "start": 1963.33,
+        "end": 1965.628,
+        "text": "Your mugwort medicine worked!"
+    },
+    {
+        "id": 192,
+        "start": 1965.733,
+        "end": 1967.462,
+        "text": "That's right."
+    },
+    {
+        "id": 193,
+        "start": 1968.535,
+        "end": 1971.163,
+        "text": "It works very well."
+    },
+    {
+        "id": 194,
+        "start": 1971.271,
+        "end": 1973.603,
+        "text": "She'll be well soon."
+    },
+    {
+        "id": 195,
+        "start": 1974.741,
+        "end": 1979.303,
+        "text": "But I worry that she hit her head."
+    },
+    {
+        "id": 196,
+        "start": 1979.413,
+        "end": 1984.647,
+        "text": "You're right. She was bleeding around here."
+    },
+    {
+        "id": 197,
+        "start": 1985.986,
+        "end": 1989.388,
+        "text": "We don't know how far she floated."
+    },
+    {
+        "id": 198,
+        "start": 1989.49,
+        "end": 1995.02,
+        "text": "If she got a bad blow to the head, mugwort won't help."
+    },
+    {
+        "id": 199,
+        "start": 2023.19,
+        "end": 2025.557,
+        "text": "Boatman! I need to cross!"
+    },
+    {
+        "id": 200,
+        "start": 2025.659,
+        "end": 2027.024,
+        "text": "Yes, sir."
+    },
+    {
+        "id": 201,
+        "start": 2031.598,
+        "end": 2034.329,
+        "text": " Stop fishing!  I'm sorry."
+    },
+    {
+        "id": 202,
+        "start": 2034.434,
+        "end": 2036.061,
+        "text": "Hurry up!"
+    },
+    {
+        "id": 203,
+        "start": 2040.14,
+        "end": 2043.508,
+        "text": "You're vain, that's what you are."
+    },
+    {
+        "id": 204,
+        "start": 2043.61,
+        "end": 2048.013,
+        "text": "Lay off! I got laid. That's all that matters."
+    },
+    {
+        "id": 205,
+        "start": 2049.383,
+        "end": 2054.014,
+        "text": " You splashed me! Don't rock the boat. "
+    },
+    {
+        "id": 206,
+        "start": 2057.658,
+        "end": 2059.456,
+        "text": "Careful, you idiot!"
+    },
+    {
+        "id": 207,
+        "start": 2126.36,
+        "end": 2128.795,
+        "text": "Bad things happen."
+    },
+    {
+        "id": 208,
+        "start": 2128.896,
+        "end": 2131.729,
+        "text": "Imagine having your throat slit!"
+    },
+    {
+        "id": 209,
+        "start": 2131.832,
+        "end": 2137.271,
+        "text": "I heard that you squeal like a wild beast and die."
+    },
+    {
+        "id": 210,
+        "start": 2137.371,
+        "end": 2141.569,
+        "text": " You make sounds?  It's more like air releasing."
+    },
+    {
+        "id": 211,
+        "start": 2141.675,
+        "end": 2143.837,
+        "text": "It's terrible."
+    },
+    {
+        "id": 212,
+        "start": 2144.144,
+        "end": 2147.114,
+        "text": "The entire family was killed..."
+    },
+    {
+        "id": 213,
+        "start": 2147.214,
+        "end": 2149.706,
+        "text": "It was some kind of grudge."
+    },
+    {
+        "id": 214,
+        "start": 2149.817,
+        "end": 2153.219,
+        "text": "Right. He even killed the children?"
+    },
+    {
+        "id": 215,
+        "start": 2153.32,
+        "end": 2156.29,
+        "text": "Merciless bastard."
+    },
+    {
+        "id": 216,
+        "start": 2156.39,
+        "end": 2159.587,
+        "text": "Did you hear about it, Boatman?"
+    },
+    {
+        "id": 217,
+        "start": 2159.693,
+        "end": 2164.893,
+        "text": "No. Only what I heard you say now."
+    },
+    {
+        "id": 218,
+        "start": 2165.199,
+        "end": 2166.758,
+        "text": "Is that right?"
+    },
+    {
+        "id": 219,
+        "start": 2166.867,
+        "end": 2170.826,
+        "text": "There's a village called Ichinomiya, 20 kilometers upstream."
+    },
+    {
+        "id": 220,
+        "start": 2170.938,
+        "end": 2172.872,
+        "text": "It's a spooky place."
+    },
+    {
+        "id": 221,
+        "start": 2173.173,
+        "end": 2175.198,
+        "text": "No one told you about it?"
+    },
+    {
+        "id": 222,
+        "start": 2175.309,
+        "end": 2177.175,
+        "text": "Rumors have legs, right?"
+    },
+    {
+        "id": 223,
+        "start": 2177.277,
+        "end": 2179.473,
+        "text": "What happened?"
+    },
+    {
+        "id": 224,
+        "start": 2179.58,
+        "end": 2183.244,
+        "text": "Apparently a whole family was massacred."
+    },
+    {
+        "id": 225,
+        "start": 2183.35,
+        "end": 2184.681,
+        "text": "Throats slit."
+    },
+    {
+        "id": 226,
+        "start": 2184.785,
+        "end": 2188.221,
+        "text": "Yes, they were slit, it was savage."
+    },
+    {
+        "id": 227,
+        "start": 2188.322,
+        "end": 2191.451,
+        "text": "Ichinomiya is creepy!"
+    },
+    {
+        "id": 228,
+        "start": 2191.558,
+        "end": 2193.39,
+        "text": "It's horrible."
+    },
+    {
+        "id": 229,
+        "start": 2193.494,
+        "end": 2197.795,
+        "text": "The killer is at large."
+    },
+    {
+        "id": 230,
+        "start": 2197.898,
+        "end": 2200.492,
+        "text": "Oh, wait."
+    },
+    {
+        "id": 231,
+        "start": 2200.601,
+        "end": 2204.663,
+        "text": "I heard that a boy or girl... is missing."
+    },
+    {
+        "id": 232,
+        "start": 2204.772,
+        "end": 2207.833,
+        "text": "The killer might have taken one of them."
+    },
+    {
+        "id": 233,
+        "start": 2207.941,
+        "end": 2210.603,
+        "text": "After killing the rest?"
+    },
+    {
+        "id": 234,
+        "start": 2210.711,
+        "end": 2216.673,
+        "text": "However it went, it's cruel. Everyone's talking about it."
+    },
+    {
+        "id": 235,
+        "start": 2217.818,
+        "end": 2219.183,
+        "text": "I see."
+    },
+    {
+        "id": 236,
+        "start": 2231.965,
+        "end": 2233.763,
+        "text": "Toichi!"
+    },
+    {
+        "id": 237,
+        "start": 2233.867,
+        "end": 2235.335,
+        "text": "She's awake!"
+    },
+    {
+        "id": 238,
+        "start": 2236.57,
+        "end": 2241.44,
+        "text": "She's awake but she won't say a thing!"
+    },
+    {
+        "id": 239,
+        "start": 2241.542,
+        "end": 2243.704,
+        "text": "She won't answer my questions."
+    },
+    {
+        "id": 240,
+        "start": 2243.811,
+        "end": 2245.87,
+        "text": "When did she wake up?"
+    },
+    {
+        "id": 241,
+        "start": 2245.979,
+        "end": 2250.94,
+        "text": "A while ago. While you were taking someone across."
+    },
+    {
+        "id": 242,
+        "start": 2251.251,
+        "end": 2252.582,
+        "text": " How did it go? "
+    },
+    {
+        "id": 243,
+        "start": 2252.686,
+        "end": 2256.35,
+        "text": "How? She just sprang up!"
+    },
+    {
+        "id": 244,
+        "start": 2256.457,
+        "end": 2258.653,
+        "text": "I was surprised."
+    },
+    {
+        "id": 245,
+        "start": 2258.759,
+        "end": 2263.356,
+        "text": "I think there was a \"Whoa\" or \"Ugh\"|"
+    },
+    {
+        "id": 246,
+        "start": 2263.464,
+        "end": 2266.434,
+        "text": "She said, \"Whoa\" and \"Ugh\"?"
+    },
+    {
+        "id": 247,
+        "start": 2266.533,
+        "end": 2267.898,
+        "text": "No, me! I did!"
+    },
+    {
+        "id": 248,
+        "start": 2268.002,
+        "end": 2272.235,
+        "text": "I was so surprised I said, \"Ugh\"!"
+    },
+    {
+        "id": 249,
+        "start": 2272.339,
+        "end": 2274.808,
+        "text": "I'm not talking about you, Genzo."
+    },
+    {
+        "id": 250,
+        "start": 2274.908,
+        "end": 2275.773,
+        "text": "Right."
+    },
+    {
+        "id": 251,
+        "start": 2275.876,
+        "end": 2279.676,
+        "text": "She sprang up and looked around..."
+    },
+    {
+        "id": 252,
+        "start": 2282.416,
+        "end": 2284.612,
+        "text": "Then she stared at me."
+    },
+    {
+        "id": 253,
+        "start": 2284.718,
+        "end": 2287.779,
+        "text": "Okay. I'll go see how she is."
+    },
+    {
+        "id": 254,
+        "start": 2289.59,
+        "end": 2291.752,
+        "text": " Toichi, I have to go! "
+    },
+    {
+        "id": 255,
+        "start": 2291.859,
+        "end": 2293.623,
+        "text": "Okay, thank you."
+    },
+    {
+        "id": 256,
+        "start": 2317.518,
+        "end": 2318.849,
+        "text": "Are you..."
+    },
+    {
+        "id": 257,
+        "start": 2320.487,
+        "end": 2321.75,
+        "text": "okay?"
+    },
+    {
+        "id": 258,
+        "start": 2324.725,
+        "end": 2326.659,
+        "text": "I..."
+    },
+    {
+        "id": 259,
+        "start": 2326.76,
+        "end": 2329.559,
+        "text": "I row a boat."
+    },
+    {
+        "id": 260,
+        "start": 2332.533,
+        "end": 2334.763,
+        "text": "I'm a boatman."
+    },
+    {
+        "id": 261,
+        "start": 2334.868,
+        "end": 2336.358,
+        "text": "And..."
+    },
+    {
+        "id": 262,
+        "start": 2337.805,
+        "end": 2340.035,
+        "text": "I found you."
+    },
+    {
+        "id": 263,
+        "start": 2341.608,
+        "end": 2342.905,
+        "text": "So..."
+    },
+    {
+        "id": 264,
+        "start": 2345.879,
+        "end": 2349.474,
+        "text": "you can rest here until you feel better."
+    },
+    {
+        "id": 265,
+        "start": 2407.141,
+        "end": 2408.802,
+        "text": "Are you hungry?"
+    },
+    {
+        "id": 266,
+        "start": 2409.877,
+        "end": 2411.47,
+        "text": "Here..."
+    },
+    {
+        "id": 267,
+        "start": 2413.013,
+        "end": 2414.378,
+        "text": "Eat this."
+    },
+    {
+        "id": 268,
+        "start": 2477.778,
+        "end": 2482.477,
+        "text": "Remember what I told you about the Ichinomiya massacre?"
+    },
+    {
+        "id": 269,
+        "start": 2482.583,
+        "end": 2488.716,
+        "text": "It wasn't the son who was kidnapped. It was the daughter."
+    },
+    {
+        "id": 270,
+        "start": 2488.822,
+        "end": 2490.483,
+        "text": "A girl!"
+    },
+    {
+        "id": 271,
+        "start": 2491.625,
+        "end": 2493.491,
+        "text": "Either way it's horrible."
+    },
+    {
+        "id": 272,
+        "start": 2497.197,
+        "end": 2501.065,
+        "text": "You must ferry across many people every day."
+    },
+    {
+        "id": 273,
+        "start": 2501.168,
+        "end": 2502.829,
+        "text": "That's right."
+    },
+    {
+        "id": 274,
+        "start": 2502.936,
+        "end": 2506.634,
+        "text": "You might have taken the killer!"
+    },
+    {
+        "id": 275,
+        "start": 2508.042,
+        "end": 2511.137,
+        "text": "Watch for anyone with a girl."
+    },
+    {
+        "id": 276,
+        "start": 2511.245,
+        "end": 2513.737,
+        "text": "When did it happen?"
+    },
+    {
+        "id": 277,
+        "start": 2513.847,
+        "end": 2516.179,
+        "text": "A couple of days ago."
+    },
+    {
+        "id": 278,
+        "start": 2659.827,
+        "end": 2663.354,
+        "text": "Are you okay now?"
+    },
+    {
+        "id": 279,
+        "start": 2665.232,
+        "end": 2667.2,
+        "text": "You look well now..."
+    },
+    {
+        "id": 280,
+        "start": 2668.235,
+        "end": 2669.999,
+        "text": "thanks to my medicine."
+    },
+    {
+        "id": 281,
+        "start": 2679.713,
+        "end": 2684.81,
+        "text": "I mix mugwort with bear bile."
+    },
+    {
+        "id": 282,
+        "start": 2692.826,
+        "end": 2694.055,
+        "text": "Do you..."
+    },
+    {
+        "id": 283,
+        "start": 2695.095,
+        "end": 2697.325,
+        "text": "remember drifting in the river?"
+    },
+    {
+        "id": 284,
+        "start": 2701.235,
+        "end": 2703.329,
+        "text": "I bet your family's worried."
+    },
+    {
+        "id": 285,
+        "start": 2706.974,
+        "end": 2710.774,
+        "text": "Why were you floating in the river?"
+    },
+    {
+        "id": 286,
+        "start": 2721.755,
+        "end": 2722.847,
+        "text": "What's your name?"
+    },
+    {
+        "id": 287,
+        "start": 2723.891,
+        "end": 2726.292,
+        "text": "You remember your name?"
+    },
+    {
+        "id": 288,
+        "start": 2732.399,
+        "end": 2734.834,
+        "text": "Did you come in a giant peach?"
+    },
+    {
+        "id": 289,
+        "start": 2750.784,
+        "end": 2754.311,
+        "text": "She won't even tell me her name."
+    },
+    {
+        "id": 290,
+        "start": 2755.823,
+        "end": 2758.053,
+        "text": "Maybe she can't remember?"
+    },
+    {
+        "id": 291,
+        "start": 2758.158,
+        "end": 2759.785,
+        "text": "Beats me."
+    },
+    {
+        "id": 292,
+        "start": 2761.328,
+        "end": 2763.262,
+        "text": "She stares at the river."
+    },
+    {
+        "id": 293,
+        "start": 2763.363,
+        "end": 2765.127,
+        "text": "Yes, all the time."
+    },
+    {
+        "id": 294,
+        "start": 2769.303,
+        "end": 2770.395,
+        "text": "Toichi."
+    },
+    {
+        "id": 295,
+        "start": 2771.772,
+        "end": 2775.402,
+        "text": "Is that girl on the rock related to you?"
+    },
+    {
+        "id": 296,
+        "start": 2775.509,
+        "end": 2777.102,
+        "text": "Yeah."
+    },
+    {
+        "id": 297,
+        "start": 2777.211,
+        "end": 2780.841,
+        "text": "I have to look after her for a while."
+    },
+    {
+        "id": 298,
+        "start": 2782.516,
+        "end": 2784.109,
+        "text": "Is that right?"
+    },
+    {
+        "id": 299,
+        "start": 2784.218,
+        "end": 2787.051,
+        "text": "Someone upstream asked me to"
+    },
+    {
+        "id": 300,
+        "start": 2787.154,
+        "end": 2789.35,
+        "text": "Just for a while."
+    },
+    {
+        "id": 301,
+        "start": 2791.091,
+        "end": 2792.957,
+        "text": "I see."
+    },
+    {
+        "id": 302,
+        "start": 2793.06,
+        "end": 2795.222,
+        "text": "I've never seen her around."
+    },
+    {
+        "id": 303,
+        "start": 2795.329,
+        "end": 2797.388,
+        "text": "It's complicated."
+    },
+    {
+        "id": 304,
+        "start": 2800.134,
+        "end": 2801.863,
+        "text": "She's a relative?"
+    },
+    {
+        "id": 305,
+        "start": 2801.969,
+        "end": 2804.461,
+        "text": "Something like that."
+    },
+    {
+        "id": 306,
+        "start": 2810.944,
+        "end": 2813.811,
+        "text": "Toichi, why did you lie to them?"
+    },
+    {
+        "id": 307,
+        "start": 2814.948,
+        "end": 2816.541,
+        "text": "I..."
+    },
+    {
+        "id": 308,
+        "start": 2816.85,
+        "end": 2820.912,
+        "text": "I couldn't say I found her in the river."
+    },
+    {
+        "id": 309,
+        "start": 2821.021,
+        "end": 2823.149,
+        "text": "I know but..."
+    },
+    {
+        "id": 310,
+        "start": 2823.257,
+        "end": 2825.089,
+        "text": "lying isn't the way to go."
+    },
+    {
+        "id": 311,
+        "start": 2828.962,
+        "end": 2832.364,
+        "text": "What will you gain from taking care of her?"
+    },
+    {
+        "id": 312,
+        "start": 2832.466,
+        "end": 2833.797,
+        "text": "You're right."
+    },
+    {
+        "id": 313,
+        "start": 2833.901,
+        "end": 2835.835,
+        "text": "It's okay now but..."
+    },
+    {
+        "id": 314,
+        "start": 2836.97,
+        "end": 2840.838,
+        "text": "the villagers will start getting suspicious."
+    },
+    {
+        "id": 315,
+        "start": 2842.176,
+        "end": 2844.873,
+        "text": "Rumors will start."
+    },
+    {
+        "id": 316,
+        "start": 2885.452,
+        "end": 2887.045,
+        "text": "You!"
+    },
+    {
+        "id": 317,
+        "start": 2888.088,
+        "end": 2889.988,
+        "text": "I saw you before."
+    },
+    {
+        "id": 318,
+        "start": 2891.992,
+        "end": 2896.589,
+        "text": "You were on the other side of the river."
+    },
+    {
+        "id": 319,
+        "start": 2896.897,
+        "end": 2898.558,
+        "text": "You live around here?"
+    },
+    {
+        "id": 320,
+        "start": 2898.665,
+        "end": 2903.432,
+        "text": "No, I don't live around here."
+    },
+    {
+        "id": 321,
+        "start": 2903.537,
+        "end": 2904.936,
+        "text": "You don't!"
+    },
+    {
+        "id": 322,
+        "start": 2905.973,
+        "end": 2907.566,
+        "text": "But..."
+    },
+    {
+        "id": 323,
+        "start": 2907.675,
+        "end": 2910.372,
+        "text": "I know a lot about you."
+    },
+    {
+        "id": 324,
+        "start": 2911.612,
+        "end": 2914.206,
+        "text": "About me?"
+    },
+    {
+        "id": 325,
+        "start": 2914.315,
+        "end": 2917.046,
+        "text": "I've been watching you."
+    },
+    {
+        "id": 326,
+        "start": 2917.151,
+        "end": 2919.882,
+        "text": "I know a lot about you."
+    },
+    {
+        "id": 327,
+        "start": 3006.306,
+        "end": 3008.468,
+        "text": "Gone? She's gone?"
+    },
+    {
+        "id": 328,
+        "start": 3008.575,
+        "end": 3010.737,
+        "text": "I woke up and she was gone."
+    },
+    {
+        "id": 329,
+        "start": 3011.045,
+        "end": 3012.41,
+        "text": "Oh right."
+    },
+    {
+        "id": 330,
+        "start": 3012.513,
+        "end": 3015.744,
+        "text": "I was worried for nothing."
+    },
+    {
+        "id": 331,
+        "start": 3019.119,
+        "end": 3024.182,
+        "text": "Toichi, I'll be off early today. I'll see you soon."
+    },
+    {
+        "id": 332,
+        "start": 3244.978,
+        "end": 3247.879,
+        "text": "Am I in the right spot?"
+    },
+    {
+        "id": 333,
+        "start": 3247.981,
+        "end": 3251.645,
+        "text": "I need to go across to the village."
+    },
+    {
+        "id": 334,
+        "start": 3252.686,
+        "end": 3255.656,
+        "text": "I was told I could cross here."
+    },
+    {
+        "id": 335,
+        "start": 3259.026,
+        "end": 3261.893,
+        "text": "Can you take me there?"
+    },
+    {
+        "id": 336,
+        "start": 3261.996,
+        "end": 3263.43,
+        "text": "Yes, sir."
+    },
+    {
+        "id": 337,
+        "start": 3264.865,
+        "end": 3267.459,
+        "text": " Please get in.  Okay."
+    },
+    {
+        "id": 338,
+        "start": 3271.405,
+        "end": 3272.463,
+        "text": "You're the boatman?"
+    },
+    {
+        "id": 339,
+        "start": 3272.573,
+        "end": 3275.804,
+        "text": "Yes, sir. In the center, please."
+    },
+    {
+        "id": 340,
+        "start": 3275.91,
+        "end": 3278.845,
+        "text": "I thought I'd have to row myself."
+    },
+    {
+        "id": 341,
+        "start": 3285.953,
+        "end": 3287.318,
+        "text": "Is it hard?"
+    },
+    {
+        "id": 342,
+        "start": 3287.421,
+        "end": 3288.354,
+        "text": "Sorry?"
+    },
+    {
+        "id": 343,
+        "start": 3288.455,
+        "end": 3291.857,
+        "text": "You row the boat every day?"
+    },
+    {
+        "id": 344,
+        "start": 3291.959,
+        "end": 3293.358,
+        "text": "Yes, sir."
+    },
+    {
+        "id": 345,
+        "start": 3297.431,
+        "end": 3300.298,
+        "text": "It must be tough in this heat."
+    },
+    {
+        "id": 346,
+        "start": 3300.401,
+        "end": 3303.894,
+        "text": "There's nothing else I can do."
+    },
+    {
+        "id": 347,
+        "start": 3304.004,
+        "end": 3308.532,
+        "text": "Rowing boats is all I'm capable of."
+    },
+    {
+        "id": 348,
+        "start": 3308.642,
+        "end": 3311.805,
+        "text": " You can make a living?  Sort of."
+    },
+    {
+        "id": 349,
+        "start": 3311.912,
+        "end": 3313.505,
+        "text": "You get paid?"
+    },
+    {
+        "id": 350,
+        "start": 3313.614,
+        "end": 3319.712,
+        "text": "Yes, sir. I don't charge the villagers though."
+    },
+    {
+        "id": 351,
+        "start": 3319.82,
+        "end": 3323.313,
+        "text": "I charge city folk five rin."
+    },
+    {
+        "id": 352,
+        "start": 3323.424,
+        "end": 3325.017,
+        "text": "Oh, okay."
+    },
+    {
+        "id": 353,
+        "start": 3325.325,
+        "end": 3327.521,
+        "text": "Pay me when we get there."
+    },
+    {
+        "id": 354,
+        "start": 3329.463,
+        "end": 3330.726,
+        "text": "I see."
+    },
+    {
+        "id": 355,
+        "start": 3334.968,
+        "end": 3336.595,
+        "text": "So do you have..."
+    },
+    {
+        "id": 356,
+        "start": 3337.938,
+        "end": 3339.702,
+        "text": "many passengers?"
+    },
+    {
+        "id": 357,
+        "start": 3339.807,
+        "end": 3344.335,
+        "text": "There used to be a lot of passengers."
+    },
+    {
+        "id": 358,
+        "start": 3344.445,
+        "end": 3346.379,
+        "text": "Not anymore?"
+    },
+    {
+        "id": 359,
+        "start": 3346.48,
+        "end": 3347.743,
+        "text": "No."
+    },
+    {
+        "id": 360,
+        "start": 3347.848,
+        "end": 3352.843,
+        "text": "See the rock over there? I heard there was"
+    },
+    {
+        "id": 361,
+        "start": 3352.953,
+        "end": 3356.389,
+        "text": "another boat there."
+    },
+    {
+        "id": 362,
+        "start": 3356.49,
+        "end": 3358.584,
+        "text": "Ah, over there?"
+    },
+    {
+        "id": 363,
+        "start": 3360.661,
+        "end": 3363.995,
+        "text": "Oh, I could've crossed the bridge!"
+    },
+    {
+        "id": 364,
+        "start": 3364.098,
+        "end": 3367.932,
+        "text": "The bridge hasn't been completed yet."
+    },
+    {
+        "id": 365,
+        "start": 3368.035,
+        "end": 3371.096,
+        "text": "Right. They're still working on it."
+    },
+    {
+        "id": 366,
+        "start": 3372.74,
+        "end": 3377.94,
+        "text": "Once it's done, it'll make things easier."
+    },
+    {
+        "id": 367,
+        "start": 3379.079,
+        "end": 3381.707,
+        "text": "I guess the area will get busier."
+    },
+    {
+        "id": 368,
+        "start": 3381.815,
+        "end": 3383.544,
+        "text": "I guess so, sir."
+    },
+    {
+        "id": 369,
+        "start": 3389.59,
+        "end": 3392.025,
+        "text": "But then..."
+    },
+    {
+        "id": 370,
+        "start": 3392.126,
+        "end": 3394.652,
+        "text": "you'll lose your job."
+    },
+    {
+        "id": 371,
+        "start": 3394.762,
+        "end": 3397.663,
+        "text": "Well I don't know, sir."
+    },
+    {
+        "id": 372,
+        "start": 3397.765,
+        "end": 3400.666,
+        "text": "If it's there, I guess folks will use it."
+    },
+    {
+        "id": 373,
+        "start": 3400.768,
+        "end": 3403.396,
+        "text": "It'll be convenient"
+    },
+    {
+        "id": 374,
+        "start": 3403.504,
+        "end": 3404.994,
+        "text": "for everyone."
+    },
+    {
+        "id": 375,
+        "start": 3405.105,
+        "end": 3411.67,
+        "text": "What's important is that folks can commute with no trouble."
+    },
+    {
+        "id": 376,
+        "start": 3414.581,
+        "end": 3417.107,
+        "text": "So I wouldn't worry about myself."
+    },
+    {
+        "id": 377,
+        "start": 3417.418,
+        "end": 3419.113,
+        "text": "Right."
+    },
+    {
+        "id": 378,
+        "start": 3419.42,
+        "end": 3423.084,
+        "text": "As they say, nothing stays the same."
+    },
+    {
+        "id": 379,
+        "start": 3424.124,
+        "end": 3426.115,
+        "text": "Life's hard."
+    },
+    {
+        "id": 380,
+        "start": 3427.594,
+        "end": 3429.562,
+        "text": " Here we are.  Yes, sir."
+    },
+    {
+        "id": 381,
+        "start": 3434.034,
+        "end": 3435.468,
+        "text": "Go ahead."
+    },
+    {
+        "id": 382,
+        "start": 3435.569,
+        "end": 3438.561,
+        "text": "Thank you. Oh, I have to pay."
+    },
+    {
+        "id": 383,
+        "start": 3445.613,
+        "end": 3446.739,
+        "text": "Thank you, sir."
+    },
+    {
+        "id": 384,
+        "start": 3447.815,
+        "end": 3449.01,
+        "text": " Thank you! "
+    },
+    {
+        "id": 385,
+        "start": 3450.584,
+        "end": 3453.781,
+        "text": "It was nice. Will you be here later?"
+    },
+    {
+        "id": 386,
+        "start": 3453.887,
+        "end": 3456.481,
+        "text": "Yes, sir, I'll be here."
+    },
+    {
+        "id": 387,
+        "start": 3456.59,
+        "end": 3459.582,
+        "text": "If you can't find me, check the hut."
+    },
+    {
+        "id": 388,
+        "start": 3459.693,
+        "end": 3461.422,
+        "text": "I'll do that!"
+    },
+    {
+        "id": 389,
+        "start": 3462.93,
+        "end": 3466.867,
+        "text": "The river is nice. I'll see you when I return."
+    },
+    {
+        "id": 390,
+        "start": 3473.807,
+        "end": 3476.708,
+        "text": "Boatman! We need to cross."
+    },
+    {
+        "id": 391,
+        "start": 3479.079,
+        "end": 3484.449,
+        "text": "It's her ass... She's an ugly bitch but what an ass."
+    },
+    {
+        "id": 392,
+        "start": 3485.886,
+        "end": 3488.651,
+        "text": "Hey, how about you?"
+    },
+    {
+        "id": 393,
+        "start": 3489.69,
+        "end": 3491.749,
+        "text": "You ever got laid?"
+    },
+    {
+        "id": 394,
+        "start": 3491.859,
+        "end": 3493.725,
+        "text": " Me?  You."
+    },
+    {
+        "id": 395,
+        "start": 3494.995,
+        "end": 3498.09,
+        "text": "You row a stupid boat all day."
+    },
+    {
+        "id": 396,
+        "start": 3498.199,
+        "end": 3499.826,
+        "text": "I guess not!"
+    },
+    {
+        "id": 397,
+        "start": 3499.933,
+        "end": 3501.492,
+        "text": "Of course not!"
+    },
+    {
+        "id": 398,
+        "start": 3501.602,
+        "end": 3504.594,
+        "text": "An ugly old man like you has no chancel!"
+    },
+    {
+        "id": 399,
+        "start": 3504.705,
+        "end": 3508.835,
+        "text": "And it costs money to get laid."
+    },
+    {
+        "id": 400,
+        "start": 3510.177,
+        "end": 3514.614,
+        "text": "Girls wouldn't do you. You're too spooky."
+    },
+    {
+        "id": 401,
+        "start": 3514.715,
+        "end": 3516.979,
+        "text": "I wouldn't if I was a girl."
+    },
+    {
+        "id": 402,
+        "start": 3517.084,
+        "end": 3520.054,
+        "text": "I wouldn't do you if you were a girl!"
+    },
+    {
+        "id": 403,
+        "start": 3522.089,
+        "end": 3524.615,
+        "text": "You smell like a corpse."
+    },
+    {
+        "id": 404,
+        "start": 3524.725,
+        "end": 3527.49,
+        "text": "Lay off. It's depressing."
+    },
+    {
+        "id": 405,
+        "start": 3527.594,
+        "end": 3529.926,
+        "text": "Think about it, boatman."
+    },
+    {
+        "id": 406,
+        "start": 3530.03,
+        "end": 3531.759,
+        "text": "What we do every day..."
+    },
+    {
+        "id": 407,
+        "start": 3531.865,
+        "end": 3536.496,
+        "text": "We put our blood, sweat and tears into that bridge."
+    },
+    {
+        "id": 408,
+        "start": 3536.604,
+        "end": 3538.504,
+        "text": "Show us gratitude!"
+    },
+    {
+        "id": 409,
+        "start": 3538.605,
+        "end": 3543.805,
+        "text": "The villagers are very grateful, sirs."
+    },
+    {
+        "id": 410,
+        "start": 3543.911,
+        "end": 3546.846,
+        "text": "They can't wait for it to be finished."
+    },
+    {
+        "id": 411,
+        "start": 3546.947,
+        "end": 3549.279,
+        "text": "Of course."
+    },
+    {
+        "id": 412,
+        "start": 3549.583,
+        "end": 3551.051,
+        "text": "How about you?"
+    },
+    {
+        "id": 413,
+        "start": 3552.286,
+        "end": 3557.087,
+        "text": "I'm asking about you. Not the villagers."
+    },
+    {
+        "id": 414,
+        "start": 3557.191,
+        "end": 3559.626,
+        "text": "Will you be happy when it's made?"
+    },
+    {
+        "id": 415,
+        "start": 3559.726,
+        "end": 3562.752,
+        "text": "Yes. I'm looking forward to it."
+    },
+    {
+        "id": 416,
+        "start": 3562.863,
+        "end": 3566.8,
+        "text": "Then we'll make it sooner for you."
+    },
+    {
+        "id": 417,
+        "start": 3566.9,
+        "end": 3572.134,
+        "text": "The villagers will be glad not to use this dirty boat any more."
+    },
+    {
+        "id": 418,
+        "start": 3576.343,
+        "end": 3579.973,
+        "text": "Useless things disappear."
+    },
+    {
+        "id": 419,
+        "start": 3580.08,
+        "end": 3581.809,
+        "text": "Understand?"
+    },
+    {
+        "id": 420,
+        "start": 3599.032,
+        "end": 3602.263,
+        "text": "Useless things disappear."
+    },
+    {
+        "id": 421,
+        "start": 3602.369,
+        "end": 3604.895,
+        "text": "Useless things disappear."
+    },
+    {
+        "id": 422,
+        "start": 3605.005,
+        "end": 3607.599,
+        "text": "Useless things disappear."
+    },
+    {
+        "id": 423,
+        "start": 3607.708,
+        "end": 3610.973,
+        "text": "Useless things disappear."
+    },
+    {
+        "id": 424,
+        "start": 3611.078,
+        "end": 3615.174,
+        "text": "Once it's done, it'll make things easier."
+    },
+    {
+        "id": 425,
+        "start": 3615.282,
+        "end": 3620.277,
+        "text": "Once it's done, it'll make things easier."
+    },
+    {
+        "id": 426,
+        "start": 3625.325,
+        "end": 3628.124,
+        "text": "But then you'll lose your job."
+    },
+    {
+        "id": 427,
+        "start": 3628.229,
+        "end": 3631.028,
+        "text": "But then you'll lose your job."
+    },
+    {
+        "id": 428,
+        "start": 3633.667,
+        "end": 3635.328,
+        "text": "They say it'll be convenient."
+    },
+    {
+        "id": 429,
+        "start": 3635.636,
+        "end": 3638.037,
+        "text": "They say it'll be convenient."
+    },
+    {
+        "id": 430,
+        "start": 3638.138,
+        "end": 3640.004,
+        "text": "We won't need your boat."
+    },
+    {
+        "id": 431,
+        "start": 3640.107,
+        "end": 3642.599,
+        "text": "We won't need your boat."
+    },
+    {
+        "id": 432,
+        "start": 3645.679,
+        "end": 3647.977,
+        "text": "You're too spooky."
+    },
+    {
+        "id": 433,
+        "start": 3648.082,
+        "end": 3650.016,
+        "text": "You're too spooky."
+    },
+    {
+        "id": 434,
+        "start": 3650.117,
+        "end": 3652.347,
+        "text": "We'll make it sooner for you."
+    },
+    {
+        "id": 435,
+        "start": 3652.653,
+        "end": 3654.815,
+        "text": "We'll make it sooner for you."
+    },
+    {
+        "id": 436,
+        "start": 3654.922,
+        "end": 3658.017,
+        "text": "That bridge will be bad for you!"
+    },
+    {
+        "id": 437,
+        "start": 3658.125,
+        "end": 3660.992,
+        "text": "That bridge will be bad for you!"
+    },
+    {
+        "id": 438,
+        "start": 3661.095,
+        "end": 3663.655,
+        "text": "Let's destroy the bridge before it's done."
+    },
+    {
+        "id": 439,
+        "start": 3663.764,
+        "end": 3666.256,
+        "text": "Let's destroy the bridge before it's done."
+    },
+    {
+        "id": 440,
+        "start": 3666.367,
+        "end": 3668.995,
+        "text": "Let's destroy the bridge before it's done."
+    },
+    {
+        "id": 441,
+        "start": 3669.103,
+        "end": 3671.731,
+        "text": "Let's destroy the bridge before it's done."
+    },
+    {
+        "id": 442,
+        "start": 3671.839,
+        "end": 3674.274,
+        "text": "Let's destroy the bridge before it's done."
+    },
+    {
+        "id": 443,
+        "start": 3674.375,
+        "end": 3676.275,
+        "text": "Let's destroy the bridge before it's done."
+    },
+    {
+        "id": 444,
+        "start": 3791.425,
+        "end": 3792.95,
+        "text": "Hello!"
+    },
+    {
+        "id": 445,
+        "start": 3796.864,
+        "end": 3802.132,
+        "text": "You look dazed, boatman. Are you all right?"
+    },
+    {
+        "id": 446,
+        "start": 3802.236,
+        "end": 3805.171,
+        "text": " Sorry.  Weren't you listening?"
+    },
+    {
+        "id": 447,
+        "start": 3805.272,
+        "end": 3809.038,
+        "text": "You said that the village was quite pretty."
+    },
+    {
+        "id": 448,
+        "start": 3809.142,
+        "end": 3812.976,
+        "text": "I said that before I got on the boat."
+    },
+    {
+        "id": 449,
+        "start": 3814.314,
+        "end": 3817.841,
+        "text": "Come on, I give up!"
+    },
+    {
+        "id": 450,
+        "start": 3817.951,
+        "end": 3821.114,
+        "text": "You really weren't listening."
+    },
+    {
+        "id": 451,
+        "start": 3821.221,
+        "end": 3822.416,
+        "text": "I'm sorry."
+    },
+    {
+        "id": 452,
+        "start": 3823.991,
+        "end": 3827.086,
+        "text": "You asked me why I went to the village."
+    },
+    {
+        "id": 453,
+        "start": 3828.495,
+        "end": 3833.296,
+        "text": "I told you that I was going to see my patients."
+    },
+    {
+        "id": 454,
+        "start": 3836.27,
+        "end": 3839.57,
+        "text": "Do you remember that?"
+    },
+    {
+        "id": 455,
+        "start": 3839.874,
+        "end": 3841.399,
+        "text": "Certainly..."
+    },
+    {
+        "id": 456,
+        "start": 3842.443,
+        "end": 3845.97,
+        "text": "Oh boy, you don't look like you do."
+    },
+    {
+        "id": 457,
+        "start": 3852.019,
+        "end": 3854.01,
+        "text": " So?  Sir?"
+    },
+    {
+        "id": 458,
+        "start": 3854.121,
+        "end": 3858.285,
+        "text": " Should I continue?  Please do."
+    },
+    {
+        "id": 459,
+        "start": 3858.392,
+        "end": 3860.884,
+        "text": "I lost my enthusiasm..."
+    },
+    {
+        "id": 460,
+        "start": 3860.995,
+        "end": 3864.397,
+        "text": "I'm sorry. I was preoccupied."
+    },
+    {
+        "id": 461,
+        "start": 3864.498,
+        "end": 3866.466,
+        "text": "You can do the talking."
+    },
+    {
+        "id": 462,
+        "start": 3866.567,
+        "end": 3868.365,
+        "text": "No, really..."
+    },
+    {
+        "id": 463,
+        "start": 3870.037,
+        "end": 3872.165,
+        "text": "Where was I?"
+    },
+    {
+        "id": 464,
+        "start": 3872.273,
+        "end": 3875.14,
+        "text": "You know Nihei's father, right?"
+    },
+    {
+        "id": 465,
+        "start": 3875.242,
+        "end": 3879.839,
+        "text": "Yes, Nihei gave me potatoes the other day."
+    },
+    {
+        "id": 466,
+        "start": 3879.947,
+        "end": 3882.109,
+        "text": "You told me that already!"
+    },
+    {
+        "id": 467,
+        "start": 3882.216,
+        "end": 3885.242,
+        "text": "Nihei's father and I go back."
+    },
+    {
+        "id": 468,
+        "start": 3885.352,
+        "end": 3889.983,
+        "text": "His legs are getting weak and he has a bad cold."
+    },
+    {
+        "id": 469,
+        "start": 3890.09,
+        "end": 3892.149,
+        "text": "That's not good."
+    },
+    {
+        "id": 470,
+        "start": 3892.259,
+        "end": 3895.456,
+        "text": "So I went over to see him."
+    },
+    {
+        "id": 471,
+        "start": 3896.53,
+        "end": 3899.465,
+        "text": "But then there were more patients."
+    },
+    {
+        "id": 472,
+        "start": 3899.566,
+        "end": 3903.366,
+        "text": "I ended up seeing a dozen patients!"
+    },
+    {
+        "id": 473,
+        "start": 3903.47,
+        "end": 3905.234,
+        "text": "I see."
+    },
+    {
+        "id": 474,
+        "start": 3907.107,
+        "end": 3910.236,
+        "text": "If a town doctor has an easy life"
+    },
+    {
+        "id": 475,
+        "start": 3910.344,
+        "end": 3912.574,
+        "text": "he's no longer a town doctor..."
+    },
+    {
+        "id": 476,
+        "start": 3916.25,
+        "end": 3921.586,
+        "text": "Whatever I say, you only halflisten to."
+    },
+    {
+        "id": 477,
+        "start": 3996.43,
+        "end": 3997.591,
+        "text": "Here."
+    },
+    {
+        "id": 478,
+        "start": 4059.059,
+        "end": 4062.12,
+        "text": "That doctor's got a screw loose."
+    },
+    {
+        "id": 479,
+        "start": 4062.229,
+        "end": 4065.13,
+        "text": "He needs this bag!"
+    },
+    {
+        "id": 480,
+        "start": 4065.232,
+        "end": 4069.1,
+        "text": "How can he forget something so important?"
+    },
+    {
+        "id": 481,
+        "start": 4069.203,
+        "end": 4072.571,
+        "text": "I think he's a great man."
+    },
+    {
+        "id": 482,
+        "start": 4072.673,
+        "end": 4077.736,
+        "text": "He comes all the way from town to see his patients."
+    },
+    {
+        "id": 483,
+        "start": 4077.845,
+        "end": 4079.244,
+        "text": "Right."
+    },
+    {
+        "id": 484,
+        "start": 4079.346,
+        "end": 4081.337,
+        "text": "It's really something."
+    },
+    {
+        "id": 485,
+        "start": 4082.383,
+        "end": 4085.114,
+        "text": "You've got a point there."
+    },
+    {
+        "id": 486,
+        "start": 4085.219,
+        "end": 4087.449,
+        "text": "We sure owe him a lot,"
+    },
+    {
+        "id": 487,
+        "start": 4088.489,
+        "end": 4092.221,
+        "text": "but it's not good to forget this!"
+    },
+    {
+        "id": 488,
+        "start": 4096.163,
+        "end": 4100.43,
+        "text": "The doctor left in the late afternoon."
+    },
+    {
+        "id": 489,
+        "start": 4100.534,
+        "end": 4104.732,
+        "text": "We only noticed his bag late at night."
+    },
+    {
+        "id": 490,
+        "start": 4105.772,
+        "end": 4110.107,
+        "text": "We would've noticed it sooner,"
+    },
+    {
+        "id": 491,
+        "start": 4110.211,
+        "end": 4115.24,
+        "text": "but he put it by a pot in the dark doorway."
+    },
+    {
+        "id": 492,
+        "start": 4116.417,
+        "end": 4119.546,
+        "text": "I wonder how he'll work today."
+    },
+    {
+        "id": 493,
+        "start": 4119.653,
+        "end": 4121.246,
+        "text": "Right?"
+    },
+    {
+        "id": 494,
+        "start": 4121.355,
+        "end": 4124.848,
+        "text": "It'd be strange if he saw patients without this."
+    },
+    {
+        "id": 495,
+        "start": 4136.603,
+        "end": 4141.097,
+        "text": "That man's going to deliver a bag to the doctor!"
+    },
+    {
+        "id": 496,
+        "start": 4142.376,
+        "end": 4147.212,
+        "text": "The doctor did his rounds here yesterday."
+    },
+    {
+        "id": 497,
+        "start": 4147.314,
+        "end": 4150.215,
+        "text": "He left his bag at that man's place."
+    },
+    {
+        "id": 498,
+        "start": 4151.585,
+        "end": 4155.385,
+        "text": "He's a bit of an odd character,"
+    },
+    {
+        "id": 499,
+        "start": 4156.49,
+        "end": 4157.548,
+        "text": "but..."
+    },
+    {
+        "id": 500,
+        "start": 4158.659,
+        "end": 4160.127,
+        "text": "I feel like..."
+    },
+    {
+        "id": 501,
+        "start": 4161.428,
+        "end": 4164.125,
+        "text": "he sees straight through me."
+    },
+    {
+        "id": 502,
+        "start": 4166.9,
+        "end": 4170.336,
+        "text": "The doctor said he'd come back."
+    },
+    {
+        "id": 503,
+        "start": 4173.307,
+        "end": 4178.211,
+        "text": "You should talk to him if you're still in pain."
+    },
+    {
+        "id": 504,
+        "start": 4180.18,
+        "end": 4182.615,
+        "text": "Do you have any pain?"
+    },
+    {
+        "id": 505,
+        "start": 4185.853,
+        "end": 4187.321,
+        "text": "No."
+    },
+    {
+        "id": 506,
+        "start": 4190.424,
+        "end": 4192.449,
+        "text": "Okay."
+    },
+    {
+        "id": 507,
+        "start": 4192.559,
+        "end": 4193.754,
+        "text": "He's a good man."
+    },
+    {
+        "id": 508,
+        "start": 4196.33,
+        "end": 4198.89,
+        "text": "You should consult him if you need to."
+    },
+    {
+        "id": 509,
+        "start": 4203.537,
+        "end": 4207.565,
+        "text": "My job is to help people cross the river."
+    },
+    {
+        "id": 510,
+        "start": 4209.944,
+        "end": 4212.276,
+        "text": "You can see that."
+    },
+    {
+        "id": 511,
+        "start": 4212.379,
+        "end": 4217.647,
+        "text": "Every day, I meet all sorts of people crossing the river."
+    },
+    {
+        "id": 512,
+        "start": 4217.751,
+        "end": 4223.383,
+        "text": "It makes me happy to help out folks a little."
+    },
+    {
+        "id": 513,
+        "start": 4226.46,
+        "end": 4227.894,
+        "text": "Well..."
+    },
+    {
+        "id": 514,
+        "start": 4229.863,
+        "end": 4234.198,
+        "text": "I guess it means nothing to you."
+    },
+    {
+        "id": 515,
+        "start": 4241.408,
+        "end": 4246.676,
+        "text": "I thought you went back home or something."
+    },
+    {
+        "id": 516,
+        "start": 4252.453,
+        "end": 4254.251,
+        "text": "You didn't go home?"
+    },
+    {
+        "id": 517,
+        "start": 4258.993,
+        "end": 4260.461,
+        "text": "Right."
+    },
+    {
+        "id": 518,
+        "start": 4261.528,
+        "end": 4263.462,
+        "text": "Do you have anywhere to go?"
+    },
+    {
+        "id": 519,
+        "start": 4268.535,
+        "end": 4269.9,
+        "text": "Right."
+    },
+    {
+        "id": 520,
+        "start": 4270.004,
+        "end": 4273.998,
+        "text": "Well, I have little to offer, but you can stay..."
+    },
+    {
+        "id": 521,
+        "start": 4276.81,
+        "end": 4278.744,
+        "text": "as long as you want."
+    },
+    {
+        "id": 522,
+        "start": 4279.947,
+        "end": 4284.407,
+        "text": "I live alone so you won't be putting me out."
+    },
+    {
+        "id": 523,
+        "start": 4289.056,
+        "end": 4293.789,
+        "text": "Toichi, how are you doing?"
+    },
+    {
+        "id": 524,
+        "start": 4293.894,
+        "end": 4295.589,
+        "text": "Genzo!"
+    },
+    {
+        "id": 525,
+        "start": 4295.696,
+        "end": 4297.027,
+        "text": "Going upstream?"
+    },
+    {
+        "id": 526,
+        "start": 4298.065,
+        "end": 4301.035,
+        "text": "No, not today."
+    },
+    {
+        "id": 527,
+        "start": 4307.341,
+        "end": 4308.57,
+        "text": "She came back?"
+    },
+    {
+        "id": 528,
+        "start": 4308.676,
+        "end": 4311.737,
+        "text": "Yes, last night."
+    },
+    {
+        "id": 529,
+        "start": 4311.845,
+        "end": 4313.438,
+        "text": "Right."
+    },
+    {
+        "id": 530,
+        "start": 4313.547,
+        "end": 4317.814,
+        "text": "Ah well... I brought some bean paste that someone gave me."
+    },
+    {
+        "id": 531,
+        "start": 4317.918,
+        "end": 4320.012,
+        "text": "I'll cook it on a hot rock."
+    },
+    {
+        "id": 532,
+        "start": 4320.321,
+        "end": 4322.756,
+        "text": "I thought I could give you some."
+    },
+    {
+        "id": 533,
+        "start": 4322.857,
+        "end": 4326.35,
+        "text": "Oh, I'd love that! Are you sure?"
+    },
+    {
+        "id": 534,
+        "start": 4326.46,
+        "end": 4329.452,
+        "text": "No problem. It'll last longer cooked."
+    },
+    {
+        "id": 535,
+        "start": 4329.563,
+        "end": 4331.793,
+        "text": "It goes with eggplants."
+    },
+    {
+        "id": 536,
+        "start": 4331.899,
+        "end": 4334.334,
+        "text": "And also this!"
+    },
+    {
+        "id": 537,
+        "start": 4334.435,
+        "end": 4337.063,
+        "text": "I have some millet to eat."
+    },
+    {
+        "id": 538,
+        "start": 4337.371,
+        "end": 4340.397,
+        "text": "Why don't you eat with us, Genzo?"
+    },
+    {
+        "id": 539,
+        "start": 4340.507,
+        "end": 4342.601,
+        "text": "You don't mind?"
+    },
+    {
+        "id": 540,
+        "start": 4342.71,
+        "end": 4345.577,
+        "text": "I never say no to kindness."
+    },
+    {
+        "id": 541,
+        "start": 4349.516,
+        "end": 4351.507,
+        "text": "I'll take care of the paste!"
+    },
+    {
+        "id": 542,
+        "start": 4360.527,
+        "end": 4364.589,
+        "text": "What's that smoke? You cooking?"
+    },
+    {
+        "id": 543,
+        "start": 4364.698,
+        "end": 4370.467,
+        "text": "Yes. Genzo dropped by, so we'll eat together."
+    },
+    {
+        "id": 544,
+        "start": 4370.571,
+        "end": 4372.699,
+        "text": "Oh, sorry to bother you."
+    },
+    {
+        "id": 545,
+        "start": 4375.075,
+        "end": 4377.407,
+        "text": "You want to join us, Nihei?"
+    },
+    {
+        "id": 546,
+        "start": 4377.511,
+        "end": 4379.98,
+        "text": "Thanks, but no thank you."
+    },
+    {
+        "id": 547,
+        "start": 4381.849,
+        "end": 4383.715,
+        "text": "I have to go back."
+    },
+    {
+        "id": 548,
+        "start": 4384.785,
+        "end": 4391.521,
+        "text": "My folks are waiting to know if I returned the bag."
+    },
+    {
+        "id": 549,
+        "start": 4392.66,
+        "end": 4396.426,
+        "text": "Right. How was the doctor?"
+    },
+    {
+        "id": 550,
+        "start": 4396.53,
+        "end": 4400.66,
+        "text": "Was he able to work without the bag?"
+    },
+    {
+        "id": 551,
+        "start": 4400.768,
+        "end": 4401.929,
+        "text": "Well..."
+    },
+    {
+        "id": 552,
+        "start": 4403.604,
+        "end": 4406.767,
+        "text": "He was like, \"Oh, I had no ideal\""
+    },
+    {
+        "id": 553,
+        "start": 4408.542,
+        "end": 4411.102,
+        "text": "But his maid told me that"
+    },
+    {
+        "id": 554,
+        "start": 4411.412,
+        "end": 4414.006,
+        "text": "he looked all over for the bag."
+    },
+    {
+        "id": 555,
+        "start": 4414.115,
+        "end": 4417.415,
+        "text": "He even sent his patients away."
+    },
+    {
+        "id": 556,
+        "start": 4417.518,
+        "end": 4421.614,
+        "text": "Right. It sounds like you saved him."
+    },
+    {
+        "id": 557,
+        "start": 4421.722,
+        "end": 4426.091,
+        "text": "What would he have done if I hadn't returned it?"
+    },
+    {
+        "id": 558,
+        "start": 4428.429,
+        "end": 4430.42,
+        "text": "He talked about you."
+    },
+    {
+        "id": 559,
+        "start": 4432.066,
+        "end": 4438.028,
+        "text": "He said, \"The boatman is quiet, but very humane.\""
+    },
+    {
+        "id": 560,
+        "start": 4438.138,
+        "end": 4439.697,
+        "text": "What's that mean?"
+    },
+    {
+        "id": 561,
+        "start": 4439.807,
+        "end": 4444.643,
+        "text": "Well I have no idea what he means."
+    },
+    {
+        "id": 562,
+        "start": 4444.745,
+        "end": 4448.579,
+        "text": "He offered to help you if you ever need it."
+    },
+    {
+        "id": 563,
+        "start": 4448.682,
+        "end": 4451.777,
+        "text": "That's so kind of him."
+    },
+    {
+        "id": 564,
+        "start": 4454.088,
+        "end": 4456.113,
+        "text": "Nihei."
+    },
+    {
+        "id": 565,
+        "start": 4456.223,
+        "end": 4460.524,
+        "text": "How about the rumor about the incident upstream?"
+    },
+    {
+        "id": 566,
+        "start": 4460.628,
+        "end": 4462.153,
+        "text": "What rumor?"
+    },
+    {
+        "id": 567,
+        "start": 4462.463,
+        "end": 4465.694,
+        "text": "I just overheard it but some folk"
+    },
+    {
+        "id": 568,
+        "start": 4465.8,
+        "end": 4468.895,
+        "text": "were killed in Ichinomiya."
+    },
+    {
+        "id": 569,
+        "start": 4469.002,
+        "end": 4470.697,
+        "text": "Pass me the paste."
+    },
+    {
+        "id": 570,
+        "start": 4471.739,
+        "end": 4473.901,
+        "text": "And this."
+    },
+    {
+        "id": 571,
+        "start": 4476.477,
+        "end": 4478.07,
+        "text": "To cook it."
+    },
+    {
+        "id": 572,
+        "start": 4479.747,
+        "end": 4480.976,
+        "text": "Like this."
+    },
+    {
+        "id": 573,
+        "start": 4487.154,
+        "end": 4489.714,
+        "text": "What a nice smell!"
+    },
+    {
+        "id": 574,
+        "start": 4489.823,
+        "end": 4492.053,
+        "text": "This is really delicious."
+    },
+    {
+        "id": 575,
+        "start": 4493.794,
+        "end": 4497.662,
+        "text": "They say cooked bean paste won't last three months."
+    },
+    {
+        "id": 576,
+        "start": 4497.765,
+        "end": 4500.632,
+        "text": "You can't stop eating it."
+    },
+    {
+        "id": 577,
+        "start": 4502.836,
+        "end": 4504.827,
+        "text": "You want a go?"
+    },
+    {
+        "id": 578,
+        "start": 4507.041,
+        "end": 4508.133,
+        "text": "Try it."
+    },
+    {
+        "id": 579,
+        "start": 4512.513,
+        "end": 4513.49,
+        "text": "On this one."
+    },
+    {
+        "id": 580,
+        "start": 4513.514,
+        "end": 4513.844,
+        "text": "On this one."
+    },
+    {
+        "id": 581,
+        "start": 4515.783,
+        "end": 4517.581,
+        "text": "Watch out!"
+    },
+    {
+        "id": 582,
+        "start": 4517.685,
+        "end": 4519.779,
+        "text": "If you don't,"
+    },
+    {
+        "id": 583,
+        "start": 4519.887,
+        "end": 4521.719,
+        "text": "you'll get burned!"
+    },
+    {
+        "id": 584,
+        "start": 4530.698,
+        "end": 4534.134,
+        "text": "I haven't seen her recently."
+    },
+    {
+        "id": 585,
+        "start": 4534.235,
+        "end": 4536.761,
+        "text": "She's been back for a while."
+    },
+    {
+        "id": 586,
+        "start": 4536.871,
+        "end": 4538.6,
+        "text": "Right."
+    },
+    {
+        "id": 587,
+        "start": 4540.14,
+        "end": 4543.542,
+        "text": "How's it going, Genzo?"
+    },
+    {
+        "id": 588,
+        "start": 4546.814,
+        "end": 4548.111,
+        "text": "Hey, Nihei!"
+    },
+    {
+        "id": 589,
+        "start": 4549.75,
+        "end": 4551.946,
+        "text": " On your way home?  Yes."
+    },
+    {
+        "id": 590,
+        "start": 4553.921,
+        "end": 4557.721,
+        "text": "I haven't seen your dad around. How is he?"
+    },
+    {
+        "id": 591,
+        "start": 4559.86,
+        "end": 4563.922,
+        "text": "He's in bed with a summer cold."
+    },
+    {
+        "id": 592,
+        "start": 4564.031,
+        "end": 4566.523,
+        "text": "He's getting old."
+    },
+    {
+        "id": 593,
+        "start": 4566.634,
+        "end": 4568.659,
+        "text": "Is that so?"
+    },
+    {
+        "id": 594,
+        "start": 4568.769,
+        "end": 4572.967,
+        "text": "Watch out. Summer colds can take a turn for the worse."
+    },
+    {
+        "id": 595,
+        "start": 4573.073,
+        "end": 4574.768,
+        "text": "Sure."
+    },
+    {
+        "id": 596,
+        "start": 4577.044,
+        "end": 4578.773,
+        "text": "Have you eaten?"
+    },
+    {
+        "id": 597,
+        "start": 4578.879,
+        "end": 4583.248,
+        "text": "Toichi invited me to join you, but I can't today."
+    },
+    {
+        "id": 598,
+        "start": 4583.35,
+        "end": 4585.842,
+        "text": "Are you sure?"
+    },
+    {
+        "id": 599,
+        "start": 4585.953,
+        "end": 4587.182,
+        "text": "What's that?"
+    },
+    {
+        "id": 600,
+        "start": 4588.689,
+        "end": 4589.656,
+        "text": "Bean paste."
+    },
+    {
+        "id": 601,
+        "start": 4589.757,
+        "end": 4591.691,
+        "text": "Is it grilled?"
+    },
+    {
+        "id": 602,
+        "start": 4591.792,
+        "end": 4593.123,
+        "text": "Sounds good."
+    },
+    {
+        "id": 603,
+        "start": 4593.227,
+        "end": 4596.561,
+        "text": "I'll bring you some later!"
+    },
+    {
+        "id": 604,
+        "start": 4596.664,
+        "end": 4599.998,
+        "text": "Only if you have leftovers."
+    },
+    {
+        "id": 605,
+        "start": 4600.101,
+        "end": 4603.662,
+        "text": "Don't overcook it. It'll stick to the rock."
+    },
+    {
+        "id": 606,
+        "start": 4603.771,
+        "end": 4605,
+        "text": "Sure thing!"
+    },
+    {
+        "id": 607,
+        "start": 4605.105,
+        "end": 4607.073,
+        "text": "Thanks, Toichi."
+    },
+    {
+        "id": 608,
+        "start": 4610.911,
+        "end": 4612.106,
+        "text": "The..."
+    },
+    {
+        "id": 609,
+        "start": 4614.081,
+        "end": 4615.913,
+        "text": "Take it off!"
+    },
+    {
+        "id": 610,
+        "start": 4616.016,
+        "end": 4617.093,
+        "text": "Get the paste off before it burns."
+    },
+    {
+        "id": 611,
+        "start": 4617.117,
+        "end": 4619.017,
+        "text": "Get the paste off before it burns."
+    },
+    {
+        "id": 612,
+        "start": 4620.22,
+        "end": 4623.588,
+        "text": "  See you, Genzo!  See ya! "
+    },
+    {
+        "id": 613,
+        "start": 4623.691,
+        "end": 4625.887,
+        "text": "Watch it! It's burning!"
+    },
+    {
+        "id": 614,
+        "start": 4630.965,
+        "end": 4635.368,
+        "text": "Today's meal is really impressive!"
+    },
+    {
+        "id": 615,
+        "start": 4635.669,
+        "end": 4637.728,
+        "text": "Thank you, Genzo."
+    },
+    {
+        "id": 616,
+        "start": 4637.838,
+        "end": 4642.298,
+        "text": "No worries, Toichi. Most of it's yours."
+    },
+    {
+        "id": 617,
+        "start": 4649.417,
+        "end": 4650.646,
+        "text": "Want this?"
+    },
+    {
+        "id": 618,
+        "start": 4673.207,
+        "end": 4674.834,
+        "text": "Is your village..."
+    },
+    {
+        "id": 619,
+        "start": 4676.243,
+        "end": 4677.87,
+        "text": "over that way?"
+    },
+    {
+        "id": 620,
+        "start": 4682.349,
+        "end": 4683.942,
+        "text": "This way then?"
+    },
+    {
+        "id": 621,
+        "start": 4688.723,
+        "end": 4691.09,
+        "text": "You came from upstream."
+    },
+    {
+        "id": 622,
+        "start": 4693.861,
+        "end": 4697.82,
+        "text": "So I think that's where your home is."
+    },
+    {
+        "id": 623,
+        "start": 4699.967,
+        "end": 4700.677,
+        "text": "Do you remember your village?"
+    },
+    {
+        "id": 624,
+        "start": 4700.701,
+        "end": 4704.763,
+        "text": "Do you remember your village?"
+    },
+    {
+        "id": 625,
+        "start": 4711.445,
+        "end": 4717.111,
+        "text": "It's okay. As long as you have some memories."
+    },
+    {
+        "id": 626,
+        "start": 4717.217,
+        "end": 4723.281,
+        "text": "A hit to the head can make you forget who you are."
+    },
+    {
+        "id": 627,
+        "start": 4727.227,
+        "end": 4728.956,
+        "text": "You remember, right?"
+    },
+    {
+        "id": 628,
+        "start": 4731.265,
+        "end": 4732.699,
+        "text": "No."
+    },
+    {
+        "id": 629,
+        "start": 4735.87,
+        "end": 4737.36,
+        "text": "You forgot?"
+    },
+    {
+        "id": 630,
+        "start": 4740.408,
+        "end": 4741.842,
+        "text": "Yes."
+    },
+    {
+        "id": 631,
+        "start": 4743.51,
+        "end": 4745.137,
+        "text": "Nothing at all?"
+    },
+    {
+        "id": 632,
+        "start": 4748.115,
+        "end": 4749.48,
+        "text": "Nothing."
+    },
+    {
+        "id": 633,
+        "start": 4769.303,
+        "end": 4773.171,
+        "text": "You know..."
+    },
+    {
+        "id": 634,
+        "start": 4775.075,
+        "end": 4778.409,
+        "text": "You can't remember, right?"
+    },
+    {
+        "id": 635,
+        "start": 4780.948,
+        "end": 4783.042,
+        "text": "Since when?"
+    },
+    {
+        "id": 636,
+        "start": 4787.488,
+        "end": 4788.887,
+        "text": "When?"
+    },
+    {
+        "id": 637,
+        "start": 4790.224,
+        "end": 4793.387,
+        "text": "Yes. I mean..."
+    },
+    {
+        "id": 638,
+        "start": 4795.229,
+        "end": 4797.095,
+        "text": "What do you remember?"
+    },
+    {
+        "id": 639,
+        "start": 4805.873,
+        "end": 4809.537,
+        "text": "What is your name?"
+    },
+    {
+        "id": 640,
+        "start": 4811.979,
+        "end": 4813.845,
+        "text": "Do you remember?"
+    },
+    {
+        "id": 641,
+        "start": 4817.451,
+        "end": 4820.887,
+        "text": "My name is Toichi."
+    },
+    {
+        "id": 642,
+        "start": 4822.323,
+        "end": 4824.018,
+        "text": "How about you?"
+    },
+    {
+        "id": 643,
+        "start": 4828.829,
+        "end": 4830.422,
+        "text": "You don't remember?"
+    },
+    {
+        "id": 644,
+        "start": 4836.871,
+        "end": 4838.1,
+        "text": "Well..."
+    },
+    {
+        "id": 645,
+        "start": 4842.109,
+        "end": 4843.543,
+        "text": "I'm sorry."
+    },
+    {
+        "id": 646,
+        "start": 4846.447,
+        "end": 4848.006,
+        "text": "I mean..."
+    },
+    {
+        "id": 647,
+        "start": 4852.553,
+        "end": 4854.351,
+        "text": "I'm sorry."
+    },
+    {
+        "id": 648,
+        "start": 4877.044,
+        "end": 4879.172,
+        "text": "No passengers today."
+    },
+    {
+        "id": 649,
+        "start": 4881.015,
+        "end": 4883.484,
+        "text": "I've never seen that girl!"
+    },
+    {
+        "id": 650,
+        "start": 4883.584,
+        "end": 4887.885,
+        "text": "What weird clothes! She must be a monster."
+    },
+    {
+        "id": 651,
+        "start": 4887.988,
+        "end": 4890.389,
+        "text": " Monster!  Die! Go away!"
+    },
+    {
+        "id": 652,
+        "start": 4891.959,
+        "end": 4894.121,
+        "text": "Sssh! Leave us alone!"
+    },
+    {
+        "id": 653,
+        "start": 4895.396,
+        "end": 4896.886,
+        "text": "Go on!"
+    },
+    {
+        "id": 654,
+        "start": 4918.519,
+        "end": 4923.548,
+        "text": "Do you think you've been in a boat before?"
+    },
+    {
+        "id": 655,
+        "start": 4926.093,
+        "end": 4927.652,
+        "text": "Do you want to try?"
+    },
+    {
+        "id": 656,
+        "start": 4929.496,
+        "end": 4931.396,
+        "text": "The boat?"
+    },
+    {
+        "id": 657,
+        "start": 4931.499,
+        "end": 4933.058,
+        "text": "Yes."
+    },
+    {
+        "id": 658,
+        "start": 4937.471,
+        "end": 4939.132,
+        "text": "Can I?"
+    },
+    {
+        "id": 659,
+        "start": 4941.442,
+        "end": 4943.035,
+        "text": "Okay."
+    },
+    {
+        "id": 660,
+        "start": 4946.047,
+        "end": 4949.073,
+        "text": "Let's go then."
+    },
+    {
+        "id": 661,
+        "start": 4950.384,
+        "end": 4951.647,
+        "text": "Yes."
+    },
+    {
+        "id": 662,
+        "start": 4953.053,
+        "end": 4955.488,
+        "text": "There are no passengers so..."
+    },
+    {
+        "id": 663,
+        "start": 4957.191,
+        "end": 4958.625,
+        "text": "Let's do it."
+    },
+    {
+        "id": 664,
+        "start": 4979.313,
+        "end": 4982.18,
+        "text": "There's some fish! See?"
+    },
+    {
+        "id": 665,
+        "start": 4982.283,
+        "end": 4987.084,
+        "text": "The river is calm here so the fish come out."
+    },
+    {
+        "id": 666,
+        "start": 4994.662,
+        "end": 4996.255,
+        "text": "Actually..."
+    },
+    {
+        "id": 667,
+        "start": 4997.431,
+        "end": 4999.126,
+        "text": "it's Fu."
+    },
+    {
+        "id": 668,
+        "start": 5001.168,
+        "end": 5004.695,
+        "text": "That's what it is. It's Fu."
+    },
+    {
+        "id": 669,
+        "start": 5007.207,
+        "end": 5011.303,
+        "text": "You mean your name?"
+    },
+    {
+        "id": 670,
+        "start": 5102.503,
+        "end": 5105.768,
+        "text": "You mean, she's not that girl?"
+    },
+    {
+        "id": 671,
+        "start": 5105.873,
+        "end": 5109.707,
+        "text": "No one's even heard that story you told me."
+    },
+    {
+        "id": 672,
+        "start": 5111.178,
+        "end": 5113.51,
+        "text": "Nothing about any murders..."
+    },
+    {
+        "id": 673,
+        "start": 5113.614,
+        "end": 5115.412,
+        "text": "I see."
+    },
+    {
+        "id": 674,
+        "start": 5115.516,
+        "end": 5118.713,
+        "text": "Thank you for visiting Ichinomiya for me."
+    },
+    {
+        "id": 675,
+        "start": 5122.756,
+        "end": 5124.155,
+        "text": "Wind?"
+    },
+    {
+        "id": 676,
+        "start": 5125.426,
+        "end": 5127.224,
+        "text": "Your name..."
+    },
+    {
+        "id": 677,
+        "start": 5128.896,
+        "end": 5133.493,
+        "text": "If your name is Fu, it might mean wind."
+    },
+    {
+        "id": 678,
+        "start": 5135.402,
+        "end": 5136.699,
+        "text": "Why?"
+    },
+    {
+        "id": 679,
+        "start": 5138.138,
+        "end": 5142.439,
+        "text": "No reason, but it might be what your name means."
+    },
+    {
+        "id": 680,
+        "start": 5143.911,
+        "end": 5145.538,
+        "text": "Wind..."
+    },
+    {
+        "id": 681,
+        "start": 5147.314,
+        "end": 5150.716,
+        "text": "Yes. It's possible."
+    },
+    {
+        "id": 682,
+        "start": 5163.931,
+        "end": 5165.456,
+        "text": "How about Toichi?"
+    },
+    {
+        "id": 683,
+        "start": 5168.602,
+        "end": 5170.263,
+        "text": "My name?"
+    },
+    {
+        "id": 684,
+        "start": 5176.577,
+        "end": 5177.874,
+        "text": "I don't know..."
+    },
+    {
+        "id": 685,
+        "start": 5179.513,
+        "end": 5180.657,
+        "text": "Maybe Toichi doesn't mean anything."
+    },
+    {
+        "id": 686,
+        "start": 5180.681,
+        "end": 5184.242,
+        "text": "Maybe Toichi doesn't mean anything."
+    },
+    {
+        "id": 687,
+        "start": 5185.419,
+        "end": 5187.513,
+        "text": "It doesn't?"
+    },
+    {
+        "id": 688,
+        "start": 5187.621,
+        "end": 5189.35,
+        "text": "I don't know."
+    },
+    {
+        "id": 689,
+        "start": 5192.46,
+        "end": 5195.157,
+        "text": "If Fu is wind,"
+    },
+    {
+        "id": 690,
+        "start": 5195.262,
+        "end": 5196.923,
+        "text": "what is Toichi?"
+    },
+    {
+        "id": 691,
+        "start": 5199.233,
+        "end": 5202.498,
+        "text": "I've never thought about it."
+    },
+    {
+        "id": 692,
+        "start": 5202.603,
+        "end": 5203.798,
+        "text": "Why not?"
+    },
+    {
+        "id": 693,
+        "start": 5208.642,
+        "end": 5211.168,
+        "text": "You think about my name,"
+    },
+    {
+        "id": 694,
+        "start": 5211.278,
+        "end": 5213.77,
+        "text": "but not yours?"
+    },
+    {
+        "id": 695,
+        "start": 5213.881,
+        "end": 5215.747,
+        "text": "That's how it goes."
+    },
+    {
+        "id": 696,
+        "start": 5216.951,
+        "end": 5218.715,
+        "text": "Really."
+    },
+    {
+        "id": 697,
+        "start": 5230.898,
+        "end": 5236.2,
+        "text": "I thought it'd be interesting if your name meant wind."
+    },
+    {
+        "id": 698,
+        "start": 5238.005,
+        "end": 5239.837,
+        "text": "You know?"
+    },
+    {
+        "id": 699,
+        "start": 5239.94,
+        "end": 5243.899,
+        "text": "The wind can make the river flow faster."
+    },
+    {
+        "id": 700,
+        "start": 5244.945,
+        "end": 5247.937,
+        "text": "It even changes the river's character."
+    },
+    {
+        "id": 701,
+        "start": 5250.284,
+        "end": 5253.686,
+        "text": "If I'm a boatman and you're the wind"
+    },
+    {
+        "id": 702,
+        "start": 5253.788,
+        "end": 5256.485,
+        "text": "I thought it'd be interesting."
+    },
+    {
+        "id": 703,
+        "start": 5315.316,
+        "end": 5319.31,
+        "text": "Thank you. Can you stack them there?"
+    },
+    {
+        "id": 704,
+        "start": 5346.58,
+        "end": 5347.911,
+        "text": "Wipe it for me."
+    },
+    {
+        "id": 705,
+        "start": 5385.653,
+        "end": 5387.052,
+        "text": "Watch your step."
+    },
+    {
+        "id": 706,
+        "start": 5387.154,
+        "end": 5389.589,
+        "text": "Thank you."
+    },
+    {
+        "id": 707,
+        "start": 5393.427,
+        "end": 5394.861,
+        "text": "Go easy."
+    },
+    {
+        "id": 708,
+        "start": 5403.771,
+        "end": 5405.535,
+        "text": "You want to come?"
+    },
+    {
+        "id": 709,
+        "start": 5416.684,
+        "end": 5418.584,
+        "text": "It's almost finished?"
+    },
+    {
+        "id": 710,
+        "start": 5418.686,
+        "end": 5421.849,
+        "text": "Looks that way, ma'am."
+    },
+    {
+        "id": 711,
+        "start": 5421.956,
+        "end": 5424.755,
+        "text": "They have more people working on it."
+    },
+    {
+        "id": 712,
+        "start": 5424.858,
+        "end": 5427.793,
+        "text": "They look busy lately."
+    },
+    {
+        "id": 713,
+        "start": 5428.929,
+        "end": 5433.696,
+        "text": "I hope we can use it by autumn."
+    },
+    {
+        "id": 714,
+        "start": 5433.801,
+        "end": 5436.566,
+        "text": "I hope so, too."
+    },
+    {
+        "id": 715,
+        "start": 5436.67,
+        "end": 5442.734,
+        "text": "Particularly with a baby, it'll make things easier."
+    },
+    {
+        "id": 716,
+        "start": 5480.114,
+        "end": 5482.64,
+        "text": "Boatman, can we cross the river?"
+    },
+    {
+        "id": 717,
+        "start": 5482.75,
+        "end": 5486.55,
+        "text": "Certainly. I'll get the boat ready."
+    },
+    {
+        "id": 718,
+        "start": 5493.861,
+        "end": 5495.955,
+        "text": " I hope it goes well.  Yes."
+    },
+    {
+        "id": 719,
+        "start": 5496.063,
+        "end": 5499.863,
+        "text": " You practiced?  Yes but it's not easy."
+    },
+    {
+        "id": 720,
+        "start": 5499.967,
+        "end": 5502.459,
+        "text": "It's difficult."
+    },
+    {
+        "id": 721,
+        "start": 5509.209,
+        "end": 5512.201,
+        "text": "  I want sugar candy.  Toffee for me! "
+    },
+    {
+        "id": 722,
+        "start": 5512.513,
+        "end": 5517.041,
+        "text": "Forget food! This is your first festival performance."
+    },
+    {
+        "id": 723,
+        "start": 5517.151,
+        "end": 5520.883,
+        "text": "I know but candy's better than flowers."
+    },
+    {
+        "id": 724,
+        "start": 5520.988,
+        "end": 5524.219,
+        "text": "You talk about food, men and..."
+    },
+    {
+        "id": 725,
+        "start": 5524.525,
+        "end": 5528.086,
+        "text": "How about focusing on your performance?"
+    },
+    {
+        "id": 726,
+        "start": 5528.195,
+        "end": 5529.959,
+        "text": "But it's a festival!"
+    },
+    {
+        "id": 727,
+        "start": 5534.001,
+        "end": 5536.8,
+        "text": "Thank you very much."
+    },
+    {
+        "id": 728,
+        "start": 5536.904,
+        "end": 5538.77,
+        "text": "Thank you."
+    },
+    {
+        "id": 729,
+        "start": 5567.034,
+        "end": 5568.832,
+        "text": "You want to try?"
+    },
+    {
+        "id": 730,
+        "start": 5570.638,
+        "end": 5572.834,
+        "text": "Over to the shore?"
+    },
+    {
+        "id": 731,
+        "start": 5591.325,
+        "end": 5594.59,
+        "text": "When I first started I was told"
+    },
+    {
+        "id": 732,
+        "start": 5595.796,
+        "end": 5600.233,
+        "text": "three days to use oars and three years for the pole."
+    },
+    {
+        "id": 733,
+        "start": 5600.334,
+        "end": 5603.668,
+        "text": "Poles are that difficult."
+    },
+    {
+        "id": 734,
+        "start": 5610.945,
+        "end": 5613.573,
+        "text": "Keep rowing."
+    },
+    {
+        "id": 735,
+        "start": 5613.681,
+        "end": 5615.046,
+        "text": "That's good."
+    },
+    {
+        "id": 736,
+        "start": 5637.404,
+        "end": 5639.115,
+        "text": "When the bridge is complete..."
+    },
+    {
+        "id": 737,
+        "start": 5639.139,
+        "end": 5640.937,
+        "text": "When the bridge is complete..."
+    },
+    {
+        "id": 738,
+        "start": 5645.179,
+        "end": 5648.114,
+        "text": "how different will it be?"
+    },
+    {
+        "id": 739,
+        "start": 5653.387,
+        "end": 5657.346,
+        "text": "Back when I started rowing boats"
+    },
+    {
+        "id": 740,
+        "start": 5657.658,
+        "end": 5661.185,
+        "text": "the river was much cleaner."
+    },
+    {
+        "id": 741,
+        "start": 5661.295,
+        "end": 5666.734,
+        "text": "I saw lots of fireflies at night."
+    },
+    {
+        "id": 742,
+        "start": 5666.834,
+        "end": 5669.804,
+        "text": "I bet you've seen fireflies?"
+    },
+    {
+        "id": 743,
+        "start": 5670.971,
+        "end": 5672.962,
+        "text": "Yes."
+    },
+    {
+        "id": 744,
+        "start": 5673.073,
+        "end": 5675.405,
+        "text": "According to the villagers,"
+    },
+    {
+        "id": 745,
+        "start": 5675.709,
+        "end": 5680.943,
+        "text": "fireflies only thrive in pristine water."
+    },
+    {
+        "id": 746,
+        "start": 5682.783,
+        "end": 5688.745,
+        "text": "And boy, those fireflies were beautiful!"
+    },
+    {
+        "id": 747,
+        "start": 5691.225,
+        "end": 5694.024,
+        "text": "But gradually..."
+    },
+    {
+        "id": 748,
+        "start": 5695.93,
+        "end": 5699.059,
+        "text": "there seem to be less fireflies."
+    },
+    {
+        "id": 749,
+        "start": 5702.069,
+        "end": 5703.264,
+        "text": "Why's that?"
+    },
+    {
+        "id": 750,
+        "start": 5705.773,
+        "end": 5707.07,
+        "text": "Well..."
+    },
+    {
+        "id": 751,
+        "start": 5708.108,
+        "end": 5709.872,
+        "text": "What do you mean?"
+    },
+    {
+        "id": 752,
+        "start": 5711.045,
+        "end": 5713.207,
+        "text": "Is the water dirty now?"
+    },
+    {
+        "id": 753,
+        "start": 5718.019,
+        "end": 5720.92,
+        "text": "Since they started building the bridge..."
+    },
+    {
+        "id": 754,
+        "start": 5723.19,
+        "end": 5725.215,
+        "text": "I don't see many fireflies."
+    },
+    {
+        "id": 755,
+        "start": 5730.497,
+        "end": 5732.465,
+        "text": "Poor fireflies."
+    },
+    {
+        "id": 756,
+        "start": 5734.134,
+        "end": 5738.696,
+        "text": "Bridges aren't important."
+    },
+    {
+        "id": 757,
+        "start": 5742.977,
+        "end": 5745.309,
+        "text": "I prefer fireflies to bridges."
+    },
+    {
+        "id": 758,
+        "start": 5747.414,
+        "end": 5749.007,
+        "text": "Fireflies and..."
+    },
+    {
+        "id": 759,
+        "start": 5750.117,
+        "end": 5752.313,
+        "text": "clean rivers are better."
+    },
+    {
+        "id": 760,
+        "start": 5755.489,
+        "end": 5759.323,
+        "text": "Me too. I prefer fireflies."
+    },
+    {
+        "id": 761,
+        "start": 5761.929,
+        "end": 5765.126,
+        "text": "But when something new comes along..."
+    },
+    {
+        "id": 762,
+        "start": 5766.834,
+        "end": 5772.136,
+        "text": "the old things go. That's how it is."
+    },
+    {
+        "id": 763,
+        "start": 5773.541,
+        "end": 5778.741,
+        "text": "Like a wind can send a boat out of control,"
+    },
+    {
+        "id": 764,
+        "start": 5778.846,
+        "end": 5783.044,
+        "text": "a breeze eventually changes the way of the world."
+    },
+    {
+        "id": 765,
+        "start": 5788.889,
+        "end": 5790.323,
+        "text": "It'd be better..."
+    },
+    {
+        "id": 766,
+        "start": 5791.492,
+        "end": 5793.961,
+        "text": "if there was no wind."
+    },
+    {
+        "id": 767,
+        "start": 5846.547,
+        "end": 5847.946,
+        "text": "Go ahead."
+    },
+    {
+        "id": 768,
+        "start": 5857.258,
+        "end": 5858.953,
+        "text": "It's rocking."
+    },
+    {
+        "id": 769,
+        "start": 5859.059,
+        "end": 5861.426,
+        "text": "Yes, the wind's strong today."
+    },
+    {
+        "id": 770,
+        "start": 5863.097,
+        "end": 5865.498,
+        "text": "I felt a drop."
+    },
+    {
+        "id": 771,
+        "start": 5866.867,
+        "end": 5869.359,
+        "text": "It might get stormy."
+    },
+    {
+        "id": 772,
+        "start": 5869.47,
+        "end": 5874.101,
+        "text": "Right. It's kind of unpredictable."
+    },
+    {
+        "id": 773,
+        "start": 5899.166,
+        "end": 5903.103,
+        "text": "I guess no passengers will come in this rain."
+    },
+    {
+        "id": 774,
+        "start": 5913.681,
+        "end": 5915.445,
+        "text": "What are you making?"
+    },
+    {
+        "id": 775,
+        "start": 5916.483,
+        "end": 5919.976,
+        "text": "Oh, this thing..."
+    },
+    {
+        "id": 776,
+        "start": 5921.455,
+        "end": 5923.651,
+        "text": "Well, it's a..."
+    },
+    {
+        "id": 777,
+        "start": 5930.331,
+        "end": 5933.266,
+        "text": "I'll show you something nice."
+    },
+    {
+        "id": 778,
+        "start": 5939.406,
+        "end": 5941.238,
+        "text": "Is it treasure?"
+    },
+    {
+        "id": 779,
+        "start": 5941.342,
+        "end": 5943.538,
+        "text": "Something like that. Here."
+    },
+    {
+        "id": 780,
+        "start": 5963.998,
+        "end": 5965.329,
+        "text": "Beautiful, isn't it?"
+    },
+    {
+        "id": 781,
+        "start": 5966.733,
+        "end": 5968.997,
+        "text": "Someone gave it to me."
+    },
+    {
+        "id": 782,
+        "start": 5970.137,
+        "end": 5971.448,
+        "text": "That person is no longer around."
+    },
+    {
+        "id": 783,
+        "start": 5971.472,
+        "end": 5974.339,
+        "text": "That person is no longer around."
+    },
+    {
+        "id": 784,
+        "start": 5976.077,
+        "end": 5979.672,
+        "text": "The last time she crossed the river..."
+    },
+    {
+        "id": 785,
+        "start": 5981.348,
+        "end": 5983.077,
+        "text": "she gave it to me."
+    },
+    {
+        "id": 786,
+        "start": 5984.485,
+        "end": 5988.615,
+        "text": "She said she'd never come back here so"
+    },
+    {
+        "id": 787,
+        "start": 5989.657,
+        "end": 5992.092,
+        "text": "she wanted me to keep it."
+    },
+    {
+        "id": 788,
+        "start": 5992.193,
+        "end": 5994.321,
+        "text": "And never show anyone."
+    },
+    {
+        "id": 789,
+        "start": 5996.13,
+        "end": 5998.997,
+        "text": "It's a secret that she shared with me."
+    },
+    {
+        "id": 790,
+        "start": 6000.434,
+        "end": 6001.595,
+        "text": "Why?"
+    },
+    {
+        "id": 791,
+        "start": 6004.238,
+        "end": 6007.731,
+        "text": "Maybe it's that precious."
+    },
+    {
+        "id": 792,
+        "start": 6011.045,
+        "end": 6012.376,
+        "text": "You know..."
+    },
+    {
+        "id": 793,
+        "start": 6014.115,
+        "end": 6017.449,
+        "text": "Her face is stuck in my mind."
+    },
+    {
+        "id": 794,
+        "start": 6020.454,
+        "end": 6023.981,
+        "text": "I don't know why she gave me that picture but..."
+    },
+    {
+        "id": 795,
+        "start": 6025.726,
+        "end": 6027.626,
+        "text": "I can't forget her."
+    },
+    {
+        "id": 796,
+        "start": 6030.497,
+        "end": 6032.09,
+        "text": "She had..."
+    },
+    {
+        "id": 797,
+        "start": 6033.2,
+        "end": 6038.036,
+        "text": "a slight resemblance to the woman in the picture."
+    },
+    {
+        "id": 798,
+        "start": 6039.74,
+        "end": 6041.64,
+        "text": "How can I put it?"
+    },
+    {
+        "id": 799,
+        "start": 6044.311,
+        "end": 6046.279,
+        "text": "She was sorrowful."
+    },
+    {
+        "id": 800,
+        "start": 6049.517,
+        "end": 6051.212,
+        "text": "And..."
+    },
+    {
+        "id": 801,
+        "start": 6052.686,
+        "end": 6054.654,
+        "text": "her sorrow..."
+    },
+    {
+        "id": 802,
+        "start": 6056.457,
+        "end": 6058.789,
+        "text": "was unforgettable."
+    },
+    {
+        "id": 803,
+        "start": 6077.578,
+        "end": 6079.706,
+        "text": "Toichi!"
+    },
+    {
+        "id": 804,
+        "start": 6082.35,
+        "end": 6084.546,
+        "text": "It's me, Nihei!"
+    },
+    {
+        "id": 805,
+        "start": 6093.494,
+        "end": 6095.394,
+        "text": "What is it?"
+    },
+    {
+        "id": 806,
+        "start": 6095.496,
+        "end": 6098.056,
+        "text": "Why are you here in this rain?"
+    },
+    {
+        "id": 807,
+        "start": 6098.165,
+        "end": 6099.564,
+        "text": "I need to cross."
+    },
+    {
+        "id": 808,
+        "start": 6101.202,
+        "end": 6104.695,
+        "text": "It doesn't have to be this minute."
+    },
+    {
+        "id": 809,
+        "start": 6105.84,
+        "end": 6110.368,
+        "text": "But please take me when you're ready."
+    },
+    {
+        "id": 810,
+        "start": 6110.478,
+        "end": 6113.504,
+        "text": "Certainly. Come inside."
+    },
+    {
+        "id": 811,
+        "start": 6116.117,
+        "end": 6117.346,
+        "text": "It's okay."
+    },
+    {
+        "id": 812,
+        "start": 6120.287,
+        "end": 6121.618,
+        "text": "Thank you."
+    },
+    {
+        "id": 813,
+        "start": 6122.857,
+        "end": 6125.792,
+        "text": "Sorry to ask when it's raining like this."
+    },
+    {
+        "id": 814,
+        "start": 6129.53,
+        "end": 6131.157,
+        "text": "Toichi."
+    },
+    {
+        "id": 815,
+        "start": 6134.368,
+        "end": 6135.733,
+        "text": "It's Dad."
+    },
+    {
+        "id": 816,
+        "start": 6137.405,
+        "end": 6138.839,
+        "text": "He died."
+    },
+    {
+        "id": 817,
+        "start": 6147.715,
+        "end": 6149.114,
+        "text": "My Dad..."
+    },
+    {
+        "id": 818,
+        "start": 6150.584,
+        "end": 6151.813,
+        "text": "He's dead."
+    },
+    {
+        "id": 819,
+        "start": 6153.554,
+        "end": 6155.648,
+        "text": "As you know, Toichi,"
+    },
+    {
+        "id": 820,
+        "start": 6155.756,
+        "end": 6159.42,
+        "text": "Dad hunted for a living."
+    },
+    {
+        "id": 821,
+        "start": 6159.527,
+        "end": 6160.637,
+        "text": "He always hunted rabbits, deer, and boars across the river."
+    },
+    {
+        "id": 822,
+        "start": 6160.661,
+        "end": 6163.858,
+        "text": "He always hunted rabbits, deer, and boars across the river."
+    },
+    {
+        "id": 823,
+        "start": 6164.164,
+        "end": 6167.498,
+        "text": "He shared the game, if he did well."
+    },
+    {
+        "id": 824,
+        "start": 6169.336,
+        "end": 6172.431,
+        "text": "One day he told me,"
+    },
+    {
+        "id": 825,
+        "start": 6173.907,
+        "end": 6179.368,
+        "text": "\"I've been living this long thanks lo the lives I took."
+    },
+    {
+        "id": 826,
+        "start": 6179.48,
+        "end": 6182.677,
+        "text": "\"All the lives I was given..."
+    },
+    {
+        "id": 827,
+        "start": 6182.783,
+        "end": 6187.277,
+        "text": "\"When I die, give my body to the animals in the hills."
+    },
+    {
+        "id": 828,
+        "start": 6188.388,
+        "end": 6192.222,
+        "text": "\"Without my soul, I'd just be flesh."
+    },
+    {
+        "id": 829,
+        "start": 6193.661,
+        "end": 6199.327,
+        "text": "\"I'd be happy if you fed me to the animals."
+    },
+    {
+        "id": 830,
+        "start": 6199.433,
+        "end": 6202.596,
+        "text": "I want to return their favor.”"
+    },
+    {
+        "id": 831,
+        "start": 6211.312,
+        "end": 6216.876,
+        "text": "But some folks might find it spooky to leave a body"
+    },
+    {
+        "id": 832,
+        "start": 6216.984,
+        "end": 6219.18,
+        "text": " to animals to eat. "
+    },
+    {
+        "id": 833,
+        "start": 6221.321,
+        "end": 6222.72,
+        "text": "So Toichi."
+    },
+    {
+        "id": 834,
+        "start": 6223.958,
+        "end": 6229.294,
+        "text": "I want to do it secretly So no one knows."
+    },
+    {
+        "id": 835,
+        "start": 6231.699,
+        "end": 6234.259,
+        "text": "In the night hours..."
+    },
+    {
+        "id": 836,
+        "start": 6234.368,
+        "end": 6235.802,
+        "text": "before the daybreak."
+    },
+    {
+        "id": 837,
+        "start": 6237.538,
+        "end": 6240.906,
+        "text": "I want to fulfill his wish."
+    },
+    {
+        "id": 838,
+        "start": 6247.715,
+        "end": 6249.342,
+        "text": "I It's a lot to ask..."
+    },
+    {
+        "id": 839,
+        "start": 6251.519,
+        "end": 6254.853,
+        "text": "but please help me."
+    },
+    {
+        "id": 840,
+        "start": 6652.887,
+        "end": 6657.347,
+        "text": "Sorry I got you involved in this."
+    },
+    {
+        "id": 841,
+        "start": 6659.293,
+        "end": 6661.819,
+        "text": "You always helped Dad cross."
+    },
+    {
+        "id": 842,
+        "start": 6663.097,
+        "end": 6666.643,
+        "text": "With your boat you helped him carry the lives he was given."
+    },
+    {
+        "id": 843,
+        "start": 6666.667,
+        "end": 6669.261,
+        "text": "With your boat you helped him carry the lives he was given."
+    },
+    {
+        "id": 844,
+        "start": 6670.704,
+        "end": 6674.766,
+        "text": "Dad would've been so happy..."
+    },
+    {
+        "id": 845,
+        "start": 6677.077,
+        "end": 6679.307,
+        "text": "Thank you, Toichi."
+    },
+    {
+        "id": 846,
+        "start": 6720.388,
+        "end": 6721.878,
+        "text": "Fireflies."
+    },
+    {
+        "id": 847,
+        "start": 6726.327,
+        "end": 6728.295,
+        "text": "Fireflies..."
+    },
+    {
+        "id": 848,
+        "start": 6728.395,
+        "end": 6729.829,
+        "text": "They're still there."
+    },
+    {
+        "id": 849,
+        "start": 6730.864,
+        "end": 6732.332,
+        "text": "Yeah."
+    },
+    {
+        "id": 850,
+        "start": 6737.505,
+        "end": 6738.215,
+        "text": "Maybe one is Nihei's dad's soul departing."
+    },
+    {
+        "id": 851,
+        "start": 6738.239,
+        "end": 6743.075,
+        "text": "Maybe one is Nihei's dad's soul departing."
+    },
+    {
+        "id": 852,
+        "start": 6746.246,
+        "end": 6747.941,
+        "text": "I always thought..."
+    },
+    {
+        "id": 853,
+        "start": 6749.917,
+        "end": 6754.98,
+        "text": "Nihei's dad was a great man."
+    },
+    {
+        "id": 854,
+        "start": 6757.491,
+        "end": 6762.861,
+        "text": "He dedicated his life to helping others."
+    },
+    {
+        "id": 855,
+        "start": 6765.132,
+        "end": 6767.157,
+        "text": "How difficult is that."
+    },
+    {
+        "id": 856,
+        "start": 6770.537,
+        "end": 6772.198,
+        "text": "But me..."
+    },
+    {
+        "id": 857,
+        "start": 6773.974,
+        "end": 6778.878,
+        "text": "I'm helping others. I like to think I'm doing that but..."
+    },
+    {
+        "id": 858,
+        "start": 6780.38,
+        "end": 6782.872,
+        "text": "I feel they owe me."
+    },
+    {
+        "id": 859,
+        "start": 6784.051,
+        "end": 6787.351,
+        "text": "I hope the bridge never gets made."
+    },
+    {
+        "id": 860,
+        "start": 6787.455,
+        "end": 6790.857,
+        "text": "I can't help thinking like that."
+    },
+    {
+        "id": 861,
+        "start": 6790.958,
+        "end": 6792.824,
+        "text": "I'm full of myself."
+    },
+    {
+        "id": 862,
+        "start": 6795.029,
+        "end": 6797.259,
+        "text": "But for Nihei's dad..."
+    },
+    {
+        "id": 863,
+        "start": 6799.834,
+        "end": 6802.269,
+        "text": "others came before him."
+    },
+    {
+        "id": 864,
+        "start": 6802.369,
+        "end": 6804.337,
+        "text": "Even after he died..."
+    },
+    {
+        "id": 865,
+        "start": 6806.006,
+        "end": 6808.236,
+        "text": "he wants to be of benefit."
+    },
+    {
+        "id": 866,
+        "start": 6813.047,
+        "end": 6813.289,
+        "text": "That's the kind of man..."
+    },
+    {
+        "id": 867,
+        "start": 6813.313,
+        "end": 6815.077,
+        "text": "That's the kind of man..."
+    },
+    {
+        "id": 868,
+        "start": 6816.884,
+        "end": 6818.545,
+        "text": "I'd like to be."
+    },
+    {
+        "id": 869,
+        "start": 6863.197,
+        "end": 6865.188,
+        "text": "The troubadours!"
+    },
+    {
+        "id": 870,
+        "start": 6865.299,
+        "end": 6867.097,
+        "text": "How festive!"
+    },
+    {
+        "id": 871,
+        "start": 6867.201,
+        "end": 6869.033,
+        "text": "What funny costumes!"
+    },
+    {
+        "id": 872,
+        "start": 6872.039,
+        "end": 6874.406,
+        "text": "I can't wait for the festival."
+    },
+    {
+        "id": 873,
+        "start": 6878.379,
+        "end": 6880.939,
+        "text": "It's going to be fun."
+    },
+    {
+        "id": 874,
+        "start": 6882.216,
+        "end": 6883.36,
+        "text": "We heard that the bridge isn't finished yet..."
+    },
+    {
+        "id": 875,
+        "start": 6883.384,
+        "end": 6884.852,
+        "text": "We heard that the bridge isn't finished yet..."
+    },
+    {
+        "id": 876,
+        "start": 6884.952,
+        "end": 6888.115,
+        "text": "Thank the Lord for the boatman!"
+    },
+    {
+        "id": 877,
+        "start": 6888.222,
+        "end": 6891.556,
+        "text": "Every year I'm in the festival but..."
+    },
+    {
+        "id": 878,
+        "start": 6891.659,
+        "end": 6892.99,
+        "text": "No bridge."
+    },
+    {
+        "id": 879,
+        "start": 6893.093,
+        "end": 6896.085,
+        "text": "Builders nowadays are quick!"
+    },
+    {
+        "id": 880,
+        "start": 6896.196,
+        "end": 6898.961,
+        "text": " They sure are.  I can't wait!"
+    },
+    {
+        "id": 881,
+        "start": 6899.066,
+        "end": 6904.197,
+        "text": " It's all about convenience.  We need a bridge."
+    },
+    {
+        "id": 882,
+        "start": 6904.305,
+        "end": 6907.536,
+        "text": "It'll be great once we can walk across."
+    },
+    {
+        "id": 883,
+        "start": 6907.641,
+        "end": 6910.269,
+        "text": "Next year we can do that."
+    },
+    {
+        "id": 884,
+        "start": 6910.377,
+        "end": 6912.311,
+        "text": "Then we won't get wet."
+    },
+    {
+        "id": 885,
+        "start": 6912.413,
+        "end": 6914.643,
+        "text": "And it will be quicker!"
+    },
+    {
+        "id": 886,
+        "start": 6914.948,
+        "end": 6916.109,
+        "text": "It'll be great."
+    },
+    {
+        "id": 887,
+        "start": 6916.216,
+        "end": 6918.15,
+        "text": "It'll be much easier."
+    },
+    {
+        "id": 888,
+        "start": 6918.252,
+        "end": 6920.152,
+        "text": "My kid hates boats."
+    },
+    {
+        "id": 889,
+        "start": 6920.254,
+        "end": 6924.248,
+        "text": " We won't need the boat any more.  It'll be easier."
+    },
+    {
+        "id": 890,
+        "start": 6924.358,
+        "end": 6927.658,
+        "text": " We can cart things over.  It'll be so easy."
+    },
+    {
+        "id": 891,
+        "start": 6927.962,
+        "end": 6930.659,
+        "text": " How convenient.  I can't wait."
+    },
+    {
+        "id": 892,
+        "start": 6969.27,
+        "end": 6972.24,
+        "text": "Look. Is that smoke?"
+    },
+    {
+        "id": 893,
+        "start": 6972.339,
+        "end": 6974.535,
+        "text": " Where?  You're right!"
+    },
+    {
+        "id": 894,
+        "start": 6976.143,
+        "end": 6977.406,
+        "text": "Is it the bridge?"
+    },
+    {
+        "id": 895,
+        "start": 6978.712,
+        "end": 6980.339,
+        "text": "Isn't it almost done?"
+    },
+    {
+        "id": 896,
+        "start": 6984.118,
+        "end": 6985.608,
+        "text": "I hope it's okay."
+    },
+    {
+        "id": 897,
+        "start": 6998.766,
+        "end": 7003.465,
+        "text": "...but I know a lot about you."
+    },
+    {
+        "id": 898,
+        "start": 7003.571,
+        "end": 7005.539,
+        "text": "About me?"
+    },
+    {
+        "id": 899,
+        "start": 7005.639,
+        "end": 7008.472,
+        "text": "I've been watching you."
+    },
+    {
+        "id": 900,
+        "start": 7008.576,
+        "end": 7011.341,
+        "text": "I'm a ghost and I live here."
+    },
+    {
+        "id": 901,
+        "start": 7011.445,
+        "end": 7012.708,
+        "text": "That's nonsense."
+    },
+    {
+        "id": 902,
+        "start": 7013.014,
+        "end": 7015.346,
+        "text": " You don't have to believe me, "
+    },
+    {
+        "id": 903,
+        "start": 7015.449,
+        "end": 7018.009,
+        "text": "but I know a lot about you."
+    },
+    {
+        "id": 904,
+        "start": 7019.186,
+        "end": 7021.712,
+        "text": "That's why I came lo you."
+    },
+    {
+        "id": 905,
+        "start": 7023.057,
+        "end": 7026.721,
+        "text": "That girl has the life owed to me."
+    },
+    {
+        "id": 906,
+        "start": 7027.027,
+        "end": 7029.394,
+        "text": " She was meant to die that night... "
+    },
+    {
+        "id": 907,
+        "start": 7030.698,
+        "end": 7033.19,
+        "text": "and I was lo replace her"
+    },
+    {
+        "id": 908,
+        "start": 7033.3,
+        "end": 7036.668,
+        "text": " while her soul waited to reincarnate. "
+    },
+    {
+        "id": 909,
+        "start": 7036.77,
+        "end": 7038.568,
+        "text": "Reincarnate?"
+    },
+    {
+        "id": 910,
+        "start": 7038.673,
+        "end": 7040.607,
+        "text": "What?"
+    },
+    {
+        "id": 911,
+        "start": 7040.708,
+        "end": 7042.301,
+        "text": "But you saved her."
+    },
+    {
+        "id": 912,
+        "start": 7043.377,
+        "end": 7046.54,
+        "text": "You interfered with our fate."
+    },
+    {
+        "id": 913,
+        "start": 7046.647,
+        "end": 7049.582,
+        "text": "She'll cause you grief someday."
+    },
+    {
+        "id": 914,
+        "start": 7049.684,
+        "end": 7053.746,
+        "text": "I know you well. 1 advise you to think well."
+    },
+    {
+        "id": 915,
+        "start": 7223.591,
+        "end": 7226.925,
+        "text": "Toichi. Are they ready?"
+    },
+    {
+        "id": 916,
+        "start": 7237.271,
+        "end": 7239.831,
+        "text": "I don't know..."
+    },
+    {
+        "id": 917,
+        "start": 7239.94,
+        "end": 7242.409,
+        "text": "Maybe you can do better?"
+    },
+    {
+        "id": 918,
+        "start": 7252.853,
+        "end": 7253.752,
+        "text": "Oh, well."
+    },
+    {
+        "id": 919,
+        "start": 7255.289,
+        "end": 7257.223,
+        "text": "I'll come back for them."
+    },
+    {
+        "id": 920,
+        "start": 7302.503,
+        "end": 7303.766,
+        "text": "It's time."
+    },
+    {
+        "id": 921,
+        "start": 7304.939,
+        "end": 7308.773,
+        "text": "I'll go see the doctor."
+    },
+    {
+        "id": 922,
+        "start": 7351.919,
+        "end": 7356.481,
+        "text": "Old Toichi is kind of losing it."
+    },
+    {
+        "id": 923,
+        "start": 7360.394,
+        "end": 7363.056,
+        "text": "Maybe you're a burden to him now."
+    },
+    {
+        "id": 924,
+        "start": 7368.369,
+        "end": 7373.034,
+        "text": "Surely you don't want to stay here forever?"
+    },
+    {
+        "id": 925,
+        "start": 7374.742,
+        "end": 7378.736,
+        "text": "It's time you left. It'd be good for both of you."
+    },
+    {
+        "id": 926,
+        "start": 7385.753,
+        "end": 7390.02,
+        "text": "I never told you, but I went to your village."
+    },
+    {
+        "id": 927,
+        "start": 7390.124,
+        "end": 7391.922,
+        "text": "Toichi asked me to."
+    },
+    {
+        "id": 928,
+        "start": 7393.494,
+        "end": 7397.124,
+        "text": "Was it Ichinomiya?"
+    },
+    {
+        "id": 929,
+        "start": 7400.634,
+        "end": 7403.535,
+        "text": "What I heard didn't really add up."
+    },
+    {
+        "id": 930,
+        "start": 7407.708,
+        "end": 7409.699,
+        "text": "You know what I'm saying?"
+    },
+    {
+        "id": 931,
+        "start": 7414.048,
+        "end": 7415.413,
+        "text": "Let go."
+    },
+    {
+        "id": 932,
+        "start": 7420.855,
+        "end": 7423.085,
+        "text": "I can take care of you."
+    },
+    {
+        "id": 933,
+        "start": 7443.077,
+        "end": 7446.98,
+        "text": "You look pale. I bet you're not eating well."
+    },
+    {
+        "id": 934,
+        "start": 7448.516,
+        "end": 7449.779,
+        "text": "Well..."
+    },
+    {
+        "id": 935,
+        "start": 7454.155,
+        "end": 7455.554,
+        "text": "Toichi."
+    },
+    {
+        "id": 936,
+        "start": 7458.459,
+        "end": 7460.655,
+        "text": "You need to take it easy."
+    },
+    {
+        "id": 937,
+        "start": 7462.763,
+        "end": 7465.733,
+        "text": "It's bad to think too much."
+    },
+    {
+        "id": 938,
+        "start": 7468.602,
+        "end": 7470.969,
+        "text": "You'd lose your mind if you did."
+    },
+    {
+        "id": 939,
+        "start": 7473.04,
+        "end": 7477.17,
+        "text": "Life is short. Might as well enjoy it."
+    },
+    {
+        "id": 940,
+        "start": 7477.478,
+        "end": 7478.673,
+        "text": "Right?"
+    },
+    {
+        "id": 941,
+        "start": 7486.52,
+        "end": 7488.784,
+        "text": "You know why we reincarnate?"
+    },
+    {
+        "id": 942,
+        "start": 7493.494,
+        "end": 7496.088,
+        "text": "We need to live many lives..."
+    },
+    {
+        "id": 943,
+        "start": 7498.633,
+        "end": 7501.125,
+        "text": "to grow wiser."
+    },
+    {
+        "id": 944,
+        "start": 7504.038,
+        "end": 7507.77,
+        "text": "We're brought to this world to learn"
+    },
+    {
+        "id": 945,
+        "start": 7507.875,
+        "end": 7511.505,
+        "text": "one thing before we depart."
+    },
+    {
+        "id": 946,
+        "start": 7511.612,
+        "end": 7515.981,
+        "text": "What you learn varies from one person to another."
+    },
+    {
+        "id": 947,
+        "start": 7518.519,
+        "end": 7521.113,
+        "text": "You live to find that thing."
+    },
+    {
+        "id": 948,
+        "start": 7524.892,
+        "end": 7528.795,
+        "text": "And you cross a river to move on to the next life."
+    },
+    {
+        "id": 949,
+        "start": 7531.699,
+        "end": 7534.93,
+        "text": "I know! Since you're a boatman..."
+    },
+    {
+        "id": 950,
+        "start": 7536.07,
+        "end": 7539.802,
+        "text": "you'll have no problem crossing the Styx."
+    },
+    {
+        "id": 951,
+        "start": 7602.603,
+        "end": 7603.866,
+        "text": "Toichi."
+    },
+    {
+        "id": 952,
+        "start": 7608.609,
+        "end": 7612.273,
+        "text": "Toichi, I haven't seen you for a long time."
+    },
+    {
+        "id": 953,
+        "start": 7614.915,
+        "end": 7616.28,
+        "text": "You went to town?"
+    },
+    {
+        "id": 954,
+        "start": 7616.383,
+        "end": 7619.353,
+        "text": "Yes, I visited the doctor."
+    },
+    {
+        "id": 955,
+        "start": 7619.653,
+        "end": 7621.178,
+        "text": "Right."
+    },
+    {
+        "id": 956,
+        "start": 7624.959,
+        "end": 7626.654,
+        "text": "Sorry, Toichi."
+    },
+    {
+        "id": 957,
+        "start": 7629.096,
+        "end": 7632.896,
+        "text": "After this was built, I hardly visit you."
+    },
+    {
+        "id": 958,
+        "start": 7633,
+        "end": 7634.798,
+        "text": "It's okay..."
+    },
+    {
+        "id": 959,
+        "start": 7636.971,
+        "end": 7639.906,
+        "text": "All the villagers..."
+    },
+    {
+        "id": 960,
+        "start": 7640.007,
+        "end": 7644.672,
+        "text": "Since we got the bridge everyone acts so busy."
+    },
+    {
+        "id": 961,
+        "start": 7645.98,
+        "end": 7650.315,
+        "text": "Many villagers went to live in town."
+    },
+    {
+        "id": 962,
+        "start": 7653.42,
+        "end": 7656.014,
+        "text": "What will happen to us?"
+    },
+    {
+        "id": 963,
+        "start": 7663.364,
+        "end": 7667.096,
+        "text": "I miss the times you took us across."
+    },
+    {
+        "id": 964,
+        "start": 7667.201,
+        "end": 7672.298,
+        "text": "Back when we weren't in a hurry like we are now."
+    },
+    {
+        "id": 965,
+        "start": 7679.446,
+        "end": 7680.88,
+        "text": "Toichi..."
+    },
+    {
+        "id": 966,
+        "start": 7683.918,
+        "end": 7687.946,
+        "text": "can you take me out on your boat someday?"
+    },
+    {
+        "id": 967,
+        "start": 7691.259,
+        "end": 7692.818,
+        "text": "Certainly."
+    },
+    {
+        "id": 968,
+        "start": 7731.064,
+        "end": 7732.691,
+        "text": "What happened?"
+    },
+    {
+        "id": 969,
+        "start": 7735.002,
+        "end": 7736.436,
+        "text": "What is it?"
+    },
+    {
+        "id": 970,
+        "start": 7755.122,
+        "end": 7756.453,
+        "text": "What happened?"
+    },
+    {
+        "id": 971,
+        "start": 7762.296,
+        "end": 7763.73,
+        "text": "Tell me what happened!"
+    },
+    {
+        "id": 972,
+        "start": 7774.375,
+        "end": 7777.14,
+        "text": "It won't get worse."
+    },
+    {
+        "id": 973,
+        "start": 7780.548,
+        "end": 7783.745,
+        "text": "It won't get worse than this."
+    },
+    {
+        "id": 974,
+        "start": 7785.253,
+        "end": 7787.119,
+        "text": "Calm down."
+    },
+    {
+        "id": 975,
+        "start": 7787.221,
+        "end": 7791.18,
+        "text": "I won't blame you for anything!"
+    },
+    {
+        "id": 976,
+        "start": 7791.291,
+        "end": 7793.919,
+        "text": "You've done nothing wrong!"
+    },
+    {
+        "id": 977,
+        "start": 7794.028,
+        "end": 7798.022,
+        "text": " You just protected yourself! "
+    },
+    {
+        "id": 978,
+        "start": 7798.132,
+        "end": 7800.897,
+        "text": "You're not to blame!"
+    },
+    {
+        "id": 979,
+        "start": 7803.237,
+        "end": 7808.437,
+        "text": "I'm not so righteous as to blame you!"
+    },
+    {
+        "id": 980,
+        "start": 7809.51,
+        "end": 7814.004,
+        "text": "I'm just a selfish nobody!"
+    },
+    {
+        "id": 981,
+        "start": 7814.115,
+        "end": 7815.879,
+        "text": "But I..."
+    },
+    {
+        "id": 982,
+        "start": 7815.983,
+        "end": 7817.883,
+        "text": "thought..."
+    },
+    {
+        "id": 983,
+        "start": 7821.822,
+        "end": 7824.257,
+        "text": "I could protect you."
+    },
+    {
+        "id": 984,
+        "start": 7829.163,
+        "end": 7831.154,
+        "text": "I wanted to..."
+    },
+    {
+        "id": 985,
+        "start": 7898.899,
+        "end": 7903.427,
+        "text": "I've got nothing left here anyway."
+    }
+]

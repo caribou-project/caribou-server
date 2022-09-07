@@ -1,0 +1,6188 @@
+[
+    {
+        "id": 1,
+        "start": 0.801,
+        "end": 8.801,
+        "text": "♪♪"
+    },
+    {
+        "id": 2,
+        "start": 11.011,
+        "end": 12.222,
+        "text": "[Whip cracks]"
+    },
+    {
+        "id": 3,
+        "start": 12.246,
+        "end": 14.224,
+        "text": "[Shouts]"
+    },
+    {
+        "id": 4,
+        "start": 14.248,
+        "end": 15.892,
+        "text": "♪♪"
+    },
+    {
+        "id": 5,
+        "start": 15.916,
+        "end": 18.361,
+        "text": "[All cheering]"
+    },
+    {
+        "id": 6,
+        "start": 18.385,
+        "end": 26.385,
+        "text": "♪♪"
+    },
+    {
+        "id": 7,
+        "start": 33.2,
+        "end": 35.879,
+        "text": "[Indistinct conversations]"
+    },
+    {
+        "id": 8,
+        "start": 35.903,
+        "end": 43.903,
+        "text": "♪♪"
+    },
+    {
+        "id": 9,
+        "start": 46.246,
+        "end": 49.158,
+        "text": " Among the 1,500 men, women, and children"
+    },
+    {
+        "id": 10,
+        "start": 49.182,
+        "end": 51.561,
+        "text": "seeking refuge inside the fort"
+    },
+    {
+        "id": 11,
+        "start": 51.585,
+        "end": 53.897,
+        "text": "were friars and priests,"
+    },
+    {
+        "id": 12,
+        "start": 53.921,
+        "end": 57.1,
+        "text": "several Natives, free blacks, slaves,"
+    },
+    {
+        "id": 13,
+        "start": 57.124,
+        "end": 60.27,
+        "text": "and two infants less than a week old."
+    },
+    {
+        "id": 14,
+        "start": 60.294,
+        "end": 66.876,
+        "text": "♪♪"
+    },
+    {
+        "id": 15,
+        "start": 66.9,
+        "end": 68.244,
+        "text": " It had to be terrible in there."
+    },
+    {
+        "id": 16,
+        "start": 68.268,
+        "end": 71.247,
+        "text": "1,500 people crammed inside the Castillo?"
+    },
+    {
+        "id": 17,
+        "start": 71.271,
+        "end": 73.049,
+        "text": "♪♪"
+    },
+    {
+        "id": 18,
+        "start": 73.073,
+        "end": 74.851,
+        "text": "I don't imagine there are washing facilities."
+    },
+    {
+        "id": 19,
+        "start": 74.875,
+        "end": 77.186,
+        "text": "There is a well for water."
+    },
+    {
+        "id": 20,
+        "start": 77.21,
+        "end": 80.39,
+        "text": "And I'm not sure they think they're gonna make it."
+    },
+    {
+        "id": 21,
+        "start": 80.414,
+        "end": 83.326,
+        "text": "You didn't know how this was going to turn out,"
+    },
+    {
+        "id": 22,
+        "start": 83.35,
+        "end": 85.128,
+        "text": "and you didn't even know if you were going to come out"
+    },
+    {
+        "id": 23,
+        "start": 85.152,
+        "end": 86.362,
+        "text": "as a captive."
+    },
+    {
+        "id": 24,
+        "start": 86.386,
+        "end": 90.266,
+        "text": "♪♪"
+    },
+    {
+        "id": 25,
+        "start": 90.29,
+        "end": 92.435,
+        "text": " Governor José de Zúñiga"
+    },
+    {
+        "id": 26,
+        "start": 92.459,
+        "end": 94.337,
+        "text": "knew that his soldiers were no match"
+    },
+    {
+        "id": 27,
+        "start": 94.361,
+        "end": 97.507,
+        "text": "for the English troops in South Carolina."
+    },
+    {
+        "id": 28,
+        "start": 97.531,
+        "end": 100.944,
+        "text": "Spain hadn't sent provisions in months."
+    },
+    {
+        "id": 29,
+        "start": 100.968,
+        "end": 105.381,
+        "text": "The men were getting just two servings of bread a day."
+    },
+    {
+        "id": 30,
+        "start": 105.405,
+        "end": 108.551,
+        "text": "Pulling everyone into the Castillo"
+    },
+    {
+        "id": 31,
+        "start": 108.575,
+        "end": 112.188,
+        "text": "was the only way to protect the townspeople"
+    },
+    {
+        "id": 32,
+        "start": 112.212,
+        "end": 114.023,
+        "text": "and keep his soldiers fed."
+    },
+    {
+        "id": 33,
+        "start": 114.047,
+        "end": 116.893,
+        "text": "♪♪"
+    },
+    {
+        "id": 34,
+        "start": 116.917,
+        "end": 119.162,
+        "text": " They actually rounded up the animals as much as they could"
+    },
+    {
+        "id": 35,
+        "start": 119.186,
+        "end": 121.197,
+        "text": "and brought them close to the fort..."
+    },
+    {
+        "id": 36,
+        "start": 121.221,
+        "end": 122.665,
+        "text": "Cattle and other things like that."
+    },
+    {
+        "id": 37,
+        "start": 122.689,
+        "end": 124.934,
+        "text": "The sharpshooters up on the gun deck"
+    },
+    {
+        "id": 38,
+        "start": 124.958,
+        "end": 127.47,
+        "text": "would be able to protect anybody from getting them."
+    },
+    {
+        "id": 39,
+        "start": 127.494,
+        "end": 129.973,
+        "text": "♪♪"
+    },
+    {
+        "id": 40,
+        "start": 129.997,
+        "end": 133.076,
+        "text": " In the meantime, about 1,000 English troops"
+    },
+    {
+        "id": 41,
+        "start": 133.1,
+        "end": 136.112,
+        "text": "were descending on St. Augustine by both land and sea."
+    },
+    {
+        "id": 42,
+        "start": 136.136,
+        "end": 138.915,
+        "text": "♪♪"
+    },
+    {
+        "id": 43,
+        "start": 138.939,
+        "end": 142.251,
+        "text": "They were joined by roughly as many Native allies,"
+    },
+    {
+        "id": 44,
+        "start": 142.275,
+        "end": 145.321,
+        "text": "Yamasees, Creeks, and other smaller tribes"
+    },
+    {
+        "id": 45,
+        "start": 145.345,
+        "end": 147.991,
+        "text": "that had resisted the efforts of the Spanish friars"
+    },
+    {
+        "id": 46,
+        "start": 148.015,
+        "end": 150.326,
+        "text": "to convert them."
+    },
+    {
+        "id": 47,
+        "start": 150.35,
+        "end": 151.961,
+        "text": "Leading the onslaught"
+    },
+    {
+        "id": 48,
+        "start": 151.985,
+        "end": 154.998,
+        "text": "was Carolina Colony Governor James Moore,"
+    },
+    {
+        "id": 49,
+        "start": 155.022,
+        "end": 158.067,
+        "text": "a man known to be a ruthless slave dealer."
+    },
+    {
+        "id": 50,
+        "start": 158.091,
+        "end": 161.27,
+        "text": "He had been eyeing St. Augustine for a long time."
+    },
+    {
+        "id": 51,
+        "start": 161.294,
+        "end": 163.973,
+        "text": "The Spanish stronghold in La Florida"
+    },
+    {
+        "id": 52,
+        "start": 163.997,
+        "end": 166.409,
+        "text": "stood in the way of English expansion."
+    },
+    {
+        "id": 53,
+        "start": 166.433,
+        "end": 168.411,
+        "text": " That's when the British really began to make"
+    },
+    {
+        "id": 54,
+        "start": 168.435,
+        "end": 171.214,
+        "text": "an effective challenge to Spanish rule."
+    },
+    {
+        "id": 55,
+        "start": 171.238,
+        "end": 173.316,
+        "text": "You know, everybody wanted to knock down the guy in charge"
+    },
+    {
+        "id": 56,
+        "start": 173.34,
+        "end": 175.418,
+        "text": "and take over those colonies for themselves."
+    },
+    {
+        "id": 57,
+        "start": 175.442,
+        "end": 177.62,
+        "text": "♪♪"
+    },
+    {
+        "id": 58,
+        "start": 177.644,
+        "end": 182.692,
+        "text": " A century earlier, Spain had made a serious strategical error"
+    },
+    {
+        "id": 59,
+        "start": 182.716,
+        "end": 185.428,
+        "text": "when it decided not to challenge the establishment"
+    },
+    {
+        "id": 60,
+        "start": 185.452,
+        "end": 188.264,
+        "text": "of the English settlements of Jamestown and Plymouth"
+    },
+    {
+        "id": 61,
+        "start": 188.288,
+        "end": 190.566,
+        "text": "in Spanish territory."
+    },
+    {
+        "id": 62,
+        "start": 190.59,
+        "end": 194.704,
+        "text": "King Philip Ill lacked the fervor that his father had"
+    },
+    {
+        "id": 63,
+        "start": 194.728,
+        "end": 198.241,
+        "text": "for maintaining an empire in North America."
+    },
+    {
+        "id": 64,
+        "start": 198.265,
+        "end": 200.643,
+        "text": "It was too costly."
+    },
+    {
+        "id": 65,
+        "start": 200.667,
+        "end": 202.278,
+        "text": " It's difficult to maintain"
+    },
+    {
+        "id": 66,
+        "start": 202.302,
+        "end": 204.414,
+        "text": "a series of forts up and down the coast."
+    },
+    {
+        "id": 67,
+        "start": 204.438,
+        "end": 206.315,
+        "text": "The priority for the Spanish king"
+    },
+    {
+        "id": 68,
+        "start": 206.339,
+        "end": 208.651,
+        "text": "were these colonies that really produced the wealth,"
+    },
+    {
+        "id": 69,
+        "start": 208.675,
+        "end": 213.389,
+        "text": "so Mexico, you know, the Philippines, and Asia."
+    },
+    {
+        "id": 70,
+        "start": 213.413,
+        "end": 216.192,
+        "text": " What's more, those early British colonies"
+    },
+    {
+        "id": 71,
+        "start": 216.216,
+        "end": 218.094,
+        "text": "seemed too small and insignificant"
+    },
+    {
+        "id": 72,
+        "start": 218.118,
+        "end": 221.33,
+        "text": "to pose a threat to Spain's sizable territory,"
+    },
+    {
+        "id": 73,
+        "start": 221.354,
+        "end": 225.268,
+        "text": "which stretched along the entire East Coast of North America."
+    },
+    {
+        "id": 74,
+        "start": 225.292,
+        "end": 227.036,
+        "text": "♪♪"
+    },
+    {
+        "id": 75,
+        "start": 227.06,
+        "end": 228.738,
+        "text": "Over the next century, however,"
+    },
+    {
+        "id": 76,
+        "start": 228.762,
+        "end": 231.207,
+        "text": "British colonies had virtually dismembered"
+    },
+    {
+        "id": 77,
+        "start": 231.231,
+        "end": 234.21,
+        "text": "the northern portion of Spanishheld La Florida,"
+    },
+    {
+        "id": 78,
+        "start": 234.234,
+        "end": 237.046,
+        "text": "and they were working their way southward."
+    },
+    {
+        "id": 79,
+        "start": 237.07,
+        "end": 239.115,
+        "text": " And so, with the settlement of Charleston,"
+    },
+    {
+        "id": 80,
+        "start": 239.139,
+        "end": 242.652,
+        "text": "that now made an English settlement"
+    },
+    {
+        "id": 81,
+        "start": 242.676,
+        "end": 244.32,
+        "text": "that was close enough"
+    },
+    {
+        "id": 82,
+        "start": 244.344,
+        "end": 246.789,
+        "text": "to launch an attack on St. Augustine from land."
+    },
+    {
+        "id": 83,
+        "start": 246.813,
+        "end": 248.291,
+        "text": "♪♪"
+    },
+    {
+        "id": 84,
+        "start": 248.315,
+        "end": 252.395,
+        "text": " The British saw their opportunity in 1702."
+    },
+    {
+        "id": 85,
+        "start": 252.419,
+        "end": 256.632,
+        "text": "Spain was in upheaval over the death of King Charles Il,"
+    },
+    {
+        "id": 86,
+        "start": 256.656,
+        "end": 258.501,
+        "text": "who had no male heirs."
+    },
+    {
+        "id": 87,
+        "start": 258.525,
+        "end": 260.636,
+        "text": "♪♪"
+    },
+    {
+        "id": 88,
+        "start": 260.66,
+        "end": 264.407,
+        "text": "As the War of the Spanish Succession raged on in Europe,"
+    },
+    {
+        "id": 89,
+        "start": 264.431,
+        "end": 266.776,
+        "text": "English colonists in South Carolina,"
+    },
+    {
+        "id": 90,
+        "start": 266.8,
+        "end": 270.413,
+        "text": "led by Governor Moore, decided it was time to strike."
+    },
+    {
+        "id": 91,
+        "start": 270.437,
+        "end": 273.216,
+        "text": "♪♪"
+    },
+    {
+        "id": 92,
+        "start": 273.24,
+        "end": 276.652,
+        "text": "Half of Moore's troops set off by sea."
+    },
+    {
+        "id": 93,
+        "start": 276.676,
+        "end": 279.522,
+        "text": "The rest marched south through the backcountry,"
+    },
+    {
+        "id": 94,
+        "start": 279.546,
+        "end": 282.658,
+        "text": "preying first on Spanish missions along the way."
+    },
+    {
+        "id": 95,
+        "start": 282.682,
+        "end": 284.227,
+        "text": "[Gunshots]"
+    },
+    {
+        "id": 96,
+        "start": 284.251,
+        "end": 286.395,
+        "text": " All of a sudden, here comes a rampaging army"
+    },
+    {
+        "id": 97,
+        "start": 286.419,
+        "end": 290.8,
+        "text": "of Englishmen and Indian allies to kill them and crush them,"
+    },
+    {
+        "id": 98,
+        "start": 290.824,
+        "end": 293.536,
+        "text": "and by the most violent means possible."
+    },
+    {
+        "id": 99,
+        "start": 293.56,
+        "end": 295.304,
+        "text": "[Gunshots]"
+    },
+    {
+        "id": 100,
+        "start": 295.328,
+        "end": 298.307,
+        "text": " The storming of the missions destroyed most buffers"
+    },
+    {
+        "id": 101,
+        "start": 298.331,
+        "end": 301.077,
+        "text": "St. Augustine had along the coast,"
+    },
+    {
+        "id": 102,
+        "start": 301.101,
+        "end": 303.746,
+        "text": "but they had proven to be easy prey."
+    },
+    {
+        "id": 103,
+        "start": 303.77,
+        "end": 308.317,
+        "text": "The Natives living on these missions had been unarmed."
+    },
+    {
+        "id": 104,
+        "start": 308.341,
+        "end": 312.155,
+        "text": " The friars had an issue giving firearms to the Natives."
+    },
+    {
+        "id": 105,
+        "start": 312.179,
+        "end": 314.157,
+        "text": "They're keeping firearms away from the Natives"
+    },
+    {
+        "id": 106,
+        "start": 314.181,
+        "end": 315.458,
+        "text": "as a way of keeping them pure,"
+    },
+    {
+        "id": 107,
+        "start": 315.482,
+        "end": 318.261,
+        "text": "keeping them from harming one another,"
+    },
+    {
+        "id": 108,
+        "start": 318.285,
+        "end": 323.266,
+        "text": "keeping them from committing murder, essentially."
+    },
+    {
+        "id": 109,
+        "start": 323.29,
+        "end": 325.735,
+        "text": " The British, on the other hand, issued guns"
+    },
+    {
+        "id": 110,
+        "start": 325.759,
+        "end": 329.438,
+        "text": "to any Natives who would fight on their side."
+    },
+    {
+        "id": 111,
+        "start": 329.462,
+        "end": 332.842,
+        "text": " When you introduce the element of guns, fire stick,"
+    },
+    {
+        "id": 112,
+        "start": 332.866,
+        "end": 335.611,
+        "text": "now you've given our people the ability"
+    },
+    {
+        "id": 113,
+        "start": 335.635,
+        "end": 339.282,
+        "text": "to be able to hunt and provide for their families easier."
+    },
+    {
+        "id": 114,
+        "start": 339.306,
+        "end": 342.218,
+        "text": " Of course they woo a lot of the Indians away"
+    },
+    {
+        "id": 115,
+        "start": 342.242,
+        "end": 343.553,
+        "text": "to the English side."
+    },
+    {
+        "id": 116,
+        "start": 343.577,
+        "end": 345.321,
+        "text": "They have more goods to give them,"
+    },
+    {
+        "id": 117,
+        "start": 345.345,
+        "end": 346.656,
+        "text": "and the Indians can also see"
+    },
+    {
+        "id": 118,
+        "start": 346.68,
+        "end": 348.357,
+        "text": "that they're probably the stronger side."
+    },
+    {
+        "id": 119,
+        "start": 348.381,
+        "end": 350.793,
+        "text": " They helped us. These are our friends."
+    },
+    {
+        "id": 120,
+        "start": 350.817,
+        "end": 353.596,
+        "text": "We can help them."
+    },
+    {
+        "id": 121,
+        "start": 353.62,
+        "end": 357.333,
+        "text": " As Moore's troops triumphantly moved southward,"
+    },
+    {
+        "id": 122,
+        "start": 357.357,
+        "end": 359.535,
+        "text": "they continue to solicit recruits."
+    },
+    {
+        "id": 123,
+        "start": 359.559,
+        "end": 361.437,
+        "text": "♪♪"
+    },
+    {
+        "id": 124,
+        "start": 361.461,
+        "end": 365.474,
+        "text": "But a baptized Choctaw woman overheard their plans."
+    },
+    {
+        "id": 125,
+        "start": 365.498,
+        "end": 368.778,
+        "text": "She managed to get word to St. Augustine's governor,"
+    },
+    {
+        "id": 126,
+        "start": 368.802,
+        "end": 370.613,
+        "text": "which is why the entire town"
+    },
+    {
+        "id": 127,
+        "start": 370.637,
+        "end": 373.616,
+        "text": "was now setting up camp in the Castillo."
+    },
+    {
+        "id": 128,
+        "start": 373.64,
+        "end": 377.153,
+        "text": "It was November 9, 1702."
+    },
+    {
+        "id": 129,
+        "start": 377.177,
+        "end": 380.323,
+        "text": "By the time James Moore and his men arrived,"
+    },
+    {
+        "id": 130,
+        "start": 380.347,
+        "end": 382.558,
+        "text": "the town looked deserted."
+    },
+    {
+        "id": 131,
+        "start": 382.582,
+        "end": 384.227,
+        "text": " Everybody's in the fort,"
+    },
+    {
+        "id": 132,
+        "start": 384.251,
+        "end": 387.83,
+        "text": "and the town's really free for them to walk into."
+    },
+    {
+        "id": 133,
+        "start": 387.854,
+        "end": 390.366,
+        "text": " As the English got within range of the fort,"
+    },
+    {
+        "id": 134,
+        "start": 390.39,
+        "end": 394.203,
+        "text": "the Spanish fired on them, and the exchange began."
+    },
+    {
+        "id": 135,
+        "start": 394.227,
+        "end": 396.939,
+        "text": "[Gunfire]"
+    },
+    {
+        "id": 136,
+        "start": 396.963,
+        "end": 399.642,
+        "text": "The Spanish artillery was so out of practice"
+    },
+    {
+        "id": 137,
+        "start": 399.666,
+        "end": 401.744,
+        "text": "that they failed to hit anything."
+    },
+    {
+        "id": 138,
+        "start": 401.768,
+        "end": 404.18,
+        "text": "♪♪"
+    },
+    {
+        "id": 139,
+        "start": 404.204,
+        "end": 408.451,
+        "text": " Spain's economy had collapsed in the 1600s."
+    },
+    {
+        "id": 140,
+        "start": 408.475,
+        "end": 410.753,
+        "text": "The Spanish soldiers are still armed with matchlocks"
+    },
+    {
+        "id": 141,
+        "start": 410.777,
+        "end": 416.592,
+        "text": "that de Soto's soldiers had used in the 1530s and '40s."
+    },
+    {
+        "id": 142,
+        "start": 416.616,
+        "end": 419.595,
+        "text": "So, the Spanish, because of their economic situation,"
+    },
+    {
+        "id": 143,
+        "start": 419.619,
+        "end": 420.997,
+        "text": "they're behind the times."
+    },
+    {
+        "id": 144,
+        "start": 421.021,
+        "end": 423.366,
+        "text": "[Gunshots]"
+    },
+    {
+        "id": 145,
+        "start": 423.39,
+        "end": 425.968,
+        "text": " In fact, the first casualties in the Castillo"
+    },
+    {
+        "id": 146,
+        "start": 425.992,
+        "end": 427.737,
+        "text": "weren't caused by their enemy,"
+    },
+    {
+        "id": 147,
+        "start": 427.761,
+        "end": 430.74,
+        "text": "but, instead, by overzealous Spanish soldiers"
+    },
+    {
+        "id": 148,
+        "start": 430.764,
+        "end": 434.71,
+        "text": "who loaded too much ammunition into an old, cracked cannon."
+    },
+    {
+        "id": 149,
+        "start": 434.734,
+        "end": 435.978,
+        "text": "It misfired..."
+    },
+    {
+        "id": 150,
+        "start": 436.002,
+        "end": 438.414,
+        "text": "♪♪"
+    },
+    {
+        "id": 151,
+        "start": 438.438,
+        "end": 440.583,
+        "text": "Killing the gunner and two other men."
+    },
+    {
+        "id": 152,
+        "start": 440.607,
+        "end": 443.486,
+        "text": "[Gunshots]"
+    },
+    {
+        "id": 153,
+        "start": 443.51,
+        "end": 444.954,
+        "text": "Five more were wounded."
+    },
+    {
+        "id": 154,
+        "start": 444.978,
+        "end": 446.689,
+        "text": "[Gunshots continue]"
+    },
+    {
+        "id": 155,
+        "start": 446.713,
+        "end": 448.824,
+        "text": "♪♪"
+    },
+    {
+        "id": 156,
+        "start": 448.848,
+        "end": 451.761,
+        "text": "To keep the British from taking cover close to the fort,"
+    },
+    {
+        "id": 157,
+        "start": 451.785,
+        "end": 453.963,
+        "text": "Zúñiga made a radical decision."
+    },
+    {
+        "id": 158,
+        "start": 453.987,
+        "end": 455.831,
+        "text": " The governor realizes very quickly"
+    },
+    {
+        "id": 159,
+        "start": 455.855,
+        "end": 458.734,
+        "text": "that the houses that are closest to the fort"
+    },
+    {
+        "id": 160,
+        "start": 458.758,
+        "end": 461.57,
+        "text": "will provide a place for the English to shoot"
+    },
+    {
+        "id": 161,
+        "start": 461.594,
+        "end": 462.905,
+        "text": "at people up on the gun decks"
+    },
+    {
+        "id": 162,
+        "start": 462.929,
+        "end": 465.574,
+        "text": "or people that are trying to leave the fort."
+    },
+    {
+        "id": 163,
+        "start": 465.598,
+        "end": 468.945,
+        "text": "And so, he orders about 30 houses burned"
+    },
+    {
+        "id": 164,
+        "start": 468.969,
+        "end": 471.38,
+        "text": "that are closest to the fort."
+    },
+    {
+        "id": 165,
+        "start": 471.404,
+        "end": 474.617,
+        "text": "And the people who were sequestered in that..."
+    },
+    {
+        "id": 166,
+        "start": 474.641,
+        "end": 477.987,
+        "text": "In the fort at that time could see their houses burn."
+    },
+    {
+        "id": 167,
+        "start": 478.011,
+        "end": 480.523,
+        "text": "It must have been a heartbreak."
+    },
+    {
+        "id": 168,
+        "start": 480.547,
+        "end": 483.693,
+        "text": "♪♪"
+    },
+    {
+        "id": 169,
+        "start": 483.717,
+        "end": 487.396,
+        "text": " The siege continued for the next 52 days."
+    },
+    {
+        "id": 170,
+        "start": 487.42,
+        "end": 489.799,
+        "text": "[Gunshots]"
+    },
+    {
+        "id": 171,
+        "start": 489.823,
+        "end": 492.401,
+        "text": " And, of course, life goes on inside the Castillo."
+    },
+    {
+        "id": 172,
+        "start": 492.425,
+        "end": 493.736,
+        "text": " [Screams]"
+    },
+    {
+        "id": 173,
+        "start": 493.76,
+        "end": 495.271,
+        "text": " We know that there are"
+    },
+    {
+        "id": 174,
+        "start": 495.295,
+        "end": 497.606,
+        "text": "two or three children born during the siege."
+    },
+    {
+        "id": 175,
+        "start": 497.63,
+        "end": 500.009,
+        "text": " [Breathing sharply, groaning]"
+    },
+    {
+        "id": 176,
+        "start": 500.033,
+        "end": 501.877,
+        "text": " The first child that's born there"
+    },
+    {
+        "id": 177,
+        "start": 501.901,
+        "end": 505.047,
+        "text": "is actually born to a Native American woman"
+    },
+    {
+        "id": 178,
+        "start": 505.071,
+        "end": 507.35,
+        "text": "and a black slave,"
+    },
+    {
+        "id": 179,
+        "start": 507.374,
+        "end": 510.019,
+        "text": "a few days after the siege starts."
+    },
+    {
+        "id": 180,
+        "start": 510.043,
+        "end": 511.887,
+        "text": " [Groaning]"
+    },
+    {
+        "id": 181,
+        "start": 511.911,
+        "end": 515.825,
+        "text": " Now, we have found evidence for the Siege of St. Augustine."
+    },
+    {
+        "id": 182,
+        "start": 515.849,
+        "end": 518.027,
+        "text": "♪♪"
+    },
+    {
+        "id": 183,
+        "start": 518.051,
+        "end": 521.831,
+        "text": " Archaeologist Carl Halbirt made a surprising discovery"
+    },
+    {
+        "id": 184,
+        "start": 521.855,
+        "end": 525.368,
+        "text": "among the artifacts found from the attack on the Castillo."
+    },
+    {
+        "id": 185,
+        "start": 525.392,
+        "end": 527.77,
+        "text": "♪♪"
+    },
+    {
+        "id": 186,
+        "start": 527.794,
+        "end": 530.74,
+        "text": "It appears that, before they abandoned their homes,"
+    },
+    {
+        "id": 187,
+        "start": 530.764,
+        "end": 534.744,
+        "text": "the citizens of St. Augustine had made a cunning move."
+    },
+    {
+        "id": 188,
+        "start": 534.768,
+        "end": 537.78,
+        "text": "They filled their wells with sand."
+    },
+    {
+        "id": 189,
+        "start": 537.804,
+        "end": 542.451,
+        "text": " Normally, when you find wells, you find trash deposits in them,"
+    },
+    {
+        "id": 190,
+        "start": 542.475,
+        "end": 544.787,
+        "text": "but here, in this well, I mean, there was nothing..."
+    },
+    {
+        "id": 191,
+        "start": 544.811,
+        "end": 547.656,
+        "text": "No artifacts at all in this clean sand."
+    },
+    {
+        "id": 192,
+        "start": 547.68,
+        "end": 551.66,
+        "text": "So it led us to the conclusion that this well may have been"
+    },
+    {
+        "id": 193,
+        "start": 551.684,
+        "end": 554.463,
+        "text": "intentionally filled by the Spanish"
+    },
+    {
+        "id": 194,
+        "start": 554.487,
+        "end": 556.799,
+        "text": "so the English could not have access"
+    },
+    {
+        "id": 195,
+        "start": 556.823,
+        "end": 561.037,
+        "text": "to a reliable water source so close to the fort."
+    },
+    {
+        "id": 196,
+        "start": 561.061,
+        "end": 563.639,
+        "text": "♪♪"
+    },
+    {
+        "id": 197,
+        "start": 563.663,
+        "end": 566.809,
+        "text": " Moore's army proved weak, and morale was low."
+    },
+    {
+        "id": 198,
+        "start": 566.833,
+        "end": 571.447,
+        "text": "The Castillo seemed to be impenetrable."
+    },
+    {
+        "id": 199,
+        "start": 571.471,
+        "end": 575.484,
+        "text": "What made the fort so resistant to artillery fire?"
+    },
+    {
+        "id": 200,
+        "start": 575.508,
+        "end": 576.952,
+        "text": "♪♪"
+    },
+    {
+        "id": 201,
+        "start": 576.976,
+        "end": 578.354,
+        "text": "[Gunshot]"
+    },
+    {
+        "id": 202,
+        "start": 578.378,
+        "end": 579.922,
+        "text": "This is what is expected to happen"
+    },
+    {
+        "id": 203,
+        "start": 579.946,
+        "end": 584.093,
+        "text": "when a cannonball strikes the wall of a stone fort."
+    },
+    {
+        "id": 204,
+        "start": 584.117,
+        "end": 586.028,
+        "text": " Brittle rock, such as sandstone,"
+    },
+    {
+        "id": 205,
+        "start": 586.052,
+        "end": 587.863,
+        "text": "when you start to compress,"
+    },
+    {
+        "id": 206,
+        "start": 587.887,
+        "end": 591.834,
+        "text": "it shatters violently, the fragments will fly off,"
+    },
+    {
+        "id": 207,
+        "start": 591.858,
+        "end": 595.838,
+        "text": "whereas coquina doesn't shatter and fragments do not fly off."
+    },
+    {
+        "id": 208,
+        "start": 595.862,
+        "end": 599.708,
+        "text": " Dr. Ghatu Subhash has conducted compression experiments"
+    },
+    {
+        "id": 209,
+        "start": 599.732,
+        "end": 602.144,
+        "text": "on the unique stone used to build the Castillo,"
+    },
+    {
+        "id": 210,
+        "start": 602.168,
+        "end": 603.913,
+        "text": "known as \"coquina.\""
+    },
+    {
+        "id": 211,
+        "start": 603.937,
+        "end": 606.415,
+        "text": "His team at the University of Florida's"
+    },
+    {
+        "id": 212,
+        "start": 606.439,
+        "end": 608.551,
+        "text": "Department of Mechanical Engineering"
+    },
+    {
+        "id": 213,
+        "start": 608.575,
+        "end": 610.052,
+        "text": "want to understand"
+    },
+    {
+        "id": 214,
+        "start": 610.076,
+        "end": 613.689,
+        "text": "why the fort was able to withstand artillery fire"
+    },
+    {
+        "id": 215,
+        "start": 613.713,
+        "end": 616.525,
+        "text": "while other structures could not."
+    },
+    {
+        "id": 216,
+        "start": 616.549,
+        "end": 617.893,
+        "text": " The principle behind"
+    },
+    {
+        "id": 217,
+        "start": 617.917,
+        "end": 620.863,
+        "text": "why it withstood so elegantly and majestically"
+    },
+    {
+        "id": 218,
+        "start": 620.887,
+        "end": 624.667,
+        "text": "is simply coquina was able to absorb energy locally,"
+    },
+    {
+        "id": 219,
+        "start": 624.691,
+        "end": 627.77,
+        "text": "not sending the energy to a global region,"
+    },
+    {
+        "id": 220,
+        "start": 627.794,
+        "end": 629.839,
+        "text": "which is fracture."
+    },
+    {
+        "id": 221,
+        "start": 629.863,
+        "end": 633.909,
+        "text": " The coquina walls are composed of compressedshell fragments,"
+    },
+    {
+        "id": 222,
+        "start": 633.933,
+        "end": 636.879,
+        "text": "bonded together over thousands of years."
+    },
+    {
+        "id": 223,
+        "start": 636.903,
+        "end": 639.515,
+        "text": " It's all a tunneling effect, so the ball comes..."
+    },
+    {
+        "id": 224,
+        "start": 639.539,
+        "end": 640.85,
+        "text": "Material ahead of it"
+    },
+    {
+        "id": 225,
+        "start": 640.874,
+        "end": 642.017,
+        "text": "is being crushed, crushed, crushed, crushed."
+    },
+    {
+        "id": 226,
+        "start": 642.041,
+        "end": 643.752,
+        "text": "That's all."
+    },
+    {
+        "id": 227,
+        "start": 643.776,
+        "end": 646.889,
+        "text": " The tiny shells crumble, absorbing impact,"
+    },
+    {
+        "id": 228,
+        "start": 646.913,
+        "end": 650.059,
+        "text": "so bullets and cannonballs sank into the Castillo,"
+    },
+    {
+        "id": 229,
+        "start": 650.083,
+        "end": 653.195,
+        "text": "rather than shattering the walls."
+    },
+    {
+        "id": 230,
+        "start": 653.219,
+        "end": 657.7,
+        "text": "Coquina is a material unique to just a few regions of the world."
+    },
+    {
+        "id": 231,
+        "start": 657.724,
+        "end": 659.668,
+        "text": "St. Augustine is one of them."
+    },
+    {
+        "id": 232,
+        "start": 659.692,
+        "end": 662.104,
+        "text": " They just got lucky."
+    },
+    {
+        "id": 233,
+        "start": 662.128,
+        "end": 663.357,
+        "text": "They just got lucky."
+    },
+    {
+        "id": 234,
+        "start": 664.898,
+        "end": 666.775,
+        "text": " As the days wore on,"
+    },
+    {
+        "id": 235,
+        "start": 666.799,
+        "end": 668.844,
+        "text": "the English began to blame General Moore"
+    },
+    {
+        "id": 236,
+        "start": 668.868,
+        "end": 670.913,
+        "text": "for their failure to take the fort."
+    },
+    {
+        "id": 237,
+        "start": 670.937,
+        "end": 673.182,
+        "text": " The British start arguing among themselves,"
+    },
+    {
+        "id": 238,
+        "start": 673.206,
+        "end": 674.75,
+        "text": "because the British invaders"
+    },
+    {
+        "id": 239,
+        "start": 674.774,
+        "end": 677.086,
+        "text": "had put a lot of their own money into it,"
+    },
+    {
+        "id": 240,
+        "start": 677.11,
+        "end": 680.156,
+        "text": "but they've got their own money riding on this venture."
+    },
+    {
+        "id": 241,
+        "start": 680.18,
+        "end": 681.657,
+        "text": " [Coughing]"
+    },
+    {
+        "id": 242,
+        "start": 681.681,
+        "end": 684.66,
+        "text": " But conditions inside the Castillo"
+    },
+    {
+        "id": 243,
+        "start": 684.684,
+        "end": 686.529,
+        "text": "were becoming dire, as well."
+    },
+    {
+        "id": 244,
+        "start": 686.553,
+        "end": 688.931,
+        "text": "Food was running scarce."
+    },
+    {
+        "id": 245,
+        "start": 688.955,
+        "end": 690.699,
+        "text": " That's one of the things you do with a siege is,"
+    },
+    {
+        "id": 246,
+        "start": 690.723,
+        "end": 692.101,
+        "text": "ultimately, you can starve them out."
+    },
+    {
+        "id": 247,
+        "start": 692.125,
+        "end": 695.671,
+        "text": "If you can't bombard them out, you know,"
+    },
+    {
+        "id": 248,
+        "start": 695.695,
+        "end": 697.54,
+        "text": "you can just wait them out on the outside,"
+    },
+    {
+        "id": 249,
+        "start": 697.564,
+        "end": 701.177,
+        "text": "because you have access to food and they don't."
+    },
+    {
+        "id": 250,
+        "start": 701.201,
+        "end": 703.979,
+        "text": "♪♪"
+    },
+    {
+        "id": 251,
+        "start": 704.003,
+        "end": 706.048,
+        "text": " The governor sent out messengers,"
+    },
+    {
+        "id": 252,
+        "start": 706.072,
+        "end": 708.217,
+        "text": "hoping one of them would reach Cuba."
+    },
+    {
+        "id": 253,
+        "start": 708.241,
+        "end": 711.754,
+        "text": " He's hoping that he can send someone in a small canoe"
+    },
+    {
+        "id": 254,
+        "start": 711.778,
+        "end": 712.955,
+        "text": "down the tidal creeks,"
+    },
+    {
+        "id": 255,
+        "start": 712.979,
+        "end": 715.09,
+        "text": "down past Fort Matanzas,"
+    },
+    {
+        "id": 256,
+        "start": 715.114,
+        "end": 717.726,
+        "text": "down beyond what is today Palm Coast, Daytona,"
+    },
+    {
+        "id": 257,
+        "start": 717.75,
+        "end": 719.562,
+        "text": "that whole area."
+    },
+    {
+        "id": 258,
+        "start": 719.586,
+        "end": 724.867,
+        "text": "Can you imagine taking a canoe out into the Atlantic Ocean?"
+    },
+    {
+        "id": 259,
+        "start": 724.891,
+        "end": 728.904,
+        "text": " Meanwhile, the Carolina troops had also sent word to Jamaica,"
+    },
+    {
+        "id": 260,
+        "start": 728.928,
+        "end": 732.942,
+        "text": "asking for bombs that they might lob over the walls."
+    },
+    {
+        "id": 261,
+        "start": 732.966,
+        "end": 735.211,
+        "text": "In preparation, they began digging trenches"
+    },
+    {
+        "id": 262,
+        "start": 735.235,
+        "end": 737.513,
+        "text": "close to the Castillo."
+    },
+    {
+        "id": 263,
+        "start": 737.537,
+        "end": 738.981,
+        "text": "[Waves crashing]"
+    },
+    {
+        "id": 264,
+        "start": 739.005,
+        "end": 741.65,
+        "text": "[Wood creaking]"
+    },
+    {
+        "id": 265,
+        "start": 741.674,
+        "end": 745.921,
+        "text": "Suddenly, four Spanish warships from Havana"
+    },
+    {
+        "id": 266,
+        "start": 745.945,
+        "end": 747.823,
+        "text": "appeared on the horizon."
+    },
+    {
+        "id": 267,
+        "start": 747.847,
+        "end": 750.893,
+        "text": "♪♪"
+    },
+    {
+        "id": 268,
+        "start": 750.917,
+        "end": 752.861,
+        "text": " So, the Spanish ships literally appear,"
+    },
+    {
+        "id": 269,
+        "start": 752.885,
+        "end": 754.196,
+        "text": "probably just at the right time."
+    },
+    {
+        "id": 270,
+        "start": 754.22,
+        "end": 755.831,
+        "text": " [Shouts]"
+    },
+    {
+        "id": 271,
+        "start": 755.855,
+        "end": 756.865,
+        "text": " Four galleons are on the horizon!"
+    },
+    {
+        "id": 272,
+        "start": 756.889,
+        "end": 758.267,
+        "text": " They've got troops with them."
+    },
+    {
+        "id": 273,
+        "start": 758.291,
+        "end": 762.004,
+        "text": "They've got, obviously, supplies and ammunition."
+    },
+    {
+        "id": 274,
+        "start": 762.028,
+        "end": 763.305,
+        "text": "[Laughter and applause]"
+    },
+    {
+        "id": 275,
+        "start": 763.329,
+        "end": 765.107,
+        "text": "♪♪"
+    },
+    {
+        "id": 276,
+        "start": 765.131,
+        "end": 769.745,
+        "text": " After 52 days of fighting, the siege was finally over."
+    },
+    {
+        "id": 277,
+        "start": 769.769,
+        "end": 773.182,
+        "text": "♪♪"
+    },
+    {
+        "id": 278,
+        "start": 773.206,
+        "end": 775.784,
+        "text": "But before Moore's army retreated,"
+    },
+    {
+        "id": 279,
+        "start": 775.808,
+        "end": 780.122,
+        "text": "they set fire to the remaining buildings in town."
+    },
+    {
+        "id": 280,
+        "start": 780.146,
+        "end": 781.89,
+        "text": "For at least the third time"
+    },
+    {
+        "id": 281,
+        "start": 781.914,
+        "end": 784.994,
+        "text": "since the first settlement had been established,"
+    },
+    {
+        "id": 282,
+        "start": 785.018,
+        "end": 788.163,
+        "text": "fire had ravaged the city."
+    },
+    {
+        "id": 283,
+        "start": 788.187,
+        "end": 792.334,
+        "text": "It was going to take decades to fully recover."
+    },
+    {
+        "id": 284,
+        "start": 792.358,
+        "end": 794.003,
+        "text": " No food, no homes."
+    },
+    {
+        "id": 285,
+        "start": 794.027,
+        "end": 796.572,
+        "text": "It's late December and almost January,"
+    },
+    {
+        "id": 286,
+        "start": 796.596,
+        "end": 798.34,
+        "text": "so, you know, it's not even a good time, really,"
+    },
+    {
+        "id": 287,
+        "start": 798.364,
+        "end": 799.942,
+        "text": "to grow food."
+    },
+    {
+        "id": 288,
+        "start": 799.966,
+        "end": 802.645,
+        "text": "♪♪"
+    },
+    {
+        "id": 289,
+        "start": 802.669,
+        "end": 806.315,
+        "text": "We do know, by looking through the parish records,"
+    },
+    {
+        "id": 290,
+        "start": 806.339,
+        "end": 809.818,
+        "text": "that, over the next two or three years after the siege,"
+    },
+    {
+        "id": 291,
+        "start": 809.842,
+        "end": 814.323,
+        "text": "the birth rate in St. Augustine dropped drastically."
+    },
+    {
+        "id": 292,
+        "start": 814.347,
+        "end": 818.327,
+        "text": "The birth rate in 1703 and 1704"
+    },
+    {
+        "id": 293,
+        "start": 818.351,
+        "end": 822.965,
+        "text": "is 1/3 of what it was in 1702."
+    },
+    {
+        "id": 294,
+        "start": 822.989,
+        "end": 826.068,
+        "text": "Whether the mothers weren't healthy enough to,"
+    },
+    {
+        "id": 295,
+        "start": 826.092,
+        "end": 828.237,
+        "text": "you know, bring babies to term, we can conjecture,"
+    },
+    {
+        "id": 296,
+        "start": 828.261,
+        "end": 830.306,
+        "text": "but obviously, it is an issue"
+    },
+    {
+        "id": 297,
+        "start": 830.33,
+        "end": 833.876,
+        "text": "of food supplies and health and shelter."
+    },
+    {
+        "id": 298,
+        "start": 833.9,
+        "end": 837.646,
+        "text": "And, I mean, that's a drastic drop in the birth rate."
+    },
+    {
+        "id": 299,
+        "start": 837.67,
+        "end": 840.349,
+        "text": "♪♪"
+    },
+    {
+        "id": 300,
+        "start": 840.373,
+        "end": 843.018,
+        "text": " The untold emotional and physical toll"
+    },
+    {
+        "id": 301,
+        "start": 843.042,
+        "end": 844.687,
+        "text": "that rebuilding took"
+    },
+    {
+        "id": 302,
+        "start": 844.711,
+        "end": 846.889,
+        "text": "is probably most apparent"
+    },
+    {
+        "id": 303,
+        "start": 846.913,
+        "end": 850.659,
+        "text": "in the Spanish skeletal remains from that era."
+    },
+    {
+        "id": 304,
+        "start": 850.683,
+        "end": 854.396,
+        "text": " Culture was under stress, their life was a life of hardship,"
+    },
+    {
+        "id": 305,
+        "start": 854.42,
+        "end": 856.965,
+        "text": "and this is reflected in the broken bones."
+    },
+    {
+        "id": 306,
+        "start": 856.989,
+        "end": 860.235,
+        "text": " Virtually everybody over a few years old"
+    },
+    {
+        "id": 307,
+        "start": 860.259,
+        "end": 864.273,
+        "text": "had terrible dental caries and abscesses in the jaws"
+    },
+    {
+        "id": 308,
+        "start": 864.297,
+        "end": 866.742,
+        "text": "and had lost teeth,"
+    },
+    {
+        "id": 309,
+        "start": 866.766,
+        "end": 871.847,
+        "text": "and pretty much everybody over 20 had severe arthritis."
+    },
+    {
+        "id": 310,
+        "start": 871.871,
+        "end": 877.119,
+        "text": "It must have been painful to do daily chores like drawing water"
+    },
+    {
+        "id": 311,
+        "start": 877.143,
+        "end": 880.322,
+        "text": "and chopping fuel wood and grinding corn."
+    },
+    {
+        "id": 312,
+        "start": 880.346,
+        "end": 887.329,
+        "text": "♪♪"
+    },
+    {
+        "id": 313,
+        "start": 887.353,
+        "end": 889.331,
+        "text": " But while the people of St. Augustine"
+    },
+    {
+        "id": 314,
+        "start": 889.355,
+        "end": 892,
+        "text": "were slowing piecing their lives back together..."
+    },
+    {
+        "id": 315,
+        "start": 892.024,
+        "end": 894.87,
+        "text": "[Thunder crashing]"
+    },
+    {
+        "id": 316,
+        "start": 894.894,
+        "end": 898.107,
+        "text": "James Moore was back in South Carolina,"
+    },
+    {
+        "id": 317,
+        "start": 898.131,
+        "end": 899.408,
+        "text": "plotting revenge."
+    },
+    {
+        "id": 318,
+        "start": 899.432,
+        "end": 901.477,
+        "text": "[Thunder crashing]"
+    },
+    {
+        "id": 319,
+        "start": 901.501,
+        "end": 905.314,
+        "text": " He suffered the loss of his pride."
+    },
+    {
+        "id": 320,
+        "start": 905.338,
+        "end": 908.317,
+        "text": "He was treated as a contemptible person"
+    },
+    {
+        "id": 321,
+        "start": 908.341,
+        "end": 911.253,
+        "text": "for having failed in his mission"
+    },
+    {
+        "id": 322,
+        "start": 911.277,
+        "end": 913.922,
+        "text": "to capture the castle at St. Augustine."
+    },
+    {
+        "id": 323,
+        "start": 913.946,
+        "end": 918.16,
+        "text": " And so, Colonel Moore is in trouble back in Charleston,"
+    },
+    {
+        "id": 324,
+        "start": 918.184,
+        "end": 920.262,
+        "text": "because they lost a lot of money,"
+    },
+    {
+        "id": 325,
+        "start": 920.286,
+        "end": 923.065,
+        "text": "the backers of this expedition."
+    },
+    {
+        "id": 326,
+        "start": 923.089,
+        "end": 925.2,
+        "text": " He was brought before the courts,"
+    },
+    {
+        "id": 327,
+        "start": 925.224,
+        "end": 927.236,
+        "text": "and that was a great embarrassment to him"
+    },
+    {
+        "id": 328,
+        "start": 927.26,
+        "end": 930.305,
+        "text": "that he had failed to capture St. Augustine and to loot it."
+    },
+    {
+        "id": 329,
+        "start": 930.329,
+        "end": 932.841,
+        "text": " So, he decided to make up for it somehow."
+    },
+    {
+        "id": 330,
+        "start": 932.865,
+        "end": 934.977,
+        "text": "♪♪"
+    },
+    {
+        "id": 331,
+        "start": 935.001,
+        "end": 937.179,
+        "text": " Piracy."
+    },
+    {
+        "id": 332,
+        "start": 937.203,
+        "end": 939.348,
+        "text": "How did you make a living back then?"
+    },
+    {
+        "id": 333,
+        "start": 939.372,
+        "end": 942.785,
+        "text": "You stole from other people."
+    },
+    {
+        "id": 334,
+        "start": 942.809,
+        "end": 946.355,
+        "text": " Moore hatched a new plan to get revenge on the Spanish."
+    },
+    {
+        "id": 335,
+        "start": 946.379,
+        "end": 949.057,
+        "text": "This time, he promised that South Carolina"
+    },
+    {
+        "id": 336,
+        "start": 949.081,
+        "end": 951.927,
+        "text": "would not have to pay for the expedition."
+    },
+    {
+        "id": 337,
+        "start": 951.951,
+        "end": 957.132,
+        "text": "He was going to recover his costs in a highly lucrative way."
+    },
+    {
+        "id": 338,
+        "start": 957.156,
+        "end": 959.268,
+        "text": " It was stealing people..."
+    },
+    {
+        "id": 339,
+        "start": 959.292,
+        "end": 963.105,
+        "text": "That the Native Americans could be rounded up."
+    },
+    {
+        "id": 340,
+        "start": 963.129,
+        "end": 967.109,
+        "text": "They could be walked back to Charles Town"
+    },
+    {
+        "id": 341,
+        "start": 967.133,
+        "end": 968.877,
+        "text": "and sold into slave markets."
+    },
+    {
+        "id": 342,
+        "start": 968.901,
+        "end": 972.448,
+        "text": " A promotional pamphlet is distributed around England"
+    },
+    {
+        "id": 343,
+        "start": 972.472,
+        "end": 974.95,
+        "text": "that advises people to enslave Indians"
+    },
+    {
+        "id": 344,
+        "start": 974.974,
+        "end": 978.22,
+        "text": "because they're cheaper and they're easier to acquire."
+    },
+    {
+        "id": 345,
+        "start": 978.244,
+        "end": 980.856,
+        "text": " And that was where the money was."
+    },
+    {
+        "id": 346,
+        "start": 980.88,
+        "end": 982.891,
+        "text": "It was in the slavery business."
+    },
+    {
+        "id": 347,
+        "start": 982.915,
+        "end": 985.861,
+        "text": " Indians increasingly have to choose whether to become victims"
+    },
+    {
+        "id": 348,
+        "start": 985.885,
+        "end": 989.331,
+        "text": "or to participate in the slave trade as slave raiders."
+    },
+    {
+        "id": 349,
+        "start": 989.355,
+        "end": 992.367,
+        "text": "And so, the Yamasees and the Lower Creeks, in particular,"
+    },
+    {
+        "id": 350,
+        "start": 992.391,
+        "end": 995.304,
+        "text": "they have become very active slave raiders."
+    },
+    {
+        "id": 351,
+        "start": 995.328,
+        "end": 996.805,
+        "text": " We did not understand the concept"
+    },
+    {
+        "id": 352,
+        "start": 996.829,
+        "end": 998.974,
+        "text": "of what they identified slavery as."
+    },
+    {
+        "id": 353,
+        "start": 998.998,
+        "end": 1001.51,
+        "text": "I think that if our people had known"
+    },
+    {
+        "id": 354,
+        "start": 1001.534,
+        "end": 1004.012,
+        "text": "that this would have turned out the way it did,"
+    },
+    {
+        "id": 355,
+        "start": 1004.036,
+        "end": 1006.381,
+        "text": "they wouldn't have assisted."
+    },
+    {
+        "id": 356,
+        "start": 1006.405,
+        "end": 1008.25,
+        "text": " Over the next two years,"
+    },
+    {
+        "id": 357,
+        "start": 1008.274,
+        "end": 1011.119,
+        "text": "Moore and his raiders storm the Spanish missions"
+    },
+    {
+        "id": 358,
+        "start": 1011.143,
+        "end": 1013.522,
+        "text": "throughout the interior of La Florida."
+    },
+    {
+        "id": 359,
+        "start": 1013.546,
+        "end": 1018.06,
+        "text": " There, he burned and maimed and killed."
+    },
+    {
+        "id": 360,
+        "start": 1018.084,
+        "end": 1020.963,
+        "text": "It's a disaster."
+    },
+    {
+        "id": 361,
+        "start": 1020.987,
+        "end": 1023.999,
+        "text": " Most of the survivors of these mission raids were captured"
+    },
+    {
+        "id": 362,
+        "start": 1024.023,
+        "end": 1026.268,
+        "text": "and taken back to South Carolina."
+    },
+    {
+        "id": 363,
+        "start": 1026.292,
+        "end": 1028.003,
+        "text": "According to his own report,"
+    },
+    {
+        "id": 364,
+        "start": 1028.027,
+        "end": 1031.406,
+        "text": "James Moore took over 4,000 Natives,"
+    },
+    {
+        "id": 365,
+        "start": 1031.43,
+        "end": 1034.843,
+        "text": "mostly women and children, to sell into slavery."
+    },
+    {
+        "id": 366,
+        "start": 1034.867,
+        "end": 1038.046,
+        "text": " The historian of this period, John Hann,"
+    },
+    {
+        "id": 367,
+        "start": 1038.07,
+        "end": 1041.95,
+        "text": "said that this was the largest slave raid"
+    },
+    {
+        "id": 368,
+        "start": 1041.974,
+        "end": 1043.318,
+        "text": "in the history of the country."
+    },
+    {
+        "id": 369,
+        "start": 1043.342,
+        "end": 1044.887,
+        "text": " In South Carolina,"
+    },
+    {
+        "id": 370,
+        "start": 1044.911,
+        "end": 1047.923,
+        "text": "about 25% of the slave population is Indian,"
+    },
+    {
+        "id": 371,
+        "start": 1047.947,
+        "end": 1050.959,
+        "text": "so a full quarter is American Indians."
+    },
+    {
+        "id": 372,
+        "start": 1050.983,
+        "end": 1053.896,
+        "text": " And that's how he redeemed himself,"
+    },
+    {
+        "id": 373,
+        "start": 1053.92,
+        "end": 1056.031,
+        "text": "with all these slaves, all this income."
+    },
+    {
+        "id": 374,
+        "start": 1056.055,
+        "end": 1059.334,
+        "text": " There's a term, and it is an insult"
+    },
+    {
+        "id": 375,
+        "start": 1059.358,
+        "end": 1060.969,
+        "text": "for a Native person to say"
+    },
+    {
+        "id": 376,
+        "start": 1060.993,
+        "end": 1063.038,
+        "text": "they act as if they have no family,"
+    },
+    {
+        "id": 377,
+        "start": 1063.062,
+        "end": 1065.908,
+        "text": "because kinship is humanness,"
+    },
+    {
+        "id": 378,
+        "start": 1065.932,
+        "end": 1067.342,
+        "text": "because, obviously,"
+    },
+    {
+        "id": 379,
+        "start": 1067.366,
+        "end": 1069.845,
+        "text": "they would never treat another human like that"
+    },
+    {
+        "id": 380,
+        "start": 1069.869,
+        "end": 1074.182,
+        "text": "if they knew what it was to love and to hold something sacred."
+    },
+    {
+        "id": 381,
+        "start": 1074.206,
+        "end": 1078.186,
+        "text": "So, in our eyes, they were less than human."
+    },
+    {
+        "id": 382,
+        "start": 1078.21,
+        "end": 1081.256,
+        "text": " It is nearly impossible to find much writing"
+    },
+    {
+        "id": 383,
+        "start": 1081.28,
+        "end": 1084.192,
+        "text": "in the documentary record about Mission Indians,"
+    },
+    {
+        "id": 384,
+        "start": 1084.216,
+        "end": 1086.295,
+        "text": "because the English wiped out so much of their past."
+    },
+    {
+        "id": 385,
+        "start": 1086.319,
+        "end": 1087.93,
+        "text": " Yes!"
+    },
+    {
+        "id": 386,
+        "start": 1087.954,
+        "end": 1090.566,
+        "text": " But Dr. Susan Parker has managed to trace"
+    },
+    {
+        "id": 387,
+        "start": 1090.59,
+        "end": 1094.369,
+        "text": "several decades of the life of one Indian and his family"
+    },
+    {
+        "id": 388,
+        "start": 1094.393,
+        "end": 1099.274,
+        "text": "as they endured numerous attacks by English invaders."
+    },
+    {
+        "id": 389,
+        "start": 1099.298,
+        "end": 1103.345,
+        "text": "Their story shows the enormous price that was paid"
+    },
+    {
+        "id": 390,
+        "start": 1103.369,
+        "end": 1105.547,
+        "text": "by those who remain loyal to Spain."
+    },
+    {
+        "id": 391,
+        "start": 1105.571,
+        "end": 1109.618,
+        "text": " Francisco Jospo was a Mission Indian,"
+    },
+    {
+        "id": 392,
+        "start": 1109.642,
+        "end": 1113.956,
+        "text": "born about 10 years before the English established Carolina."
+    },
+    {
+        "id": 393,
+        "start": 1113.98,
+        "end": 1115.39,
+        "text": "[Birds chirping]"
+    },
+    {
+        "id": 394,
+        "start": 1115.414,
+        "end": 1118.327,
+        "text": " Jospo grew up on a mission in what is now"
+    },
+    {
+        "id": 395,
+        "start": 1118.351,
+        "end": 1120.963,
+        "text": "St. Catherines Island in Georgia."
+    },
+    {
+        "id": 396,
+        "start": 1120.987,
+        "end": 1122.197,
+        "text": "When he was a young man,"
+    },
+    {
+        "id": 397,
+        "start": 1122.221,
+        "end": 1124.967,
+        "text": "his mission was attacked several times,"
+    },
+    {
+        "id": 398,
+        "start": 1124.991,
+        "end": 1129.037,
+        "text": "first by early Carolina settlers who predated Moore,"
+    },
+    {
+        "id": 399,
+        "start": 1129.061,
+        "end": 1131.206,
+        "text": "and then by English pirates."
+    },
+    {
+        "id": 400,
+        "start": 1131.23,
+        "end": 1134.643,
+        "text": "Jospo moved south and started his own militia."
+    },
+    {
+        "id": 401,
+        "start": 1134.667,
+        "end": 1136.511,
+        "text": "♪♪"
+    },
+    {
+        "id": 402,
+        "start": 1136.535,
+        "end": 1140.682,
+        "text": " In 1715, he talks about"
+    },
+    {
+        "id": 403,
+        "start": 1140.706,
+        "end": 1145.487,
+        "text": "how he is living in a village south of St. Augustine."
+    },
+    {
+        "id": 404,
+        "start": 1145.511,
+        "end": 1149.257,
+        "text": "The English Indians attacked the village."
+    },
+    {
+        "id": 405,
+        "start": 1149.281,
+        "end": 1151.159,
+        "text": "♪♪"
+    },
+    {
+        "id": 406,
+        "start": 1151.183,
+        "end": 1152.661,
+        "text": " [Whoops]"
+    },
+    {
+        "id": 407,
+        "start": 1152.685,
+        "end": 1156.131,
+        "text": " Jospo had been one of the first to take up arms"
+    },
+    {
+        "id": 408,
+        "start": 1156.155,
+        "end": 1158.967,
+        "text": "to defend the settlement."
+    },
+    {
+        "id": 409,
+        "start": 1158.991,
+        "end": 1163.038,
+        "text": " They attack his village while he is out with his men,"
+    },
+    {
+        "id": 410,
+        "start": 1163.062,
+        "end": 1165.107,
+        "text": "and they take his wife and children,"
+    },
+    {
+        "id": 411,
+        "start": 1165.131,
+        "end": 1167.376,
+        "text": "he says, at knifepoint."
+    },
+    {
+        "id": 412,
+        "start": 1167.4,
+        "end": 1171.279,
+        "text": " Three times, the English offer to return Jospo's family"
+    },
+    {
+        "id": 413,
+        "start": 1171.303,
+        "end": 1173.482,
+        "text": "in exchange for his alliance with them"
+    },
+    {
+        "id": 414,
+        "start": 1173.506,
+        "end": 1176.184,
+        "text": "and abandonment of Catholicism."
+    },
+    {
+        "id": 415,
+        "start": 1176.208,
+        "end": 1178.487,
+        "text": "Three times, he refused.  No."
+    },
+    {
+        "id": 416,
+        "start": 1178.511,
+        "end": 1181.156,
+        "text": "No. No. No."
+    },
+    {
+        "id": 417,
+        "start": 1181.18,
+        "end": 1182.724,
+        "text": "♪♪"
+    },
+    {
+        "id": 418,
+        "start": 1182.748,
+        "end": 1185.293,
+        "text": " In a letter to the King of Spain,"
+    },
+    {
+        "id": 419,
+        "start": 1185.317,
+        "end": 1188.296,
+        "text": "Jospo said he believed his family had been separated"
+    },
+    {
+        "id": 420,
+        "start": 1188.32,
+        "end": 1190.432,
+        "text": "and sold as slaves,"
+    },
+    {
+        "id": 421,
+        "start": 1190.456,
+        "end": 1192.3,
+        "text": "probably to work on sugar plantations"
+    },
+    {
+        "id": 422,
+        "start": 1192.324,
+        "end": 1194.603,
+        "text": "in Jamaica or the Barbados."
+    },
+    {
+        "id": 423,
+        "start": 1194.627,
+        "end": 1198.173,
+        "text": " And he says that he fears that they have been taken"
+    },
+    {
+        "id": 424,
+        "start": 1198.197,
+        "end": 1200.409,
+        "text": "and perished in foreign lands."
+    },
+    {
+        "id": 425,
+        "start": 1200.433,
+        "end": 1203.178,
+        "text": "And it was a story that just... That grabbed me"
+    },
+    {
+        "id": 426,
+        "start": 1203.202,
+        "end": 1205.247,
+        "text": "and certainly touched my heart, I think, when he said"
+    },
+    {
+        "id": 427,
+        "start": 1205.271,
+        "end": 1208.083,
+        "text": "that he feared that his family had perished in foreign lands."
+    },
+    {
+        "id": 428,
+        "start": 1208.107,
+        "end": 1210.052,
+        "text": "[Men chanting]"
+    },
+    {
+        "id": 429,
+        "start": 1210.076,
+        "end": 1214.022,
+        "text": " The British had no interest in spreading their Christian faith"
+    },
+    {
+        "id": 430,
+        "start": 1214.046,
+        "end": 1219.194,
+        "text": "among the Native peoples of, say, New England or the Midwest."
+    },
+    {
+        "id": 431,
+        "start": 1219.218,
+        "end": 1221.063,
+        "text": "The English had very little interest"
+    },
+    {
+        "id": 432,
+        "start": 1221.087,
+        "end": 1224.066,
+        "text": "in the welfare of the Native societies."
+    },
+    {
+        "id": 433,
+        "start": 1224.09,
+        "end": 1227.736,
+        "text": "It was commonly said in, what I call the powderedwig states,"
+    },
+    {
+        "id": 434,
+        "start": 1227.76,
+        "end": 1229.888,
+        "text": "\"The only good Indian is a dead Indian.\""
+    },
+    {
+        "id": 435,
+        "start": 1231.263,
+        "end": 1234.242,
+        "text": " Moore and his allies viciously killed"
+    },
+    {
+        "id": 436,
+        "start": 1234.266,
+        "end": 1237.446,
+        "text": "over 1,000 people during his raids."
+    },
+    {
+        "id": 437,
+        "start": 1237.47,
+        "end": 1239.147,
+        "text": " Well, it was terribly brutal."
+    },
+    {
+        "id": 438,
+        "start": 1239.171,
+        "end": 1241.717,
+        "text": "People were burned alive."
+    },
+    {
+        "id": 439,
+        "start": 1241.741,
+        "end": 1246.254,
+        "text": "People were disemboweled, flayed, crucified."
+    },
+    {
+        "id": 440,
+        "start": 1246.278,
+        "end": 1247.589,
+        "text": "Christianized Indians,"
+    },
+    {
+        "id": 441,
+        "start": 1247.613,
+        "end": 1250.358,
+        "text": "the friars might be nailed to the cross."
+    },
+    {
+        "id": 442,
+        "start": 1250.382,
+        "end": 1253.795,
+        "text": " It was genocide. It was ethnic cleansing."
+    },
+    {
+        "id": 443,
+        "start": 1253.819,
+        "end": 1256.498,
+        "text": "History is written by the victors,"
+    },
+    {
+        "id": 444,
+        "start": 1256.522,
+        "end": 1258.667,
+        "text": "so whoever tells the story"
+    },
+    {
+        "id": 445,
+        "start": 1258.691,
+        "end": 1262.27,
+        "text": "is obviously going to tell it from their perspective,"
+    },
+    {
+        "id": 446,
+        "start": 1262.294,
+        "end": 1267.442,
+        "text": "and there's an indigenous voice that really hasn't been told."
+    },
+    {
+        "id": 447,
+        "start": 1267.466,
+        "end": 1270.412,
+        "text": " In one document, there's a whole list of chiefs"
+    },
+    {
+        "id": 448,
+        "start": 1270.436,
+        "end": 1272.514,
+        "text": "that were killed."
+    },
+    {
+        "id": 449,
+        "start": 1272.538,
+        "end": 1275.217,
+        "text": " Flagler College Distinguished Professor of Religion"
+    },
+    {
+        "id": 450,
+        "start": 1275.241,
+        "end": 1276.685,
+        "text": "Dr. Timothy Johnson"
+    },
+    {
+        "id": 451,
+        "start": 1276.709,
+        "end": 1278.82,
+        "text": "has been studying eyewitness accounts"
+    },
+    {
+        "id": 452,
+        "start": 1278.844,
+        "end": 1282.524,
+        "text": "of the genocide that occurred at these missions."
+    },
+    {
+        "id": 453,
+        "start": 1282.548,
+        "end": 1285.46,
+        "text": " People are given the chance to deny their faith."
+    },
+    {
+        "id": 454,
+        "start": 1285.484,
+        "end": 1289.331,
+        "text": "Some of them decide to flee, but many of them decide,"
+    },
+    {
+        "id": 455,
+        "start": 1289.355,
+        "end": 1290.532,
+        "text": "\"We're gonna die as Christians.\""
+    },
+    {
+        "id": 456,
+        "start": 1290.556,
+        "end": 1292.234,
+        "text": "They would stand up,"
+    },
+    {
+        "id": 457,
+        "start": 1292.258,
+        "end": 1294.703,
+        "text": "even watching and seeing and hearing what was happening"
+    },
+    {
+        "id": 458,
+        "start": 1294.727,
+        "end": 1297.405,
+        "text": "and knowing full well what was coming their way."
+    },
+    {
+        "id": 459,
+        "start": 1297.429,
+        "end": 1300.809,
+        "text": "And so, not only are these incredible historical documents,"
+    },
+    {
+        "id": 460,
+        "start": 1300.833,
+        "end": 1302.744,
+        "text": "they're really quite inspirational..."
+    },
+    {
+        "id": 461,
+        "start": 1302.768,
+        "end": 1307.182,
+        "text": "The stories of what people would do in the face of death."
+    },
+    {
+        "id": 462,
+        "start": 1307.206,
+        "end": 1309.184,
+        "text": "[Man chanting]"
+    },
+    {
+        "id": 463,
+        "start": 1309.208,
+        "end": 1312.387,
+        "text": " These accounts are part of the sworn testimony"
+    },
+    {
+        "id": 464,
+        "start": 1312.411,
+        "end": 1315.49,
+        "text": "taken by the Catholic Church in 1704,"
+    },
+    {
+        "id": 465,
+        "start": 1315.514,
+        "end": 1318.66,
+        "text": "when Pope Clement XI set up a commission"
+    },
+    {
+        "id": 466,
+        "start": 1318.684,
+        "end": 1321.83,
+        "text": "to look into these reputed acts of faith."
+    },
+    {
+        "id": 467,
+        "start": 1321.854,
+        "end": 1324.299,
+        "text": "But it wasn't until a few years ago"
+    },
+    {
+        "id": 468,
+        "start": 1324.323,
+        "end": 1327.836,
+        "text": "when Catholic historians began transcribing these records"
+    },
+    {
+        "id": 469,
+        "start": 1327.86,
+        "end": 1330.572,
+        "text": "that bishops felt there was enough there"
+    },
+    {
+        "id": 470,
+        "start": 1330.596,
+        "end": 1333.809,
+        "text": "to propose consideration for sainthood."
+    },
+    {
+        "id": 471,
+        "start": 1333.833,
+        "end": 1337.846,
+        "text": " There's a very sad story of a young boy by the name of Manuel."
+    },
+    {
+        "id": 472,
+        "start": 1337.87,
+        "end": 1340.382,
+        "text": "Manuel is an altar server,"
+    },
+    {
+        "id": 473,
+        "start": 1340.406,
+        "end": 1343.885,
+        "text": "and he is referred to in the sources"
+    },
+    {
+        "id": 474,
+        "start": 1343.909,
+        "end": 1347.856,
+        "text": "as a young boy, maybe 13 years old,"
+    },
+    {
+        "id": 475,
+        "start": 1347.88,
+        "end": 1350.659,
+        "text": "but who had a great, great devotion to God."
+    },
+    {
+        "id": 476,
+        "start": 1350.683,
+        "end": 1354.863,
+        "text": "And when the Creeks came in,"
+    },
+    {
+        "id": 477,
+        "start": 1354.887,
+        "end": 1356.531,
+        "text": "they set fire to the chapel,"
+    },
+    {
+        "id": 478,
+        "start": 1356.555,
+        "end": 1358.333,
+        "text": "and they said, \"Well, if you're a Christian,"
+    },
+    {
+        "id": 479,
+        "start": 1358.357,
+        "end": 1362.904,
+        "text": "then pray that God will send rain to put this out.\""
+    },
+    {
+        "id": 480,
+        "start": 1362.928,
+        "end": 1366.308,
+        "text": "So, he raised his hands, and they cut them off,"
+    },
+    {
+        "id": 481,
+        "start": 1366.332,
+        "end": 1367.809,
+        "text": "and they threw them to the dogs."
+    },
+    {
+        "id": 482,
+        "start": 1367.833,
+        "end": 1369.711,
+        "text": "And then what they do... It's horrible."
+    },
+    {
+        "id": 483,
+        "start": 1369.735,
+        "end": 1371.379,
+        "text": "You slice someone's neck"
+    },
+    {
+        "id": 484,
+        "start": 1371.403,
+        "end": 1373.515,
+        "text": "and then pull their skin completely over their head."
+    },
+    {
+        "id": 485,
+        "start": 1373.539,
+        "end": 1374.85,
+        "text": "That's how he died."
+    },
+    {
+        "id": 486,
+        "start": 1374.874,
+        "end": 1377.819,
+        "text": "♪♪"
+    },
+    {
+        "id": 487,
+        "start": 1377.843,
+        "end": 1380.689,
+        "text": " The Vatican has begun the process of canonization"
+    },
+    {
+        "id": 488,
+        "start": 1380.713,
+        "end": 1383.758,
+        "text": "for some 82 Native Americans and missionaries"
+    },
+    {
+        "id": 489,
+        "start": 1383.782,
+        "end": 1386.394,
+        "text": "killed for their belief during these raids."
+    },
+    {
+        "id": 490,
+        "start": 1386.418,
+        "end": 1389.197,
+        "text": "♪♪"
+    },
+    {
+        "id": 491,
+        "start": 1389.221,
+        "end": 1393.768,
+        "text": "Among them were Apalachee, Chickasaw, Yamasee,"
+    },
+    {
+        "id": 492,
+        "start": 1393.792,
+        "end": 1396.404,
+        "text": "Tocobaga, and Timucuans."
+    },
+    {
+        "id": 493,
+        "start": 1396.428,
+        "end": 1397.873,
+        "text": " And the Vatican said,"
+    },
+    {
+        "id": 494,
+        "start": 1397.897,
+        "end": 1400.842,
+        "text": "\"We believe that there are justifiable grounds.\""
+    },
+    {
+        "id": 495,
+        "start": 1400.866,
+        "end": 1403.912,
+        "text": "He'll declare these people as servants of God,"
+    },
+    {
+        "id": 496,
+        "start": 1403.936,
+        "end": 1407.549,
+        "text": "which is the first step on the road to canonization."
+    },
+    {
+        "id": 497,
+        "start": 1407.573,
+        "end": 1412.554,
+        "text": "♪♪"
+    },
+    {
+        "id": 498,
+        "start": 1412.578,
+        "end": 1415.69,
+        "text": " Only one Florida mission has ever been reconstructed"
+    },
+    {
+        "id": 499,
+        "start": 1415.714,
+        "end": 1418.627,
+        "text": "based on the ruins archaeologists have found..."
+    },
+    {
+        "id": 500,
+        "start": 1418.651,
+        "end": 1422.964,
+        "text": "Mission San Luis in Tallahassee."
+    },
+    {
+        "id": 501,
+        "start": 1422.988,
+        "end": 1426.534,
+        "text": " The estimate that's been given for San Luis, at its heighth,"
+    },
+    {
+        "id": 502,
+        "start": 1426.558,
+        "end": 1430.538,
+        "text": "was between 1,500 and 2,000 in this area."
+    },
+    {
+        "id": 503,
+        "start": 1430.562,
+        "end": 1432.307,
+        "text": "And that was Apalachee, and at its heighth,"
+    },
+    {
+        "id": 504,
+        "start": 1432.331,
+        "end": 1434.476,
+        "text": "there were probably 100 Spanish residents"
+    },
+    {
+        "id": 505,
+        "start": 1434.5,
+        "end": 1436.244,
+        "text": "that lived here permanently,"
+    },
+    {
+        "id": 506,
+        "start": 1436.268,
+        "end": 1439.781,
+        "text": "plus the soldiers who were cycled in with the garrison."
+    },
+    {
+        "id": 507,
+        "start": 1439.805,
+        "end": 1443.318,
+        "text": " But ever since Moore's first attacks in 1702,"
+    },
+    {
+        "id": 508,
+        "start": 1443.342,
+        "end": 1445.453,
+        "text": "several attempts to fend off these raids"
+    },
+    {
+        "id": 509,
+        "start": 1445.477,
+        "end": 1447.856,
+        "text": "killed off most of the Apalachee."
+    },
+    {
+        "id": 510,
+        "start": 1447.88,
+        "end": 1449.624,
+        "text": "The number of Spanish soldiers"
+    },
+    {
+        "id": 511,
+        "start": 1449.648,
+        "end": 1452.56,
+        "text": "sent to defend the mission kept dwindling."
+    },
+    {
+        "id": 512,
+        "start": 1452.584,
+        "end": 1454.93,
+        "text": "When they heard Moore's troops were advancing,"
+    },
+    {
+        "id": 513,
+        "start": 1454.954,
+        "end": 1457.399,
+        "text": "the residents of Mission San Luis"
+    },
+    {
+        "id": 514,
+        "start": 1457.423,
+        "end": 1459.701,
+        "text": "burned down their buildings and fled."
+    },
+    {
+        "id": 515,
+        "start": 1459.725,
+        "end": 1462.37,
+        "text": "♪♪"
+    },
+    {
+        "id": 516,
+        "start": 1462.394,
+        "end": 1466.474,
+        "text": "By 1706, the Spanish missions in La Florida"
+    },
+    {
+        "id": 517,
+        "start": 1466.498,
+        "end": 1470.712,
+        "text": "had been almost completely obliterated."
+    },
+    {
+        "id": 518,
+        "start": 1470.736,
+        "end": 1474.249,
+        "text": "It dealt a demoralizing blow to Spanish Catholics,"
+    },
+    {
+        "id": 519,
+        "start": 1474.273,
+        "end": 1477.652,
+        "text": "but it was also a crippling setback for St. Augustine."
+    },
+    {
+        "id": 520,
+        "start": 1477.676,
+        "end": 1480.622,
+        "text": "The missions had been its breadbasket."
+    },
+    {
+        "id": 521,
+        "start": 1480.646,
+        "end": 1484.292,
+        "text": " The outlying missions supplied much of the surplus corn"
+    },
+    {
+        "id": 522,
+        "start": 1484.316,
+        "end": 1486.594,
+        "text": "for St. Augustine,"
+    },
+    {
+        "id": 523,
+        "start": 1486.618,
+        "end": 1489.965,
+        "text": "and that chain of missions going north"
+    },
+    {
+        "id": 524,
+        "start": 1489.989,
+        "end": 1493.335,
+        "text": "became a really important source of food"
+    },
+    {
+        "id": 525,
+        "start": 1493.359,
+        "end": 1495.003,
+        "text": "for the Spanish settlement."
+    },
+    {
+        "id": 526,
+        "start": 1495.027,
+        "end": 1497.439,
+        "text": "♪♪"
+    },
+    {
+        "id": 527,
+        "start": 1497.463,
+        "end": 1499.574,
+        "text": " Now those fields were barren,"
+    },
+    {
+        "id": 528,
+        "start": 1499.598,
+        "end": 1504.012,
+        "text": "and even a decade later, food continued to be scarce."
+    },
+    {
+        "id": 529,
+        "start": 1504.036,
+        "end": 1506.448,
+        "text": "♪♪"
+    },
+    {
+        "id": 530,
+        "start": 1506.472,
+        "end": 1508.717,
+        "text": "But as the town slowly rebuilt,"
+    },
+    {
+        "id": 531,
+        "start": 1508.741,
+        "end": 1510.952,
+        "text": "the British began to turn their gaze again"
+    },
+    {
+        "id": 532,
+        "start": 1510.976,
+        "end": 1513.655,
+        "text": "on the Spanish presence to their south."
+    },
+    {
+        "id": 533,
+        "start": 1513.679,
+        "end": 1517.459,
+        "text": "La Florida was a threat to the British way of life,"
+    },
+    {
+        "id": 534,
+        "start": 1517.483,
+        "end": 1521.73,
+        "text": "particularly on the issue of slavery."
+    },
+    {
+        "id": 535,
+        "start": 1521.754,
+        "end": 1524.766,
+        "text": "As far back as the days of the conquistadors,"
+    },
+    {
+        "id": 536,
+        "start": 1524.79,
+        "end": 1527.602,
+        "text": "Africans had been an accepted and integral part"
+    },
+    {
+        "id": 537,
+        "start": 1527.626,
+        "end": 1530.572,
+        "text": "of everyday life in Spanish America."
+    },
+    {
+        "id": 538,
+        "start": 1530.596,
+        "end": 1532.374,
+        "text": " Probably the first AfricanAmerican"
+    },
+    {
+        "id": 539,
+        "start": 1532.398,
+        "end": 1534.309,
+        "text": "to this part of the world"
+    },
+    {
+        "id": 540,
+        "start": 1534.333,
+        "end": 1541.049,
+        "text": "was on missions here, scouting with Ponce de León."
+    },
+    {
+        "id": 541,
+        "start": 1541.073,
+        "end": 1545.52,
+        "text": "The person was not a slave... He was a free man."
+    },
+    {
+        "id": 542,
+        "start": 1545.544,
+        "end": 1547.589,
+        "text": " There were free black people here"
+    },
+    {
+        "id": 543,
+        "start": 1547.613,
+        "end": 1550.392,
+        "text": "from the beginning of the colony onward."
+    },
+    {
+        "id": 544,
+        "start": 1550.416,
+        "end": 1552.394,
+        "text": "[Indistinct conversations]"
+    },
+    {
+        "id": 545,
+        "start": 1552.418,
+        "end": 1556.865,
+        "text": " These were people who helped build the early garrisons."
+    },
+    {
+        "id": 546,
+        "start": 1556.889,
+        "end": 1558.533,
+        "text": "They built residences."
+    },
+    {
+        "id": 547,
+        "start": 1558.557,
+        "end": 1560.402,
+        "text": "They did work that was critical"
+    },
+    {
+        "id": 548,
+        "start": 1560.426,
+        "end": 1562.17,
+        "text": "for the survival of the community."
+    },
+    {
+        "id": 549,
+        "start": 1562.194,
+        "end": 1565.573,
+        "text": "They weren't working out, for example, on sugar plantations."
+    },
+    {
+        "id": 550,
+        "start": 1565.597,
+        "end": 1569.344,
+        "text": "That was not something that the Spanish started."
+    },
+    {
+        "id": 551,
+        "start": 1569.368,
+        "end": 1573.348,
+        "text": " Race was not the basis for slavery in the Spanish world."
+    },
+    {
+        "id": 552,
+        "start": 1573.372,
+        "end": 1575.717,
+        "text": "If somebody was Christian and Catholic,"
+    },
+    {
+        "id": 553,
+        "start": 1575.741,
+        "end": 1580.688,
+        "text": "there really was no impediment to them being free."
+    },
+    {
+        "id": 554,
+        "start": 1580.712,
+        "end": 1582.924,
+        "text": " The Spanish did have slaves,"
+    },
+    {
+        "id": 555,
+        "start": 1582.948,
+        "end": 1587.695,
+        "text": "but slavery under the British was not the same."
+    },
+    {
+        "id": 556,
+        "start": 1587.719,
+        "end": 1592.7,
+        "text": " Their method of enslavement and control of Africans"
+    },
+    {
+        "id": 557,
+        "start": 1592.724,
+        "end": 1596.571,
+        "text": "were very different than the Spaniard, absolutely."
+    },
+    {
+        "id": 558,
+        "start": 1596.595,
+        "end": 1604.579,
+        "text": "♪♪"
+    },
+    {
+        "id": 559,
+        "start": 1604.603,
+        "end": 1608.049,
+        "text": " Under English law, a slave was property, or chattel,"
+    },
+    {
+        "id": 560,
+        "start": 1608.073,
+        "end": 1610.085,
+        "text": "without any legal or civil rights."
+    },
+    {
+        "id": 561,
+        "start": 1610.109,
+        "end": 1612.754,
+        "text": " [Screaming]  [Crying] No!"
+    },
+    {
+        "id": 562,
+        "start": 1612.778,
+        "end": 1616.391,
+        "text": " [Screaming continues]  No! No! No!"
+    },
+    {
+        "id": 563,
+        "start": 1616.415,
+        "end": 1622.097,
+        "text": " Slaves could be bought, sold, and punished, or even killed."
+    },
+    {
+        "id": 564,
+        "start": 1622.121,
+        "end": 1625.5,
+        "text": "♪♪"
+    },
+    {
+        "id": 565,
+        "start": 1625.524,
+        "end": 1627.535,
+        "text": "Spanish law, on the other hand,"
+    },
+    {
+        "id": 566,
+        "start": 1627.559,
+        "end": 1631.106,
+        "text": "recognized slaves as human beings with legal rights."
+    },
+    {
+        "id": 567,
+        "start": 1631.13,
+        "end": 1634.008,
+        "text": " Slaves had inherent rights."
+    },
+    {
+        "id": 568,
+        "start": 1634.032,
+        "end": 1637.879,
+        "text": "Slaves could, for example, purchase their own freedom."
+    },
+    {
+        "id": 569,
+        "start": 1637.903,
+        "end": 1640.882,
+        "text": "Slave families could not be separated by law."
+    },
+    {
+        "id": 570,
+        "start": 1640.906,
+        "end": 1644.719,
+        "text": " They marry, and their marriages appear in the church record,"
+    },
+    {
+        "id": 571,
+        "start": 1644.743,
+        "end": 1647.155,
+        "text": "so these were considered official marriages"
+    },
+    {
+        "id": 572,
+        "start": 1647.179,
+        "end": 1649.09,
+        "text": "and recognized as legal marriages,"
+    },
+    {
+        "id": 573,
+        "start": 1649.114,
+        "end": 1650.925,
+        "text": "just as anyone else's were,"
+    },
+    {
+        "id": 574,
+        "start": 1650.949,
+        "end": 1652.527,
+        "text": "which is a right, as we call it,"
+    },
+    {
+        "id": 575,
+        "start": 1652.551,
+        "end": 1654.963,
+        "text": "that we don't often see in the British colonies."
+    },
+    {
+        "id": 576,
+        "start": 1654.987,
+        "end": 1656.798,
+        "text": " So, we have to be careful not to say that"
+    },
+    {
+        "id": 577,
+        "start": 1656.822,
+        "end": 1660.735,
+        "text": "somehow Spanish slavery was good slavery,"
+    },
+    {
+        "id": 578,
+        "start": 1660.759,
+        "end": 1663.037,
+        "text": "better than English slavery."
+    },
+    {
+        "id": 579,
+        "start": 1663.061,
+        "end": 1665.073,
+        "text": "It's still slavery."
+    },
+    {
+        "id": 580,
+        "start": 1665.097,
+        "end": 1669.043,
+        "text": "At the same time, Spanish laws that govern slavery"
+    },
+    {
+        "id": 581,
+        "start": 1669.067,
+        "end": 1671.446,
+        "text": "were fundamentally different from, say,"
+    },
+    {
+        "id": 582,
+        "start": 1671.47,
+        "end": 1673.882,
+        "text": "English laws that govern slavery."
+    },
+    {
+        "id": 583,
+        "start": 1673.906,
+        "end": 1676.05,
+        "text": " Spanish slaves could own property,"
+    },
+    {
+        "id": 584,
+        "start": 1676.074,
+        "end": 1677.986,
+        "text": "sue their owners in court,"
+    },
+    {
+        "id": 585,
+        "start": 1678.01,
+        "end": 1681.189,
+        "text": "and both men and women could even petition the King."
+    },
+    {
+        "id": 586,
+        "start": 1681.213,
+        "end": 1683.791,
+        "text": " One of the largest differences was the belief"
+    },
+    {
+        "id": 587,
+        "start": 1683.815,
+        "end": 1688.229,
+        "text": "that Africans were human beings who had souls,"
+    },
+    {
+        "id": 588,
+        "start": 1688.253,
+        "end": 1691.065,
+        "text": "whereas the British did not believe that at all."
+    },
+    {
+        "id": 589,
+        "start": 1691.089,
+        "end": 1695.17,
+        "text": "They were just savages, and, you know, beyond redemption."
+    },
+    {
+        "id": 590,
+        "start": 1695.194,
+        "end": 1699.174,
+        "text": " It’s very hard for audiences in the United States"
+    },
+    {
+        "id": 591,
+        "start": 1699.198,
+        "end": 1700.975,
+        "text": "to get that"
+    },
+    {
+        "id": 592,
+        "start": 1700.999,
+        "end": 1704.512,
+        "text": "because we're so much more familiar with chattel slavery,"
+    },
+    {
+        "id": 593,
+        "start": 1704.536,
+        "end": 1705.813,
+        "text": "which was the English system,"
+    },
+    {
+        "id": 594,
+        "start": 1705.837,
+        "end": 1708.883,
+        "text": "where a person enslaved was considered"
+    },
+    {
+        "id": 595,
+        "start": 1708.907,
+        "end": 1710.585,
+        "text": "no more than a piece of property,"
+    },
+    {
+        "id": 596,
+        "start": 1710.609,
+        "end": 1712.22,
+        "text": "like a horse or a cow,"
+    },
+    {
+        "id": 597,
+        "start": 1712.244,
+        "end": 1716.558,
+        "text": "which is why people ran from that system"
+    },
+    {
+        "id": 598,
+        "start": 1716.582,
+        "end": 1720.228,
+        "text": "to seek some sort of sanctuary among Spanish people, usually."
+    },
+    {
+        "id": 599,
+        "start": 1720.252,
+        "end": 1724.832,
+        "text": "♪♪"
+    },
+    {
+        "id": 600,
+        "start": 1724.856,
+        "end": 1727.068,
+        "text": " Ever since the late 1600s,"
+    },
+    {
+        "id": 601,
+        "start": 1727.092,
+        "end": 1729.704,
+        "text": "Spanish Florida was becoming a sanctuary"
+    },
+    {
+        "id": 602,
+        "start": 1729.728,
+        "end": 1733.608,
+        "text": "for African slaves who fled from British plantations."
+    },
+    {
+        "id": 603,
+        "start": 1733.632,
+        "end": 1734.943,
+        "text": " Long before there was"
+    },
+    {
+        "id": 604,
+        "start": 1734.967,
+        "end": 1736.844,
+        "text": "an Underground Railroad that ran north,"
+    },
+    {
+        "id": 605,
+        "start": 1736.868,
+        "end": 1738.279,
+        "text": "there was an Underground Railroad"
+    },
+    {
+        "id": 606,
+        "start": 1738.303,
+        "end": 1739.737,
+        "text": "that ran south."
+    },
+    {
+        "id": 607,
+        "start": 1739.972,
+        "end": 1742.217,
+        "text": "♪♪"
+    },
+    {
+        "id": 608,
+        "start": 1742.241,
+        "end": 1744.986,
+        "text": " La Florida started granting asylum to slaves"
+    },
+    {
+        "id": 609,
+        "start": 1745.01,
+        "end": 1746.988,
+        "text": "after a small group escaped by canoe"
+    },
+    {
+        "id": 610,
+        "start": 1747.012,
+        "end": 1748.289,
+        "text": "from the Carolinas in 1687."
+    },
+    {
+        "id": 611,
+        "start": 1748.313,
+        "end": 1750.124,
+        "text": " Please, Governor. Please let us stay."
+    },
+    {
+        "id": 612,
+        "start": 1750.148,
+        "end": 1751.859,
+        "text": " They asked Governor Diego de Quiroga"
+    },
+    {
+        "id": 613,
+        "start": 1751.883,
+        "end": 1753.061,
+        "text": "for asylum,"
+    },
+    {
+        "id": 614,
+        "start": 1753.085,
+        "end": 1754.562,
+        "text": "saying they wanted to become"
+    },
+    {
+        "id": 615,
+        "start": 1754.586,
+        "end": 1758.132,
+        "text": "members of the true faith, Catholicism."
+    },
+    {
+        "id": 616,
+        "start": 1758.156,
+        "end": 1760.101,
+        "text": "The Spanish who had founded La Florida,"
+    },
+    {
+        "id": 617,
+        "start": 1760.125,
+        "end": 1763.738,
+        "text": "in part to convert the New World to Christianity,"
+    },
+    {
+        "id": 618,
+        "start": 1763.762,
+        "end": 1765.74,
+        "text": "could hardly refuse."
+    },
+    {
+        "id": 619,
+        "start": 1765.764,
+        "end": 1769.277,
+        "text": " And the Spanish governor's not quite sure what to do with them."
+    },
+    {
+        "id": 620,
+        "start": 1769.301,
+        "end": 1771.946,
+        "text": "\"What status do these people have?"
+    },
+    {
+        "id": 621,
+        "start": 1771.97,
+        "end": 1773.881,
+        "text": "Do we risk some..."
+    },
+    {
+        "id": 622,
+        "start": 1773.905,
+        "end": 1778.286,
+        "text": "A potential conflict with the English over this?\""
+    },
+    {
+        "id": 623,
+        "start": 1778.31,
+        "end": 1781.623,
+        "text": " And he keeps writing to Spain, \"What do I do about this?\""
+    },
+    {
+        "id": 624,
+        "start": 1781.647,
+        "end": 1782.991,
+        "text": " After five years of this,"
+    },
+    {
+        "id": 625,
+        "start": 1783.015,
+        "end": 1785.727,
+        "text": "King Charles Il finally responded that"
+    },
+    {
+        "id": 626,
+        "start": 1785.751,
+        "end": 1789.897,
+        "text": "as a, quote, \"prize for having adopted the Catholic doctrine,"
+    },
+    {
+        "id": 627,
+        "start": 1789.921,
+        "end": 1794.102,
+        "text": "they should all be set free and given anything they needed.\""
+    },
+    {
+        "id": 628,
+        "start": 1794.126,
+        "end": 1797.038,
+        "text": " And he says, \"By my example and liberality,"
+    },
+    {
+        "id": 629,
+        "start": 1797.062,
+        "end": 1799.24,
+        "text": "others will do the same.\""
+    },
+    {
+        "id": 630,
+        "start": 1799.264,
+        "end": 1802.744,
+        "text": "And he's hoping to drain off the plantation slaves"
+    },
+    {
+        "id": 631,
+        "start": 1802.768,
+        "end": 1806.914,
+        "text": "from South Carolina, weaken the English usurpers."
+    },
+    {
+        "id": 632,
+        "start": 1806.938,
+        "end": 1808.783,
+        "text": "The King's edict declared"
+    },
+    {
+        "id": 633,
+        "start": 1808.807,
+        "end": 1811.319,
+        "text": "that runaway slaves who became Catholic"
+    },
+    {
+        "id": 634,
+        "start": 1811.343,
+        "end": 1813.621,
+        "text": "or willing to help defend the town"
+    },
+    {
+        "id": 635,
+        "start": 1813.645,
+        "end": 1815.189,
+        "text": "would be granted freedom."
+    },
+    {
+        "id": 636,
+        "start": 1815.213,
+        "end": 1818.593,
+        "text": " And, of course, that then initiates waves"
+    },
+    {
+        "id": 637,
+        "start": 1818.617,
+        "end": 1822.263,
+        "text": "of runaway slaves from the Carolinas, from Virginia."
+    },
+    {
+        "id": 638,
+        "start": 1822.287,
+        "end": 1825.166,
+        "text": "You see in the records some slaves from as far as..."
+    },
+    {
+        "id": 639,
+        "start": 1825.19,
+        "end": 1827.068,
+        "text": "Far north as New York,"
+    },
+    {
+        "id": 640,
+        "start": 1827.092,
+        "end": 1831.873,
+        "text": "who are escaping plantations to reach St. Augustine."
+    },
+    {
+        "id": 641,
+        "start": 1831.897,
+        "end": 1833.808,
+        "text": " The English were angry about it,"
+    },
+    {
+        "id": 642,
+        "start": 1833.832,
+        "end": 1837.078,
+        "text": "and they sent people to try to recover these slaves,"
+    },
+    {
+        "id": 643,
+        "start": 1837.102,
+        "end": 1838.379,
+        "text": "and they never would return them."
+    },
+    {
+        "id": 644,
+        "start": 1838.403,
+        "end": 1840.948,
+        "text": " The British were very much afraid"
+    },
+    {
+        "id": 645,
+        "start": 1840.972,
+        "end": 1844.686,
+        "text": "of Spain's sovereignty in Florida,"
+    },
+    {
+        "id": 646,
+        "start": 1844.71,
+        "end": 1848.389,
+        "text": "accepting people and allowing them to gain their freedom."
+    },
+    {
+        "id": 647,
+        "start": 1848.413,
+        "end": 1852.126,
+        "text": " In fact, Spain's opendoor policy was not just a vehicle"
+    },
+    {
+        "id": 648,
+        "start": 1852.15,
+        "end": 1855.163,
+        "text": "to save more souls for the Catholic Church."
+    },
+    {
+        "id": 649,
+        "start": 1855.187,
+        "end": 1858.933,
+        "text": "It was also a way to destabilize the plantation economy"
+    },
+    {
+        "id": 650,
+        "start": 1858.957,
+        "end": 1861.135,
+        "text": "of the British colonies."
+    },
+    {
+        "id": 651,
+        "start": 1861.159,
+        "end": 1864.105,
+        "text": " The planters were particularly concerned that,"
+    },
+    {
+        "id": 652,
+        "start": 1864.129,
+        "end": 1868.109,
+        "text": "if waves of runaway slaves make it to St. Augustine,"
+    },
+    {
+        "id": 653,
+        "start": 1868.133,
+        "end": 1872.68,
+        "text": "all that's going to do is encourage more runaway slaves,"
+    },
+    {
+        "id": 654,
+        "start": 1872.704,
+        "end": 1876.117,
+        "text": "and that will, in the end, dismantle the entire system,"
+    },
+    {
+        "id": 655,
+        "start": 1876.141,
+        "end": 1880.355,
+        "text": "and it will encourage rebellion in these plantations."
+    },
+    {
+        "id": 656,
+        "start": 1880.379,
+        "end": 1882.19,
+        "text": "♪♪"
+    },
+    {
+        "id": 657,
+        "start": 1882.214,
+        "end": 1883.891,
+        "text": " Around this time,"
+    },
+    {
+        "id": 658,
+        "start": 1883.915,
+        "end": 1887.061,
+        "text": "a young Mandingo child was captured in West Africa"
+    },
+    {
+        "id": 659,
+        "start": 1887.085,
+        "end": 1890.298,
+        "text": "and taken to the Carolinas to work the plantations."
+    },
+    {
+        "id": 660,
+        "start": 1890.322,
+        "end": 1892.834,
+        "text": "Eventually, he was given the European name"
+    },
+    {
+        "id": 661,
+        "start": 1892.858,
+        "end": 1894.869,
+        "text": "\"Francisco Menendez.\""
+    },
+    {
+        "id": 662,
+        "start": 1894.893,
+        "end": 1898.806,
+        "text": " The ship arrived in the Carolinas"
+    },
+    {
+        "id": 663,
+        "start": 1898.83,
+        "end": 1901.409,
+        "text": "with less than 3/4 of its cargo..."
+    },
+    {
+        "id": 664,
+        "start": 1901.433,
+        "end": 1903.277,
+        "text": "Of its human cargo."
+    },
+    {
+        "id": 665,
+        "start": 1903.301,
+        "end": 1905.88,
+        "text": "So, aboard that ship,"
+    },
+    {
+        "id": 666,
+        "start": 1905.904,
+        "end": 1909.05,
+        "text": "most of the slaves that were captured"
+    },
+    {
+        "id": 667,
+        "start": 1909.074,
+        "end": 1913.154,
+        "text": "from Mandingo in West Africa were dead."
+    },
+    {
+        "id": 668,
+        "start": 1913.178,
+        "end": 1916.023,
+        "text": "To imagine surviving that,"
+    },
+    {
+        "id": 669,
+        "start": 1916.047,
+        "end": 1920.995,
+        "text": "cramped in a space smaller than this chair,"
+    },
+    {
+        "id": 670,
+        "start": 1921.019,
+        "end": 1922.964,
+        "text": "not a lot of sun, not a lot of food,"
+    },
+    {
+        "id": 671,
+        "start": 1922.988,
+        "end": 1926.1,
+        "text": "not a lot of cleanliness,"
+    },
+    {
+        "id": 672,
+        "start": 1926.124,
+        "end": 1929.103,
+        "text": "you know, it takes an extraordinary will to live"
+    },
+    {
+        "id": 673,
+        "start": 1929.127,
+        "end": 1931.272,
+        "text": "when you're seeing others dying around you."
+    },
+    {
+        "id": 674,
+        "start": 1931.296,
+        "end": 1934.142,
+        "text": "And how you do that at 8 or 9, I don't know."
+    },
+    {
+        "id": 675,
+        "start": 1934.166,
+        "end": 1936.177,
+        "text": "[Indistinct conversations]"
+    },
+    {
+        "id": 676,
+        "start": 1936.201,
+        "end": 1938.88,
+        "text": " As he grew into manhood, Francisco Menendez"
+    },
+    {
+        "id": 677,
+        "start": 1938.904,
+        "end": 1941.783,
+        "text": "became indispensable to his British owners."
+    },
+    {
+        "id": 678,
+        "start": 1941.807,
+        "end": 1944.051,
+        "text": "He could not only do the work of several men,"
+    },
+    {
+        "id": 679,
+        "start": 1944.075,
+        "end": 1947.188,
+        "text": "but he also learned to speak several languages."
+    },
+    {
+        "id": 680,
+        "start": 1947.212,
+        "end": 1950.458,
+        "text": "♪♪"
+    },
+    {
+        "id": 681,
+        "start": 1950.482,
+        "end": 1952.96,
+        "text": "When he first escaped to Spanish La Florida"
+    },
+    {
+        "id": 682,
+        "start": 1952.984,
+        "end": 1954.929,
+        "text": "in the early 1700s,"
+    },
+    {
+        "id": 683,
+        "start": 1954.953,
+        "end": 1957.765,
+        "text": "Menendez sought refuge with various Indian tribes"
+    },
+    {
+        "id": 684,
+        "start": 1957.789,
+        "end": 1959.434,
+        "text": "living in the backwoods to the north."
+    },
+    {
+        "id": 685,
+        "start": 1959.458,
+        "end": 1964.205,
+        "text": " But what he learns in the three years living in the wilderness"
+    },
+    {
+        "id": 686,
+        "start": 1964.229,
+        "end": 1966.507,
+        "text": "is how to move through the forest"
+    },
+    {
+        "id": 687,
+        "start": 1966.531,
+        "end": 1971.813,
+        "text": "without harm, hurt, or danger, sound or footprint,"
+    },
+    {
+        "id": 688,
+        "start": 1971.837,
+        "end": 1974.081,
+        "text": "how to track and hunt."
+    },
+    {
+        "id": 689,
+        "start": 1974.105,
+        "end": 1976.951,
+        "text": "But he also learns, during that time,"
+    },
+    {
+        "id": 690,
+        "start": 1976.975,
+        "end": 1981.055,
+        "text": "how to master British firearms."
+    },
+    {
+        "id": 691,
+        "start": 1981.079,
+        "end": 1984.859,
+        "text": " In 1715, Menendez proved himself a fierce warrior,"
+    },
+    {
+        "id": 692,
+        "start": 1984.883,
+        "end": 1986.894,
+        "text": "fighting the British alongside Natives"
+    },
+    {
+        "id": 693,
+        "start": 1986.918,
+        "end": 1990.765,
+        "text": "in a conflict known as the Yamasee War."
+    },
+    {
+        "id": 694,
+        "start": 1990.789,
+        "end": 1993.968,
+        "text": "The Yamasees had once been allies with the Carolina colony,"
+    },
+    {
+        "id": 695,
+        "start": 1993.992,
+        "end": 1996.971,
+        "text": "but the British slave raiders had begun to turn on them."
+    },
+    {
+        "id": 696,
+        "start": 1996.995,
+        "end": 1999.507,
+        "text": " In the 1710s, the Indian slave trade"
+    },
+    {
+        "id": 697,
+        "start": 1999.531,
+        "end": 2001.242,
+        "text": "had sort of reached its height."
+    },
+    {
+        "id": 698,
+        "start": 2001.266,
+        "end": 2002.91,
+        "text": "It's frenzied."
+    },
+    {
+        "id": 699,
+        "start": 2002.934,
+        "end": 2004.979,
+        "text": "So many Native groups are now vulnerable,"
+    },
+    {
+        "id": 700,
+        "start": 2005.003,
+        "end": 2007.281,
+        "text": "and they're watching their own family members or friends"
+    },
+    {
+        "id": 701,
+        "start": 2007.305,
+        "end": 2009.116,
+        "text": "become slaves."
+    },
+    {
+        "id": 702,
+        "start": 2009.14,
+        "end": 2011.986,
+        "text": "And they're seeing that they are on a slippery slope downwards,"
+    },
+    {
+        "id": 703,
+        "start": 2012.01,
+        "end": 2013.387,
+        "text": "that they will end up as slaves."
+    },
+    {
+        "id": 704,
+        "start": 2013.411,
+        "end": 2017.425,
+        "text": " You have constant encroachments on our land,"
+    },
+    {
+        "id": 705,
+        "start": 2017.449,
+        "end": 2020.828,
+        "text": "along with the taking and kidnapping of our children."
+    },
+    {
+        "id": 706,
+        "start": 2020.852,
+        "end": 2022.396,
+        "text": "It forced us to a situation"
+    },
+    {
+        "id": 707,
+        "start": 2022.42,
+        "end": 2024.866,
+        "text": "where all the head warriors came together,"
+    },
+    {
+        "id": 708,
+        "start": 2024.89,
+        "end": 2027.368,
+        "text": "and we're talking about war."
+    },
+    {
+        "id": 709,
+        "start": 2027.392,
+        "end": 2029.403,
+        "text": "[All shouting]"
+    },
+    {
+        "id": 710,
+        "start": 2029.427,
+        "end": 2032.406,
+        "text": " Francisco Menendez knew the enemy well"
+    },
+    {
+        "id": 711,
+        "start": 2032.43,
+        "end": 2036.11,
+        "text": "and proved to be a valuable fighter for the Yamasees."
+    },
+    {
+        "id": 712,
+        "start": 2036.134,
+        "end": 2037.345,
+        "text": "[Bird squawks]"
+    },
+    {
+        "id": 713,
+        "start": 2037.369,
+        "end": 2039.28,
+        "text": "When the war was over two years later,"
+    },
+    {
+        "id": 714,
+        "start": 2039.304,
+        "end": 2041.015,
+        "text": "Menendez headed to St. Augustine"
+    },
+    {
+        "id": 715,
+        "start": 2041.039,
+        "end": 2044.218,
+        "text": "to petition the Spanish governor for his freedom."
+    },
+    {
+        "id": 716,
+        "start": 2044.242,
+        "end": 2048.155,
+        "text": "But on his way there, he was betrayed."
+    },
+    {
+        "id": 717,
+        "start": 2048.179,
+        "end": 2054.862,
+        "text": " An infidel Yamasee named Perro Bravo, which is Wild Dog,"
+    },
+    {
+        "id": 718,
+        "start": 2054.886,
+        "end": 2058.432,
+        "text": "somehow acquired him in the trail down here,"
+    },
+    {
+        "id": 719,
+        "start": 2058.456,
+        "end": 2063.404,
+        "text": "and Perro Bravo threatened to kill him"
+    },
+    {
+        "id": 720,
+        "start": 2063.428,
+        "end": 2066.04,
+        "text": "and other slaves that he held in his possession"
+    },
+    {
+        "id": 721,
+        "start": 2066.064,
+        "end": 2068.91,
+        "text": "if the Spaniards didn't pay for them."
+    },
+    {
+        "id": 722,
+        "start": 2068.934,
+        "end": 2071.579,
+        "text": " Menendez was sold back into slavery"
+    },
+    {
+        "id": 723,
+        "start": 2071.603,
+        "end": 2076.884,
+        "text": "for a bottle of rum and a small harvest of corn."
+    },
+    {
+        "id": 724,
+        "start": 2076.908,
+        "end": 2078.452,
+        "text": "He was later sold at auction"
+    },
+    {
+        "id": 725,
+        "start": 2078.476,
+        "end": 2081.589,
+        "text": "to Florida Governor Antonio de Benavides,"
+    },
+    {
+        "id": 726,
+        "start": 2081.613,
+        "end": 2084.258,
+        "text": "who blatantly ignored the Spanish edict"
+    },
+    {
+        "id": 727,
+        "start": 2084.282,
+        "end": 2086.26,
+        "text": "to free escaped slaves,"
+    },
+    {
+        "id": 728,
+        "start": 2086.284,
+        "end": 2090.164,
+        "text": "and even bought and sold them himself."
+    },
+    {
+        "id": 729,
+        "start": 2090.188,
+        "end": 2093.968,
+        "text": " In, you know, the 18th century, in Spanish Florida,"
+    },
+    {
+        "id": 730,
+        "start": 2093.992,
+        "end": 2096.07,
+        "text": "not many people could read and write,"
+    },
+    {
+        "id": 731,
+        "start": 2096.094,
+        "end": 2099.14,
+        "text": "and here's an African man who can."
+    },
+    {
+        "id": 732,
+        "start": 2099.164,
+        "end": 2102.276,
+        "text": "That gave him tremendous status, and he was linked"
+    },
+    {
+        "id": 733,
+        "start": 2102.3,
+        "end": 2104.412,
+        "text": "to the very important people in the community."
+    },
+    {
+        "id": 734,
+        "start": 2104.436,
+        "end": 2107.982,
+        "text": "♪♪"
+    },
+    {
+        "id": 735,
+        "start": 2108.006,
+        "end": 2110.217,
+        "text": " Benavides put Francisco Menendez"
+    },
+    {
+        "id": 736,
+        "start": 2110.241,
+        "end": 2112.453,
+        "text": "in charge of the black slave militia"
+    },
+    {
+        "id": 737,
+        "start": 2112.477,
+        "end": 2115.389,
+        "text": "to help the Spanish regiments defend St. Augustine."
+    },
+    {
+        "id": 738,
+        "start": 2115.413,
+        "end": 2117.224,
+        "text": "[Fire crackling]"
+    },
+    {
+        "id": 739,
+        "start": 2117.248,
+        "end": 2119.961,
+        "text": " He hates the English. He'd been their slave."
+    },
+    {
+        "id": 740,
+        "start": 2119.985,
+        "end": 2122.964,
+        "text": "He knows the terrain. He's fought them for years."
+    },
+    {
+        "id": 741,
+        "start": 2122.988,
+        "end": 2124.966,
+        "text": "♪♪"
+    },
+    {
+        "id": 742,
+        "start": 2124.99,
+        "end": 2126.601,
+        "text": " Eventually, Spain outlawed"
+    },
+    {
+        "id": 743,
+        "start": 2126.625,
+        "end": 2130.371,
+        "text": "the sale of runaway slaves in Florida to private citizens."
+    },
+    {
+        "id": 744,
+        "start": 2130.395,
+        "end": 2134.041,
+        "text": "A new governor, Manuel de Montiano, took office."
+    },
+    {
+        "id": 745,
+        "start": 2134.065,
+        "end": 2137.111,
+        "text": "He offered members of the black militia their freedom,"
+    },
+    {
+        "id": 746,
+        "start": 2137.135,
+        "end": 2139.981,
+        "text": "provided they would serve four more years first."
+    },
+    {
+        "id": 747,
+        "start": 2140.005,
+        "end": 2142.583,
+        "text": "♪♪"
+    },
+    {
+        "id": 748,
+        "start": 2142.607,
+        "end": 2146.053,
+        "text": "In 1738, Francisco Menendez"
+    },
+    {
+        "id": 749,
+        "start": 2146.077,
+        "end": 2149.323,
+        "text": "was finally granted unconditional freedom."
+    },
+    {
+        "id": 750,
+        "start": 2149.347,
+        "end": 2154.095,
+        "text": " He becomes the leader of a new free community here."
+    },
+    {
+        "id": 751,
+        "start": 2154.119,
+        "end": 2156.497,
+        "text": " Escaped slaves had been living in St. Augustine"
+    },
+    {
+        "id": 752,
+        "start": 2156.521,
+        "end": 2158.699,
+        "text": "for nearly a half century now,"
+    },
+    {
+        "id": 753,
+        "start": 2158.723,
+        "end": 2161.469,
+        "text": "and they had become an integral part of the community."
+    },
+    {
+        "id": 754,
+        "start": 2161.493,
+        "end": 2164.138,
+        "text": "♪♪"
+    },
+    {
+        "id": 755,
+        "start": 2164.162,
+        "end": 2167.041,
+        "text": "In 1738, Governor Manuel de Montiano"
+    },
+    {
+        "id": 756,
+        "start": 2167.065,
+        "end": 2168.709,
+        "text": "gave them their own land"
+    },
+    {
+        "id": 757,
+        "start": 2168.733,
+        "end": 2174.248,
+        "text": "and chose Francisco Menendez, now a free man, as its leader."
+    },
+    {
+        "id": 758,
+        "start": 2174.272,
+        "end": 2175.616,
+        "text": "The community was located"
+    },
+    {
+        "id": 759,
+        "start": 2175.64,
+        "end": 2179.32,
+        "text": "about a mile and a half outside the city."
+    },
+    {
+        "id": 760,
+        "start": 2179.344,
+        "end": 2183.691,
+        "text": "It was called \"Gracia Real de Santa Teresa de Mose,\""
+    },
+    {
+        "id": 761,
+        "start": 2183.715,
+        "end": 2186.494,
+        "text": "or as it's known today, \"Fort Mose.\""
+    },
+    {
+        "id": 762,
+        "start": 2186.518,
+        "end": 2188.562,
+        "text": "It was the first legally sanctioned"
+    },
+    {
+        "id": 763,
+        "start": 2188.586,
+        "end": 2190.297,
+        "text": "free black community"
+    },
+    {
+        "id": 764,
+        "start": 2190.321,
+        "end": 2193.1,
+        "text": "in what is now the United States."
+    },
+    {
+        "id": 765,
+        "start": 2193.124,
+        "end": 2198.973,
+        "text": "This was 125 years before the Emancipation Proclamation."
+    },
+    {
+        "id": 766,
+        "start": 2198.997,
+        "end": 2201.542,
+        "text": " That experience is not like anything we learn"
+    },
+    {
+        "id": 767,
+        "start": 2201.566,
+        "end": 2204.979,
+        "text": "in our AfricanAmerican history textbooks,"
+    },
+    {
+        "id": 768,
+        "start": 2205.003,
+        "end": 2207.248,
+        "text": "so they usually miss a whole century"
+    },
+    {
+        "id": 769,
+        "start": 2207.272,
+        "end": 2209.55,
+        "text": "and a lot of different experiences,"
+    },
+    {
+        "id": 770,
+        "start": 2209.574,
+        "end": 2214.422,
+        "text": "if you think of it only as an enslavedplantation experience."
+    },
+    {
+        "id": 771,
+        "start": 2214.446,
+        "end": 2216.724,
+        "text": " It's very difficult to understand U.S. history"
+    },
+    {
+        "id": 772,
+        "start": 2216.748,
+        "end": 2218.459,
+        "text": "without understanding Florida."
+    },
+    {
+        "id": 773,
+        "start": 2218.483,
+        "end": 2219.527,
+        "text": "I think it's..."
+    },
+    {
+        "id": 774,
+        "start": 2219.551,
+        "end": 2221.328,
+        "text": "When you start to integrate"
+    },
+    {
+        "id": 775,
+        "start": 2221.352,
+        "end": 2223.597,
+        "text": "the narratives about the experiences,"
+    },
+    {
+        "id": 776,
+        "start": 2223.621,
+        "end": 2226.167,
+        "text": "for example, of Africans in the United States,"
+    },
+    {
+        "id": 777,
+        "start": 2226.191,
+        "end": 2228.669,
+        "text": "and you fail to look at the Africans in Florida,"
+    },
+    {
+        "id": 778,
+        "start": 2228.693,
+        "end": 2232.606,
+        "text": "you get a very distorted picture of what's unfolding."
+    },
+    {
+        "id": 779,
+        "start": 2232.63,
+        "end": 2236.577,
+        "text": " The new, fortified settlement had its own church"
+    },
+    {
+        "id": 780,
+        "start": 2236.601,
+        "end": 2239.747,
+        "text": "and was comprised of skilled blacksmiths,"
+    },
+    {
+        "id": 781,
+        "start": 2239.771,
+        "end": 2245.619,
+        "text": "carpenters, cattlemen, boatmen, and farmers."
+    },
+    {
+        "id": 782,
+        "start": 2245.643,
+        "end": 2249.023,
+        "text": " This was a rough frontier. It wasn't easy for anybody."
+    },
+    {
+        "id": 783,
+        "start": 2249.047,
+        "end": 2251.392,
+        "text": "So, I don't mean to glamorize it"
+    },
+    {
+        "id": 784,
+        "start": 2251.416,
+        "end": 2254.195,
+        "text": "by saying people were made free here."
+    },
+    {
+        "id": 785,
+        "start": 2254.219,
+        "end": 2257.264,
+        "text": "Sometimes, the food supplies would be disrupted."
+    },
+    {
+        "id": 786,
+        "start": 2257.288,
+        "end": 2259.5,
+        "text": "Sometimes, there were epidemic diseases"
+    },
+    {
+        "id": 787,
+        "start": 2259.524,
+        "end": 2261.235,
+        "text": "that wipe out black and white alike"
+    },
+    {
+        "id": 788,
+        "start": 2261.259,
+        "end": 2263.17,
+        "text": "and Indians worse."
+    },
+    {
+        "id": 789,
+        "start": 2263.194,
+        "end": 2266.607,
+        "text": "It's not easy, but it's at least the possibility"
+    },
+    {
+        "id": 790,
+        "start": 2266.631,
+        "end": 2270.411,
+        "text": "of everybody living freely in an urban setting,"
+    },
+    {
+        "id": 791,
+        "start": 2270.435,
+        "end": 2271.812,
+        "text": "having property,"
+    },
+    {
+        "id": 792,
+        "start": 2271.836,
+        "end": 2273.38,
+        "text": "not worrying that their children"
+    },
+    {
+        "id": 793,
+        "start": 2273.404,
+        "end": 2275.116,
+        "text": "are gonna be sold away from them."
+    },
+    {
+        "id": 794,
+        "start": 2275.14,
+        "end": 2277.518,
+        "text": "Those sorts of things are quite different."
+    },
+    {
+        "id": 795,
+        "start": 2277.542,
+        "end": 2281.822,
+        "text": " In the 1970s, Dr. Jane Landers was just a graduate student"
+    },
+    {
+        "id": 796,
+        "start": 2281.846,
+        "end": 2285.326,
+        "text": "when she discovered documents in the archives of Spain"
+    },
+    {
+        "id": 797,
+        "start": 2285.35,
+        "end": 2287.528,
+        "text": "describing the settlement."
+    },
+    {
+        "id": 798,
+        "start": 2287.552,
+        "end": 2292.166,
+        "text": " One day, I almost jumped because I came across a census"
+    },
+    {
+        "id": 799,
+        "start": 2292.19,
+        "end": 2296.67,
+        "text": "of the town of Gracia Real de Santa Teresa de Mose,"
+    },
+    {
+        "id": 800,
+        "start": 2296.694,
+        "end": 2298.339,
+        "text": "and it was household by household,"
+    },
+    {
+        "id": 801,
+        "start": 2298.363,
+        "end": 2301.709,
+        "text": "exactly who lived in the households,"
+    },
+    {
+        "id": 802,
+        "start": 2301.733,
+        "end": 2303.544,
+        "text": "you know, whether they were already converted"
+    },
+    {
+        "id": 803,
+        "start": 2303.568,
+        "end": 2306.58,
+        "text": "or on their way to full Catholicism."
+    },
+    {
+        "id": 804,
+        "start": 2306.604,
+        "end": 2308.115,
+        "text": "And I was able, finally,"
+    },
+    {
+        "id": 805,
+        "start": 2308.139,
+        "end": 2310.451,
+        "text": "to get the full picture of the community."
+    },
+    {
+        "id": 806,
+        "start": 2310.475,
+        "end": 2313.187,
+        "text": " She found a treasure trove."
+    },
+    {
+        "id": 807,
+        "start": 2313.211,
+        "end": 2319.16,
+        "text": "Most historians have thought that AfricanAmerican life"
+    },
+    {
+        "id": 808,
+        "start": 2319.184,
+        "end": 2321.562,
+        "text": "was totally almost undocumented."
+    },
+    {
+        "id": 809,
+        "start": 2321.586,
+        "end": 2323.831,
+        "text": "They were really the people without history."
+    },
+    {
+        "id": 810,
+        "start": 2323.855,
+        "end": 2329.303,
+        "text": "She was able to find census data and information"
+    },
+    {
+        "id": 811,
+        "start": 2329.327,
+        "end": 2331.105,
+        "text": "about where the people came from"
+    },
+    {
+        "id": 812,
+        "start": 2331.129,
+        "end": 2333.774,
+        "text": "and what they did and their names and ages,"
+    },
+    {
+        "id": 813,
+        "start": 2333.798,
+        "end": 2336.177,
+        "text": "and that was tremendously exciting for us."
+    },
+    {
+        "id": 814,
+        "start": 2336.201,
+        "end": 2339.713,
+        "text": " When I brought all this back and made some reports on it,"
+    },
+    {
+        "id": 815,
+        "start": 2339.737,
+        "end": 2342.783,
+        "text": "then the archaeologists could start digging."
+    },
+    {
+        "id": 816,
+        "start": 2342.807,
+        "end": 2344.318,
+        "text": " Yeah, but unless it's..."
+    },
+    {
+        "id": 817,
+        "start": 2344.342,
+        "end": 2347.221,
+        "text": " Dr. Kathleen Deagan led the dig."
+    },
+    {
+        "id": 818,
+        "start": 2347.245,
+        "end": 2351.192,
+        "text": " We were then able to work with some of her information"
+    },
+    {
+        "id": 819,
+        "start": 2351.216,
+        "end": 2353.46,
+        "text": "and do largescale surveys"
+    },
+    {
+        "id": 820,
+        "start": 2353.484,
+        "end": 2358.599,
+        "text": "and lowlevel aerial satellite imagery"
+    },
+    {
+        "id": 821,
+        "start": 2358.623,
+        "end": 2361.702,
+        "text": "and verify that this place"
+    },
+    {
+        "id": 822,
+        "start": 2361.726,
+        "end": 2366.273,
+        "text": "we thought probably was Fort Mose really was."
+    },
+    {
+        "id": 823,
+        "start": 2366.297,
+        "end": 2368.576,
+        "text": " Deagan's and Landers' findings"
+    },
+    {
+        "id": 824,
+        "start": 2368.6,
+        "end": 2370.511,
+        "text": "gave a glimpse of what life was like"
+    },
+    {
+        "id": 825,
+        "start": 2370.535,
+        "end": 2373.547,
+        "text": "in the first free black settlement"
+    },
+    {
+        "id": 826,
+        "start": 2373.571,
+        "end": 2376.483,
+        "text": "in what is now the United States."
+    },
+    {
+        "id": 827,
+        "start": 2376.507,
+        "end": 2379.92,
+        "text": " They had fields outside of a fort."
+    },
+    {
+        "id": 828,
+        "start": 2379.944,
+        "end": 2381.622,
+        "text": "They grew crops."
+    },
+    {
+        "id": 829,
+        "start": 2381.646,
+        "end": 2383.624,
+        "text": "They had animals. They fished."
+    },
+    {
+        "id": 830,
+        "start": 2383.648,
+        "end": 2385.626,
+        "text": "They gathered cattle..."
+    },
+    {
+        "id": 831,
+        "start": 2385.65,
+        "end": 2388.729,
+        "text": "Wild cattle roaming in the hinterlands."
+    },
+    {
+        "id": 832,
+        "start": 2388.753,
+        "end": 2391.932,
+        "text": "They rode horseback through the woods all the time."
+    },
+    {
+        "id": 833,
+        "start": 2391.956,
+        "end": 2395.836,
+        "text": "They were pilots, and they were, you know, corsairs."
+    },
+    {
+        "id": 834,
+        "start": 2395.86,
+        "end": 2399.24,
+        "text": " I think that the United States is richer."
+    },
+    {
+        "id": 835,
+        "start": 2399.264,
+        "end": 2403.177,
+        "text": "Its history is richer because it demonstrated"
+    },
+    {
+        "id": 836,
+        "start": 2403.201,
+        "end": 2407.281,
+        "text": "that African and European people could live together,"
+    },
+    {
+        "id": 837,
+        "start": 2407.305,
+        "end": 2411.252,
+        "text": "could benefit from each other's skills,"
+    },
+    {
+        "id": 838,
+        "start": 2411.276,
+        "end": 2413.554,
+        "text": "and that, as a beginning,"
+    },
+    {
+        "id": 839,
+        "start": 2413.578,
+        "end": 2416.523,
+        "text": "I think we would have a very different picture"
+    },
+    {
+        "id": 840,
+        "start": 2416.547,
+        "end": 2419.226,
+        "text": "of the United States."
+    },
+    {
+        "id": 841,
+        "start": 2419.25,
+        "end": 2420.694,
+        "text": " What I think is really important"
+    },
+    {
+        "id": 842,
+        "start": 2420.718,
+        "end": 2423.931,
+        "text": "is it's a story of empowerment and of freedom."
+    },
+    {
+        "id": 843,
+        "start": 2423.955,
+        "end": 2426.267,
+        "text": "I think it's such a different narrative"
+    },
+    {
+        "id": 844,
+        "start": 2426.291,
+        "end": 2429.536,
+        "text": "than saying everybody got off a slave ship, bedraggled,"
+    },
+    {
+        "id": 845,
+        "start": 2429.56,
+        "end": 2432.74,
+        "text": "and sweated in a cotton field somewhere."
+    },
+    {
+        "id": 846,
+        "start": 2432.764,
+        "end": 2435.943,
+        "text": "This is centuries of other kinds of experience, and it..."
+    },
+    {
+        "id": 847,
+        "start": 2435.967,
+        "end": 2438.835,
+        "text": "I think it is important to show that, too."
+    },
+    {
+        "id": 848,
+        "start": 2440.571,
+        "end": 2442.983,
+        "text": " The location of Fort Mose at the edge of town"
+    },
+    {
+        "id": 849,
+        "start": 2443.007,
+        "end": 2445.286,
+        "text": "was an important defensive move."
+    },
+    {
+        "id": 850,
+        "start": 2445.31,
+        "end": 2448.455,
+        "text": "There was no better soldier to defend St. Augustine"
+    },
+    {
+        "id": 851,
+        "start": 2448.479,
+        "end": 2452.226,
+        "text": "than a man who did not want to become enslaved again."
+    },
+    {
+        "id": 852,
+        "start": 2452.25,
+        "end": 2453.994,
+        "text": " They have every motive and impetus"
+    },
+    {
+        "id": 853,
+        "start": 2454.018,
+        "end": 2457.631,
+        "text": "to fight hard against any British attacks."
+    },
+    {
+        "id": 854,
+        "start": 2457.655,
+        "end": 2460.301,
+        "text": " Well, we know that they're going to fight"
+    },
+    {
+        "id": 855,
+        "start": 2460.325,
+        "end": 2463.704,
+        "text": "and they're gonna fight to the death"
+    },
+    {
+        "id": 856,
+        "start": 2463.728,
+        "end": 2467.341,
+        "text": "against their former oppressors."
+    },
+    {
+        "id": 857,
+        "start": 2467.365,
+        "end": 2470.377,
+        "text": " The militia at Fort Mose would soon be tested."
+    },
+    {
+        "id": 858,
+        "start": 2470.401,
+        "end": 2472.646,
+        "text": "A year after the town was established,"
+    },
+    {
+        "id": 859,
+        "start": 2472.67,
+        "end": 2475.816,
+        "text": "the largest slave uprising in the British mainland colonies"
+    },
+    {
+        "id": 860,
+        "start": 2475.84,
+        "end": 2478.252,
+        "text": "erupted in South Carolina."
+    },
+    {
+        "id": 861,
+        "start": 2478.276,
+        "end": 2480.354,
+        "text": " On the ground, it's personal."
+    },
+    {
+        "id": 862,
+        "start": 2480.378,
+        "end": 2482.823,
+        "text": "You know, people who thought they had slaves..."
+    },
+    {
+        "id": 863,
+        "start": 2482.847,
+        "end": 2484.725,
+        "text": "They're running away to Florida."
+    },
+    {
+        "id": 864,
+        "start": 2484.749,
+        "end": 2487.795,
+        "text": "They're angry. They want to come get them."
+    },
+    {
+        "id": 865,
+        "start": 2487.819,
+        "end": 2489.83,
+        "text": " Finally, King George Il"
+    },
+    {
+        "id": 866,
+        "start": 2489.854,
+        "end": 2493.4,
+        "text": "ordered Georgia's troops to take St. Augustine"
+    },
+    {
+        "id": 867,
+        "start": 2493.424,
+        "end": 2496.837,
+        "text": "and end the practice of harboring runaway slaves."
+    },
+    {
+        "id": 868,
+        "start": 2496.861,
+        "end": 2501.308,
+        "text": " They were adamant that this place had to fall,"
+    },
+    {
+        "id": 869,
+        "start": 2501.332,
+        "end": 2503.544,
+        "text": "so they had to be wiped out."
+    },
+    {
+        "id": 870,
+        "start": 2503.568,
+        "end": 2506.613,
+        "text": " General James Oglethorpe had founded Georgia"
+    },
+    {
+        "id": 871,
+        "start": 2506.637,
+        "end": 2508.549,
+        "text": "and had been its first governor."
+    },
+    {
+        "id": 872,
+        "start": 2508.573,
+        "end": 2510.417,
+        "text": "Although he was actually against slavery,"
+    },
+    {
+        "id": 873,
+        "start": 2510.441,
+        "end": 2511.852,
+        "text": "he'd been anxious"
+    },
+    {
+        "id": 874,
+        "start": 2511.876,
+        "end": 2514.688,
+        "text": "to take La Florida away from the Spanish for years."
+    },
+    {
+        "id": 875,
+        "start": 2514.712,
+        "end": 2516.757,
+        "text": " He’s very close to St. Augustine"
+    },
+    {
+        "id": 876,
+        "start": 2516.781,
+        "end": 2518.759,
+        "text": "and even moves down to put some forts"
+    },
+    {
+        "id": 877,
+        "start": 2518.783,
+        "end": 2520.527,
+        "text": "near the mouth of the St. Johns River,"
+    },
+    {
+        "id": 878,
+        "start": 2520.551,
+        "end": 2524.665,
+        "text": "so he actually comes into what is today Florida."
+    },
+    {
+        "id": 879,
+        "start": 2524.689,
+        "end": 2527.668,
+        "text": " King George commanded Oglethorpe to, quote,"
+    },
+    {
+        "id": 880,
+        "start": 2527.692,
+        "end": 2529.77,
+        "text": "\"spare no personal danger"
+    },
+    {
+        "id": 881,
+        "start": 2529.794,
+        "end": 2531.739,
+        "text": "in exacting revenge on those slaves"
+    },
+    {
+        "id": 882,
+        "start": 2531.763,
+        "end": 2534.408,
+        "text": "who had fled their owners.\""
+    },
+    {
+        "id": 883,
+        "start": 2534.432,
+        "end": 2536.777,
+        "text": "Francisco Menendez had successfully led"
+    },
+    {
+        "id": 884,
+        "start": 2536.801,
+        "end": 2539.713,
+        "text": "several attacks on the British before this,"
+    },
+    {
+        "id": 885,
+        "start": 2539.737,
+        "end": 2541.515,
+        "text": "but when Governor Montiano heard"
+    },
+    {
+        "id": 886,
+        "start": 2541.539,
+        "end": 2544.451,
+        "text": "that the English were coming to avenge the slave owners,"
+    },
+    {
+        "id": 887,
+        "start": 2544.475,
+        "end": 2547.388,
+        "text": "he feared for the safety of the people at Fort Mose."
+    },
+    {
+        "id": 888,
+        "start": 2547.412,
+        "end": 2550.357,
+        "text": " So, he orders them to abandon Mose"
+    },
+    {
+        "id": 889,
+        "start": 2550.381,
+        "end": 2552.559,
+        "text": "and to come into St. Augustine for their protection,"
+    },
+    {
+        "id": 890,
+        "start": 2552.583,
+        "end": 2553.894,
+        "text": "because he figures"
+    },
+    {
+        "id": 891,
+        "start": 2553.918,
+        "end": 2557.331,
+        "text": "they'll either be all killed and/or captured."
+    },
+    {
+        "id": 892,
+        "start": 2557.355,
+        "end": 2559.4,
+        "text": "And so, they come into St. Augustine,"
+    },
+    {
+        "id": 893,
+        "start": 2559.424,
+        "end": 2561.935,
+        "text": "and the British just walk right into Fort Mose and take over."
+    },
+    {
+        "id": 894,
+        "start": 2561.959,
+        "end": 2563.47,
+        "text": "[Indistinct shouting]"
+    },
+    {
+        "id": 895,
+        "start": 2563.494,
+        "end": 2566.573,
+        "text": " But 16 days later, the Spanish,"
+    },
+    {
+        "id": 896,
+        "start": 2566.597,
+        "end": 2569.543,
+        "text": "the black militia, and the Native allies returned."
+    },
+    {
+        "id": 897,
+        "start": 2569.567,
+        "end": 2571.945,
+        "text": "They caught the British by surprise at daybreak"
+    },
+    {
+        "id": 898,
+        "start": 2571.969,
+        "end": 2574.548,
+        "text": "and easily retook the fort."
+    },
+    {
+        "id": 899,
+        "start": 2574.572,
+        "end": 2579.586,
+        "text": "The British called it the Battle of Bloody Mose."
+    },
+    {
+        "id": 900,
+        "start": 2579.61,
+        "end": 2580.721,
+        "text": " There's a quote by Shakespeare..."
+    },
+    {
+        "id": 901,
+        "start": 2580.745,
+        "end": 2582.689,
+        "text": "\"Some are born great,"
+    },
+    {
+        "id": 902,
+        "start": 2582.713,
+        "end": 2584.491,
+        "text": "some achieve greatness,"
+    },
+    {
+        "id": 903,
+        "start": 2584.515,
+        "end": 2587.561,
+        "text": "and some have greatness thrust upon them.\""
+    },
+    {
+        "id": 904,
+        "start": 2587.585,
+        "end": 2591.398,
+        "text": "Francisco Menendez... Greatness was thrust upon him."
+    },
+    {
+        "id": 905,
+        "start": 2591.422,
+        "end": 2594.101,
+        "text": " Here were Africans who were demonstrating"
+    },
+    {
+        "id": 906,
+        "start": 2594.125,
+        "end": 2597.838,
+        "text": "that they had the skills to defend not only themselves,"
+    },
+    {
+        "id": 907,
+        "start": 2597.862,
+        "end": 2599.573,
+        "text": "but the Spaniards."
+    },
+    {
+        "id": 908,
+        "start": 2599.597,
+        "end": 2601.008,
+        "text": "They were very brave people."
+    },
+    {
+        "id": 909,
+        "start": 2601.032,
+        "end": 2604.978,
+        "text": "And so, that is a form of pride"
+    },
+    {
+        "id": 910,
+        "start": 2605.002,
+        "end": 2607.614,
+        "text": "for AfricanAmericans."
+    },
+    {
+        "id": 911,
+        "start": 2607.638,
+        "end": 2611.685,
+        "text": " As many as 75 British soldiers were killed."
+    },
+    {
+        "id": 912,
+        "start": 2611.709,
+        "end": 2613.987,
+        "text": " One of the people that was killed at the Battle of Mose,"
+    },
+    {
+        "id": 913,
+        "start": 2614.011,
+        "end": 2617.458,
+        "text": "Colonel Palmer, had attacked St. Augustine several times."
+    },
+    {
+        "id": 914,
+        "start": 2617.482,
+        "end": 2619.426,
+        "text": "He had, you know, had been reported"
+    },
+    {
+        "id": 915,
+        "start": 2619.45,
+        "end": 2622.529,
+        "text": "for brutalities against Spaniards and blacks."
+    },
+    {
+        "id": 916,
+        "start": 2622.553,
+        "end": 2627.134,
+        "text": "And so, it was a great feat to capture him and kill him"
+    },
+    {
+        "id": 917,
+        "start": 2627.158,
+        "end": 2630.104,
+        "text": "at the Battle of Mose."
+    },
+    {
+        "id": 918,
+        "start": 2630.128,
+        "end": 2634.541,
+        "text": " Oglethorpe and his men retreated."
+    },
+    {
+        "id": 919,
+        "start": 2634.565,
+        "end": 2637.845,
+        "text": " Some of the stories that came out after Mose,"
+    },
+    {
+        "id": 920,
+        "start": 2637.869,
+        "end": 2640.481,
+        "text": "and some of the things that the English claimed"
+    },
+    {
+        "id": 921,
+        "start": 2640.505,
+        "end": 2641.882,
+        "text": "the black militia did"
+    },
+    {
+        "id": 922,
+        "start": 2641.906,
+        "end": 2645.452,
+        "text": "to the people that they killed and captured"
+    },
+    {
+        "id": 923,
+        "start": 2645.476,
+        "end": 2649.723,
+        "text": "had created this view among the English that,"
+    },
+    {
+        "id": 924,
+        "start": 2649.747,
+        "end": 2652.126,
+        "text": "you know, they committed all kinds of atrocities,"
+    },
+    {
+        "id": 925,
+        "start": 2652.15,
+        "end": 2657.097,
+        "text": "and they used this as powerful propaganda, as well."
+    },
+    {
+        "id": 926,
+        "start": 2657.121,
+        "end": 2659.133,
+        "text": "\"This is what happens, see, with these..."
+    },
+    {
+        "id": 927,
+        "start": 2659.157,
+        "end": 2660.767,
+        "text": "If these slaves escape,"
+    },
+    {
+        "id": 928,
+        "start": 2660.791,
+        "end": 2662.803,
+        "text": "and this is what they do to people.\""
+    },
+    {
+        "id": 929,
+        "start": 2662.827,
+        "end": 2664.538,
+        "text": "♪♪"
+    },
+    {
+        "id": 930,
+        "start": 2664.562,
+        "end": 2666.74,
+        "text": " Though they had won back their land,"
+    },
+    {
+        "id": 931,
+        "start": 2666.764,
+        "end": 2669.61,
+        "text": "the village of Mose had been completely destroyed"
+    },
+    {
+        "id": 932,
+        "start": 2669.634,
+        "end": 2671.044,
+        "text": "in the battle."
+    },
+    {
+        "id": 933,
+        "start": 2671.068,
+        "end": 2673.881,
+        "text": " The free blacks from Mose move into St. Augustine,"
+    },
+    {
+        "id": 934,
+        "start": 2673.905,
+        "end": 2675.449,
+        "text": "and they live in St. Augustine,"
+    },
+    {
+        "id": 935,
+        "start": 2675.473,
+        "end": 2677.184,
+        "text": "and they're property owners in St. Augustine,"
+    },
+    {
+        "id": 936,
+        "start": 2677.208,
+        "end": 2682.656,
+        "text": "and they become a critical part of the city's fabric."
+    },
+    {
+        "id": 937,
+        "start": 2682.68,
+        "end": 2686.66,
+        "text": " They stayed in St. Augustine for the next 12 years."
+    },
+    {
+        "id": 938,
+        "start": 2686.684,
+        "end": 2689.63,
+        "text": "Francisco Menendez went to St. Augustine with the others,"
+    },
+    {
+        "id": 939,
+        "start": 2689.654,
+        "end": 2691.131,
+        "text": "but when the King of Spain"
+    },
+    {
+        "id": 940,
+        "start": 2691.155,
+        "end": 2693.667,
+        "text": "didn't compensate him for his service,"
+    },
+    {
+        "id": 941,
+        "start": 2693.691,
+        "end": 2695.736,
+        "text": "Menendez signed on to a Spanish ship"
+    },
+    {
+        "id": 942,
+        "start": 2695.76,
+        "end": 2698.172,
+        "text": "that was attacking English settlements."
+    },
+    {
+        "id": 943,
+        "start": 2698.196,
+        "end": 2699.74,
+        "text": "[Wind rushing, wood creaking]"
+    },
+    {
+        "id": 944,
+        "start": 2699.764,
+        "end": 2703.01,
+        "text": " He's eventually recaptured by the English"
+    },
+    {
+        "id": 945,
+        "start": 2703.034,
+        "end": 2705.646,
+        "text": "and fully admits who he is."
+    },
+    {
+        "id": 946,
+        "start": 2705.67,
+        "end": 2707.181,
+        "text": " Menendez acknowledged that"
+    },
+    {
+        "id": 947,
+        "start": 2707.205,
+        "end": 2710.684,
+        "text": "he had been the leader of the Battle of Bloody Mose,"
+    },
+    {
+        "id": 948,
+        "start": 2710.708,
+        "end": 2713.587,
+        "text": "and his English captors became incensed."
+    },
+    {
+        "id": 949,
+        "start": 2713.611,
+        "end": 2715.822,
+        "text": "♪♪"
+    },
+    {
+        "id": 950,
+        "start": 2715.846,
+        "end": 2719.96,
+        "text": "The tales of vicious savagery on the part of these former slaves"
+    },
+    {
+        "id": 951,
+        "start": 2719.984,
+        "end": 2722.095,
+        "text": "had become legend in the British colonies."
+    },
+    {
+        "id": 952,
+        "start": 2722.119,
+        "end": 2726.533,
+        "text": " And they torture him brutally because they believed"
+    },
+    {
+        "id": 953,
+        "start": 2726.557,
+        "end": 2730.537,
+        "text": "the whole SpanishNegro conspiracy,"
+    },
+    {
+        "id": 954,
+        "start": 2730.561,
+        "end": 2732.873,
+        "text": "and they also say,"
+    },
+    {
+        "id": 955,
+        "start": 2732.897,
+        "end": 2735.175,
+        "text": "\"There were people who were tortured at Mose,"
+    },
+    {
+        "id": 956,
+        "start": 2735.199,
+        "end": 2738.512,
+        "text": "in that battle, and you're responsible.\""
+    },
+    {
+        "id": 957,
+        "start": 2738.536,
+        "end": 2739.846,
+        "text": "[Whip cracks]"
+    },
+    {
+        "id": 958,
+        "start": 2739.87,
+        "end": 2745.819,
+        "text": " And they gave him a beating with a whip,"
+    },
+    {
+        "id": 959,
+        "start": 2745.843,
+        "end": 2748.555,
+        "text": "and in between,"
+    },
+    {
+        "id": 960,
+        "start": 2748.579,
+        "end": 2753.627,
+        "text": "they brined him in a salt, pickled it."
+    },
+    {
+        "id": 961,
+        "start": 2753.651,
+        "end": 2758.999,
+        "text": " So, he was placed in a solution that is..."
+    },
+    {
+        "id": 962,
+        "start": 2759.023,
+        "end": 2761.268,
+        "text": "Effectively, eats away at his skin..."
+    },
+    {
+        "id": 963,
+        "start": 2761.292,
+        "end": 2763.804,
+        "text": "A high concentration of salt and vinegar,"
+    },
+    {
+        "id": 964,
+        "start": 2763.828,
+        "end": 2768.041,
+        "text": "and it would've been beyond enormously painful"
+    },
+    {
+        "id": 965,
+        "start": 2768.065,
+        "end": 2769.743,
+        "text": "to experience that."
+    },
+    {
+        "id": 966,
+        "start": 2769.767,
+        "end": 2772.179,
+        "text": " They just decided to sell him as part of the loot"
+    },
+    {
+        "id": 967,
+        "start": 2772.203,
+        "end": 2773.814,
+        "text": "that they took on the ship,"
+    },
+    {
+        "id": 968,
+        "start": 2773.838,
+        "end": 2775.282,
+        "text": "and they take him to the Bahamas,"
+    },
+    {
+        "id": 969,
+        "start": 2775.306,
+        "end": 2777.951,
+        "text": "and he's sold back into slavery."
+    },
+    {
+        "id": 970,
+        "start": 2777.975,
+        "end": 2779.286,
+        "text": "♪♪"
+    },
+    {
+        "id": 971,
+        "start": 2779.31,
+        "end": 2780.854,
+        "text": " It is not known whether"
+    },
+    {
+        "id": 972,
+        "start": 2780.878,
+        "end": 2783.757,
+        "text": "Spanish governors negotiated his freedom"
+    },
+    {
+        "id": 973,
+        "start": 2783.781,
+        "end": 2784.992,
+        "text": "or he ran away,"
+    },
+    {
+        "id": 974,
+        "start": 2785.016,
+        "end": 2786.66,
+        "text": "but once again,"
+    },
+    {
+        "id": 975,
+        "start": 2786.684,
+        "end": 2790.731,
+        "text": "Francisco Menendez miraculously escapes slavery."
+    },
+    {
+        "id": 976,
+        "start": 2790.755,
+        "end": 2792.899,
+        "text": " And returns to St. Augustine,"
+    },
+    {
+        "id": 977,
+        "start": 2792.923,
+        "end": 2797.771,
+        "text": "where, again, he becomes captain of the new Fort Mose."
+    },
+    {
+        "id": 978,
+        "start": 2797.795,
+        "end": 2800.24,
+        "text": " Menendez led his community of free slaves"
+    },
+    {
+        "id": 979,
+        "start": 2800.264,
+        "end": 2802.843,
+        "text": "back to the site of the old Fort Mose"
+    },
+    {
+        "id": 980,
+        "start": 2802.867,
+        "end": 2807.014,
+        "text": "and reestablished the town."
+    },
+    {
+        "id": 981,
+        "start": 2807.038,
+        "end": 2811.918,
+        "text": "By 1763, St. Augustine had been the Spanish stronghold"
+    },
+    {
+        "id": 982,
+        "start": 2811.942,
+        "end": 2815.956,
+        "text": "in what is now the United States for nearly 200 years."
+    },
+    {
+        "id": 983,
+        "start": 2815.98,
+        "end": 2817.591,
+        "text": "♪♪"
+    },
+    {
+        "id": 984,
+        "start": 2817.615,
+        "end": 2819.86,
+        "text": "During that time, the town had fended off"
+    },
+    {
+        "id": 985,
+        "start": 2819.884,
+        "end": 2822.763,
+        "text": "every attempt by the British to conquer it."
+    },
+    {
+        "id": 986,
+        "start": 2822.787,
+        "end": 2826.166,
+        "text": "But, ironically, it took just a single stroke of the pen"
+    },
+    {
+        "id": 987,
+        "start": 2826.19,
+        "end": 2828.201,
+        "text": "for all of that to change."
+    },
+    {
+        "id": 988,
+        "start": 2828.225,
+        "end": 2830.17,
+        "text": "[Cannon fire]"
+    },
+    {
+        "id": 989,
+        "start": 2830.194,
+        "end": 2832.906,
+        "text": "It happened at the end of the Seven Years' War,"
+    },
+    {
+        "id": 990,
+        "start": 2832.93,
+        "end": 2835.342,
+        "text": "when Spain was faced with the possibility"
+    },
+    {
+        "id": 991,
+        "start": 2835.366,
+        "end": 2838.812,
+        "text": "of losing its valuable port in Havana."
+    },
+    {
+        "id": 992,
+        "start": 2838.836,
+        "end": 2840.714,
+        "text": "It chose, instead,"
+    },
+    {
+        "id": 993,
+        "start": 2840.738,
+        "end": 2843.25,
+        "text": "to give up La Florida to the British."
+    },
+    {
+        "id": 994,
+        "start": 2843.274,
+        "end": 2847.187,
+        "text": "♪♪"
+    },
+    {
+        "id": 995,
+        "start": 2847.211,
+        "end": 2848.822,
+        "text": "For the people of St. Augustine,"
+    },
+    {
+        "id": 996,
+        "start": 2848.846,
+        "end": 2851.358,
+        "text": "this was an unimaginable twist of fate."
+    },
+    {
+        "id": 997,
+        "start": 2851.382,
+        "end": 2854.094,
+        "text": "It meant certain death or enslavement"
+    },
+    {
+        "id": 998,
+        "start": 2854.118,
+        "end": 2858.031,
+        "text": "for La Florida's free blacks and Natives."
+    },
+    {
+        "id": 999,
+        "start": 2858.055,
+        "end": 2860.267,
+        "text": "There was only one choice."
+    },
+    {
+        "id": 1000,
+        "start": 2860.291,
+        "end": 2864.104,
+        "text": " If the British are coming in here in 1763,"
+    },
+    {
+        "id": 1001,
+        "start": 2864.128,
+        "end": 2867.274,
+        "text": "bringing their alternative view of everybody"
+    },
+    {
+        "id": 1002,
+        "start": 2867.298,
+        "end": 2869.109,
+        "text": "and of law and property,"
+    },
+    {
+        "id": 1003,
+        "start": 2869.133,
+        "end": 2871.178,
+        "text": "the Spanish are leaving,"
+    },
+    {
+        "id": 1004,
+        "start": 2871.202,
+        "end": 2873.413,
+        "text": "and they take everybody that wants to go with them."
+    },
+    {
+        "id": 1005,
+        "start": 2873.437,
+        "end": 2877.984,
+        "text": " And so, by February of 1764,"
+    },
+    {
+        "id": 1006,
+        "start": 2878.008,
+        "end": 2884.725,
+        "text": "3,019 people had left St. Augustine for Havana."
+    },
+    {
+        "id": 1007,
+        "start": 2884.749,
+        "end": 2889.329,
+        "text": "Every single Spaniard, with the exception of three families,"
+    },
+    {
+        "id": 1008,
+        "start": 2889.353,
+        "end": 2893.033,
+        "text": "all of the Spaniards, all of the free blacks,"
+    },
+    {
+        "id": 1009,
+        "start": 2893.057,
+        "end": 2895.369,
+        "text": "all of the slaves that those Spaniards owned..."
+    },
+    {
+        "id": 1010,
+        "start": 2895.393,
+        "end": 2898.739,
+        "text": "The entire city was depopulated."
+    },
+    {
+        "id": 1011,
+        "start": 2898.763,
+        "end": 2900.34,
+        "text": "Everybody had left."
+    },
+    {
+        "id": 1012,
+        "start": 2900.364,
+        "end": 2903.443,
+        "text": "  Uno, dos, tres...   They set sail for other lands."
+    },
+    {
+        "id": 1013,
+        "start": 2903.467,
+        "end": 2906.747,
+        "text": "Among them, the free men and women of Fort Mose"
+    },
+    {
+        "id": 1014,
+        "start": 2906.771,
+        "end": 2911.218,
+        "text": "who headed to Cuba in hopes of keeping their freedom."
+    },
+    {
+        "id": 1015,
+        "start": 2911.242,
+        "end": 2915.922,
+        "text": " Francisco Menendez leads the exodus in 1763 to Cuba,"
+    },
+    {
+        "id": 1016,
+        "start": 2915.946,
+        "end": 2918.892,
+        "text": "and he leads that community into exile."
+    },
+    {
+        "id": 1017,
+        "start": 2918.916,
+        "end": 2920.193,
+        "text": "[Seagull calling]"
+    },
+    {
+        "id": 1018,
+        "start": 2920.217,
+        "end": 2924.197,
+        "text": " They had made a mark in history"
+    },
+    {
+        "id": 1019,
+        "start": 2924.221,
+        "end": 2928.301,
+        "text": "that demonstrated how blacks could contribute,"
+    },
+    {
+        "id": 1020,
+        "start": 2928.325,
+        "end": 2930.036,
+        "text": "how they could be free,"
+    },
+    {
+        "id": 1021,
+        "start": 2930.06,
+        "end": 2934.04,
+        "text": "how they were not in need of control,"
+    },
+    {
+        "id": 1022,
+        "start": 2934.064,
+        "end": 2936.109,
+        "text": "like animals to be chained."
+    },
+    {
+        "id": 1023,
+        "start": 2936.133,
+        "end": 2939.946,
+        "text": " Well, they would have to start all over again in Cuba,"
+    },
+    {
+        "id": 1024,
+        "start": 2939.97,
+        "end": 2941.715,
+        "text": "but they were free."
+    },
+    {
+        "id": 1025,
+        "start": 2941.739,
+        "end": 2945.452,
+        "text": " As the Spanish ship sailed away from St. Augustine,"
+    },
+    {
+        "id": 1026,
+        "start": 2945.476,
+        "end": 2948.321,
+        "text": "the first legally sanctioned free black community"
+    },
+    {
+        "id": 1027,
+        "start": 2948.345,
+        "end": 2949.756,
+        "text": "in the United States"
+    },
+    {
+        "id": 1028,
+        "start": 2949.78,
+        "end": 2953.794,
+        "text": "disappeared with them... into the horizon."
+    },
+    {
+        "id": 1029,
+        "start": 2953.818,
+        "end": 2955.462,
+        "text": "♪♪"
+    },
+    {
+        "id": 1030,
+        "start": 2955.486,
+        "end": 2958.945,
+        "text": "[Seagull calling]"
+    },
+    {
+        "id": 1031,
+        "start": 2962.326,
+        "end": 2970.326,
+        "text": "♪♪"
+    }
+]
