@@ -31,6 +31,6 @@ app.get("/list-movies", (req, res) => {
     return res.json(subtitles);
 });
 
-app.listen(9833, () => {
+app.listen(process.env.PORT || 9833, () => {
     console.log("Caribou server listen at localhost:9833 port");
 });
