@@ -8,6 +8,12 @@ const word_rarities = summary_json.reduce((obj, [word, usage_count]) => {
     return obj;
 }, {});
 
+
+const summary_with_rarity_points = summary_json.map(([word, count]) => ([
+    word, count, word_rarities[word]
+]));
+fs.writeFileSync('./subtitles/files/summary.json', JSON.stringify(summary_with_rarity_points, null, 4));
+
 const tracks = fs.readdirSync('./subtitles/files');
 tracks.forEach(track => {
     if(!/^[0-9]+/.test(track)){ return };
