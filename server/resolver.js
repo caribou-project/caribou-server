@@ -29,7 +29,7 @@ const loadMovie = ({id, count}) => {
         .sort((a, b) => b.significancy - a.significancy)
         .slice(0, count);
 
-    return { metadata, significant_words }
+    return { ...metadata, significant_words }
 }
 
 export {
