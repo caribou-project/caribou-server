@@ -1,9 +1,10 @@
-const fetch = require('node-fetch');
-const fs = require('fs');
-const {pipeline} = require('stream/promises');
-const throat = require('throat');
-const unzip = require('./unzip');
-const { stripText, waitFor } = require('./utils');
+import fetch from 'node-fetch';
+import fs from 'fs';
+import {pipeline} from 'stream/promises';
+import throat from 'throat';
+import unzip from './unzip';
+import { stripText, waitFor } from './utils';
+import { OSRowData } from '../types';
 
 const __dirname_abs = __dirname.split("/").slice(0, -1).join("/");
 // controls the existence of subdirectories
@@ -16,7 +17,7 @@ let cached_paths = fs.readFileSync('./.cache', 'utf-8');
 
 const parser = {
     value: /<a class="bnone" .*?>(.*?)<\/a.*?\/subtitleserve\/sub\/([0-9]*)".*?imdb\.com\/title\/([a-z0-9]+)?\/"/gm,
-    resolve: ([_, name, id, imdb_id]) => ({
+    resolve: ([_, name, id, imdb_id]: [any, string, string, string]): OSRowData => ({
         id,
         name,
         download: `https://dl.opensubtitles.org/tr/download/sub/${id}`,
@@ -25,7 +26,7 @@ const parser = {
     })
 }
 
-const getFileContent = async (download_link) => {
+const getFileContent = async (download_link: string) => {
     const response = await fetch(download_link, { headers: {
         "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
         "accept-language": "tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7",
@@ -46,7 +47,7 @@ const getFileContent = async (download_link) => {
     return response.body;
 }
 
-const downloadSource = async (source, output_path) => {
+const downloadSource = async (source: OSRowData, output_path: string) => {
     const sourceBody = await getFileContent(source.download);
     if(!sourceBody){
         console.log(`― ${source.download} is not available, your request might be blocked by Cloudflare.`)
@@ -58,7 +59,7 @@ const downloadSource = async (source, output_path) => {
     )
 }
 
-const getMovies = async (lang, letter, offset, max) => {
+const getMovies = async (lang: string, letter: string, offset: number, max: number): Promise<any> => {
     if(offset >= max) return "";
 
     // getMovies works recursively
@@ -72,7 +73,9 @@ const getMovies = async (lang, letter, offset, max) => {
     let source = await fetch(target_url)
         .then(res => res.text());
 
-    const sources = [...stripText(source).matchAll(parser.value)].map(parser.resolve);
+    const sources = [...stripText(source).matchAll(parser.value)].map((el: any) => {
+        return parser.resolve(el)
+    });
 
     return Promise.all(sources.map(throat(1, async source => {
         const source_path = __dirname_abs + `/subtitles/archive/${source.id}.zip`;
@@ -89,7 +92,7 @@ const getMovies = async (lang, letter, offset, max) => {
     })
 }
 
-const createMetadata = (content, output_path) => {
+const createMetadata = (content: OSRowData, output_path: string) => {
     fs.writeFileSync(output_path, JSON.stringify(content), "utf-8");
 }
 

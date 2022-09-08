@@ -1,5 +1,6 @@
-const fs = require('fs');
-var parseSRT = require('parse-srt')
+import fs from 'fs';
+import parseSRT from 'parse-srt';
+import { SRTJSONContent } from '../types';
 
 const __dirname_abs = __dirname.split("/").slice(0, -1).join("/");
 const subtitles_dir = '/subtitles/files';
@@ -7,7 +8,7 @@ const dirs = fs.readdirSync(__dirname_abs + subtitles_dir);
 
 let subs = [];
 
-const stripChars = (line) => {
+const stripChars = (line: string) => {
     return line.replace(/<[^>]*>/g, " ").replace(/\-/g, "");
 }
 
@@ -19,7 +20,7 @@ for(var dir of dirs){
         .filter(el => el.endsWith(".srt"))
         .map(filename => {
             const file_content_srt = fs.readFileSync(`${__dirname_abs}${subtitles_dir}/${dir}/${filename}`, 'utf-8') 
-            const file_content_json = parseSRT(file_content_srt);
+            const file_content_json: SRTJSONContent[] = parseSRT(file_content_srt);
             const file_content_json_stripped = file_content_json
                 .map(line => Object.assign({}, line, {text: stripChars(line.text)}))
             const output_name = `${subtitles_dir}/${dir}/${filename.replace(".srt", ".json")}`;

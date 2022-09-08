@@ -4,14 +4,21 @@
   "version": "1.0.0",
   "main": "crawler.js",
   "devDependencies": {
-    "tf-idf": "^1.0.0"
+    "@types/express": "^4.17.13",
+    "@types/node": "^18.7.16",
+    "@types/node-fetch": "^2.6.2",
+    "@types/yauzl": "^2.10.0",
+    "rimraf": "^3.0.2",
+    "tf-idf": "^1.0.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.2"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "crawler": "node crawler/index.js",
-    "formatter": "node formatter/index.js",
-    "analyzer": "node analyzer/index.js",
-    "start": "node server/index.js"
+    "build": "rimraf ./build && tsc",
+    "crawler": "node build/crawler/index.js",
+    "formatter": "node build/formatter/index.js",
+    "analyzer": "node build/analyzer/index.js",
+    "start": "node build/server/index.js"
   },
   "repository": {
     "type": "git",
@@ -29,6 +36,5 @@
     "parse-srt": "^1.0.0-alpha",
     "throat": "^6.0.1",
     "yauzl": "^2.10.0"
-  },
-  "type": "module"
+  }
 }

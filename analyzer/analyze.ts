@@ -1,12 +1,13 @@
 import fs from 'fs';
+import { SummaryType } from '../types/types';
 
 const summary_file = fs.readFileSync('./subtitles/files/summary.json', 'utf8');
-const summary_json = JSON.parse(summary_file);
+const summary_json: SummaryType[] = JSON.parse(summary_file);
 
 const word_rarities = summary_json.reduce((obj, [word, usage_count]) => {
     obj[word] = 1 / usage_count / summary_json.length
     return obj;
-}, {});
+}, {} as {[name: string]: number});
 
 
 const summary_with_rarity_points = summary_json.map(([word, count]) => ([
@@ -18,7 +19,7 @@ fs.writeFileSync('./subtitles/files/rarities.json', JSON.stringify(word_rarities
 const tracks = fs.readdirSync('./subtitles/files');
 tracks.forEach(track => {
     if(!/^[0-9]+/.test(track)){ return };
-    const track_summary = JSON.parse(fs.readFileSync(`./subtitles/files/${track}/summary.json`, 'utf8'));
+    const track_summary: SummaryType[] = JSON.parse(fs.readFileSync(`./subtitles/files/${track}/summary.json`, 'utf8'));
     const track_metadata = JSON.parse(fs.readFileSync(`./subtitles/files/${track}/metadata.json`, 'utf8'));
     const track_summary_rarity_point = track_summary.reduce((sum, [word, count]) => {
         return sum + (count * word_rarities[word])

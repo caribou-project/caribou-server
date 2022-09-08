@@ -7,12 +7,12 @@ if(!fs.existsSync(tracks_index_file_path)){
     process.exit();
 }
 
-let words_count_for_all = {};
+let words_count_for_all = {} as {[name: string]: number};
 
 const tracks = JSON.parse(fs.readFileSync(tracks_index_file_path, 'utf8'));
 for(let track of tracks){
     const [track_id, parts] = track;
-    let words_count_for_track = {};
+    let words_count_for_track = {} as {[name: string]: number};
     for(let sub of parts){
         const subs = JSON.parse(fs.readFileSync(`.${sub}`, 'utf8'));
         for(let sub of subs){

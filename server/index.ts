@@ -1,5 +1,5 @@
 import express from 'express';
-import { loadMovie, loadMovies } from './resolver.js';
+import { loadMovie, loadMovies } from './resolver';
 
 const app = express();
 
@@ -26,8 +26,10 @@ app.get('/movie/:id', (req, res) => {
     try {
         const movie = loadMovie({id, count: Number(count)})
         return res.json(movie);
-    } catch (err) {
-        return res.status(400).json({ error: err.message })
+    } catch (err: unknown) {
+        if(err instanceof Error){
+            return res.status(400).json({ error: err.message })
+        }
     }
 })
 
