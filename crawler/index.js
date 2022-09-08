@@ -20,6 +20,7 @@ const parser = {
         id,
         name,
         download: `https://dl.opensubtitles.org/tr/download/sub/${id}`,
+        imdb_id: imdb_id.replace("tt", ""),
         imdb: `http://www.imdb.com/title/${imdb_id}/`
     })
 }
