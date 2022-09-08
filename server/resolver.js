@@ -9,7 +9,8 @@ const rarities = loadRarities();
 const tidyMetadata = (metadata) => {
     return {
         ...metadata,
-        imdb_id: metadata.imdb.split("/").slice(-2)[0].replace("tt", "")
+        imdb_id: metadata.imdb.split("/").slice(-2)[0].replace("tt", ""),
+        lang: "en"
     }
 }
 
