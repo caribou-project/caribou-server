@@ -6,16 +6,16 @@ const loadRarities = () => {
 
 const rarities = loadRarities();
 
-const loadMovies = () => {
-    const subs = fs.readdirSync('./subtitles/files/')
+const loadMovies = ({limit, offset}) => {
+    const subs = fs.readdirSync('./subtitles/files/');
     return subs.map(sub => {
         if (!/[0-9]+/g.test(sub)) return;
         const metadata_file = fs.readFileSync(`./subtitles/files/${sub}/metadata.json`, "utf8");
         return JSON.parse(metadata_file);
-    }).filter(Boolean);
+    }).filter(Boolean).slice(offset, offset + limit);
 }
 
-const loadMovie = (id) => {
+const loadMovie = ({id, count}) => {
     if(!fs.existsSync(`./subtitles/files/${id}`)){
         throw new Error("Movie couldn't be found for this ID");
     }
@@ -27,7 +27,7 @@ const loadMovie = (id) => {
             word, count, significancy: rarities[word] * count
         }))
         .sort((a, b) => b.significancy - a.significancy)
-        .slice(0, 50);
+        .slice(0, count);
 
     return { metadata, significant_words }
 }
