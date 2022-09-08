@@ -3,7 +3,9 @@
   "description": "Projenin amacı: film ve dizilerin altyazı dosyalarındaki kelimeleri işleyerek sıklıklarına göre sıralamak ve dil öğrenme konusunda yardımcı bir araç oluşturmak.",
   "version": "1.0.0",
   "main": "crawler.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "tf-idf": "^1.0.0"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "crawler": "node crawler/index.js",

@@ -1,35 +1,22 @@
 import express from 'express';
-import fs from 'fs';
+import { loadMovie, loadMovies } from './resolver.js';
 
 const app = express();
 
-const loadSubtitles = (includeSummary = false) => {
-    const subs = fs.readdirSync('./subtitles/files/')
-    return subs.map(sub => {
-        if (!/[0-9]+/g.test(sub)) return;
-
-        let returnValue = {};
-
-        const metadata_file = fs.readFileSync(`./subtitles/files/${sub}/metadata.json`, "utf8");
-        const metadata_json_file = JSON.parse(metadata_file);
-        returnValue = {...returnValue, metadata_json_file};
-
-        if(includeSummary){
-            const summary_file = fs.readFileSync(`./subtitles/files/${sub}/summary.json`, "utf8");
-            const summary_json_file = JSON.parse(summary_file);
-            returnValue = {...returnValue, summary_json_file};
-        }
-
-        return returnValue;
-    }).filter(Boolean);
-}
-
-
-app.get("/list-movies", (req, res) => {
-    const { includeSummary = false } = req.query;
-    const subtitles = loadSubtitles(includeSummary);
-    return res.json(subtitles);
+app.get("/movies", (req, res) => {
+    const movies = loadMovies();
+    return res.json({movies});
 });
+
+app.get('/movie/:id', (req, res) => {
+    const { id } = req.params;
+    try {
+        const movie = loadMovie(id)
+        return res.json(movie);
+    } catch (err) {
+        return res.status(400).json({ error: err.message })
+    }
+})
 
 app.listen(process.env.PORT || 9833, () => {
     console.log("Caribou server listen at localhost:9833 port");
