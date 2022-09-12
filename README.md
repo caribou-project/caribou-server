@@ -1,29 +1,11 @@
 ## caribou ― deneysel bir proje
 
-Projenin amacı: film ve dizilerin altyazı dosyalarındaki kelimeleri işleyerek sıklıklarına göre sıralamak ve dil öğrenme konusunda yardımcı bir araç oluşturmak.
+Bu branch altında caribou-server opensubtitles REST API kullanılarak baştan yazılmakta. Branchta yapılmak istenen crawler işlemine gerek kalmadan Opensubtitles REST API üzerinden indirilen altyazı dosyalarını işleyen bir queue geliştirmek ve altyazı dosyalarını statik olarak tutmadan MongoDB üzerinde metadata değerlerini ve içerikteki en sık kullanılan kelimeleri tutarak client tarafına veri sağlamaktır.
 
-## Evre 1 ― Veri toplama (crawler)
+Servis dinamik olarak çalışacağından dolayı istekler kullanıcının yaptığı arama üzerinden tetiklenecek ve sunucu tarafında olabildiğince manuel işlemlerden kaçınılacaktır.
 
-Bu aşamada opensubtitles.org üzerinde belirli bir dilde bulunan film ve dizilerin altyazılarını indiren bir crawlera scriptine ihtiyacımız var. Aşağıda crawler scriptinin takip edeceği adımlar ve gerekli kaynaklar ile ilgili açıklamalar bulunmakta.
+Sunucunun izleyeceği senaryo aşağıdaki gibidir:
 
-### URLs
-
-- https://www.opensubtitles.org/search/sublanguageid-[lang]/moviename-[letter]/offset-[offsetvalue]
-
-    Bu bağlantı A harfi ile başlayan İngilizce dilinde bulunan altyazı dosyalarını listeler. [lang] değeri, altyazı dosyasının dilini, [letter] film adının ilk harfini, [offset] değeri sayfa listelemesinde sonraki değerleri listelemek için kullanılan parametreler.
-
-- https://dl.opensubtitles.org/en/download/sub/[ID]
-
-    Bu bağlantı ile herhangi bir altyazı dosyası, ID değeri kullanılarak indirilebilir. Script dosyaları `subtitles/archive/[ID].zip` dizinine ZIP formatında indiriyor.
-
-## Evre 2 ― Toplanan verileri formatlama (formatter)
-
-Toplanan altyazı dosyaları `subtitles/archive/[ID].zip` formatında indiriliyor ve zip dosyasının içeriği `subtitles/files/[ID]/` klasörüne çıkarılıyor. Altyazı dosyası ve dizi/film içeriği hakkında temel bir kaç bilgi `subtitles/files/[ID]/metadata.json` dosyası içerisine kaydediliyor.
-
-## Evre 3 - Verileri sınıflandırmak ve anlamlandırmak (analyzer)
-
-Bu aşamada bir önceki adımda formatlanan altyazı dosyalarındaki kelimeler sayılıyor ve hashmap tipinde `subtitles/files/[ID]/summary.json` dosyasına kaydediliyor. Aynı sayma işlemi tüm dosyalar için de gerçekleştirilerek tüm film/dizi içeriklerindeki kelimelerin tekrar sayıları `subtitles/files/summary.json` altına kaydediliyor.
-
-## Evre 4 - Sınıflandırılan veriler için bir web arayüzü oluşturmak
-
-*Eklenecek.*
+- Kullanıcı bir film içeriği arar: içerik MongoDB üzerinde aranır, eğer film içeriği:
+    - yoksa, opensubtitles üzerinde sorgulanır ve altyazı dosyası indirilir ve işlenerek veritabanına kaydedilir
+    - varsa, 
