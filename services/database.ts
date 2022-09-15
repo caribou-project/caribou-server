@@ -1,4 +1,7 @@
 import { MongoClient } from 'mongodb';
+const URI = process.env.NODE_ENV === "production"
+    ? process.env.MONGO_DB_URI_PROD
+    : process.env.MONGO_DB_URI_DEV;
 
 export const connect = () => {
     const uri = process.env.MONGO_DB_URI;
