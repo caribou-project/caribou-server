@@ -1,8 +1,10 @@
 import express from 'express';
 import dotenv from 'dotenv';
+
 import routes from '@routes';
 
 import { createQueues } from '@services/queue';
+import { connectRedis, storeRarities } from '@services/redis';
 import { connect } from '@services/database';
 import './types/declares';
 
@@ -11,17 +13,24 @@ const app = express();
 
 const [queueSyncSubtitles] = createQueues(["queue_syncSubtitles"]);
 
-app.use((req, res, next) => {
-    req.database = connect();
-    req.queues = {
-        subtitles: queueSyncSubtitles
-    }
-    next();
-})
+(async () => {
+    const redisClient = await connectRedis();
+    const database = connect();
+    await storeRarities(database, redisClient);
 
-routes.get.forEach(route => app.get(route.path, route.resolve))
-routes.post.forEach(route => app.post(route.path, route.resolve))
+    app.use((req, res, next) => {
+        req.database = database;
+        req.redis = redisClient;
+        req.queues = {
+            subtitles: queueSyncSubtitles
+        }
+        next();
+    })
 
-app.listen(process.env.PORT || 9833, () => {
-    console.log("Caribou server listen at localhost:9833 port");
-});
+    routes.get.forEach(route => app.get(route.path, route.resolve))
+    routes.post.forEach(route => app.post(route.path, route.resolve))
+
+    app.listen(process.env.PORT || 9833, () => {
+        console.log("Caribou server listen at localhost:9833 port");
+    });
+})();

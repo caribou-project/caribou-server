@@ -1,6 +1,5 @@
 import AdmZip from 'adm-zip';
-import OSAPI from '@services/opensubtitles';
-import fetch from 'node-fetch';
+import { ObjectId } from 'mongodb';
 import parseSRT from 'parse-srt';
 
 String.prototype.stripChars = function () {
@@ -21,11 +20,11 @@ export const extractToSrt = (file: Buffer) => {
         }, "");
 };
 
-export const countWords = (text: string): {[key in string]: number} => {
+export const countWords = (text: string, opensubtitles_id: string): {word: string, count: number, opensubtitles_id: string}[] => {
     const words = text.split(" ");
-    return words.reduce((acc, word) => {
+    return Object.entries(words.reduce((acc, word) => {
         if(!word) return acc;
         acc[word] = (acc[word] || 0) + 1;
         return acc;
-    }, {})
+    }, {})).map(([word, count]: [string, number]) => ({ word, count, opensubtitles_id }));
 }

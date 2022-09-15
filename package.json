@@ -13,14 +13,11 @@
     "dotenv": "^16.0.2",
     "node-dev": "^7.4.3",
     "rimraf": "^3.0.2",
-    "tf-idf": "^1.0.0",
-    "ts-node": "^10.9.1",
-    "tsconfig-paths": "^4.1.0",
-    "typescript": "^4.8.2"
+    "tsconfig-paths": "^4.1.0"
   },
   "scripts": {
     "build": "rimraf ./build && tsc",
-    "start": "node build/index.js",
+    "start": "node -r ts-node/register/transpile-only -r tsconfig-paths/register build/index.js",
     "develop": "node-dev index.ts"
   },
   "repository": {
@@ -45,7 +42,11 @@
     "node-snowball": "^0.6.0",
     "parse-srt": "^1.0.0-alpha",
     "qs": "^6.11.0",
+    "redis": "^4.3.1",
+    "ts-node": "^10.9.1",
     "throat": "^6.0.1",
-    "uuid": "^9.0.0"
+    "uuid": "^9.0.0",
+    "typescript": "^4.8.2",
+    "module-alias": "^2.2.2"
   }
 }
