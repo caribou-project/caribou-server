@@ -12,8 +12,7 @@
     "axios": "^0.27.2",
     "dotenv": "^16.0.2",
     "node-dev": "^7.4.3",
-    "rimraf": "^3.0.2",
-    "tsconfig-paths": "^4.1.0"
+    "rimraf": "^3.0.2"
   },
   "scripts": {
     "build": "rimraf ./build && tsc",
@@ -47,6 +46,7 @@
     "throat": "^6.0.1",
     "uuid": "^9.0.0",
     "typescript": "^4.8.2",
-    "module-alias": "^2.2.2"
+    "module-alias": "^2.2.2",
+    "tsconfig-paths": "^4.1.0"
   }
 }
