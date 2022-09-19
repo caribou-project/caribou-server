@@ -1,6 +1,5 @@
 import { Db } from 'mongodb';
 import { Queue as IQueue } from 'bull';
-import { RedisClientType } from '@redis/client';
 
 declare global {
     namespace Express {

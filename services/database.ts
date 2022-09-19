@@ -4,7 +4,7 @@ const URI = process.env.NODE_ENV === "production"
     : process.env.MONGO_DB_URI_DEV;
 
 export const connect = () => {
-    const uri = process.env.MONGO_DB_URI;
+    const uri = URI;
     if(!uri){
         throw new Error("MONGO_DB_URI has not been defined");
     }

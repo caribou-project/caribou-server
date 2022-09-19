@@ -7,7 +7,7 @@ const routes: IRoutes = {
         path: "/subtitles",
         resolve: GET.getSubtitles
     }, {
-        path: '/subtitle/:imdb_id',
+        path: '/subtitle/:track_id',
         resolve: GET.getSubtitle
     }],
     post: []

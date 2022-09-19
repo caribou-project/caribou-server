@@ -3,7 +3,7 @@ import dotenv from 'dotenv';
 
 import routes from '@routes';
 
-import { createQueues } from '@services/queue';
+import { createAdapter, createQueues, processQueue } from '@services/queue';
 import { connectRedis, storeRarities } from '@services/redis';
 import { connect } from '@services/database';
 import './types/declares';
@@ -11,7 +11,7 @@ import './types/declares';
 dotenv.config();
 const app = express();
 
-const [queueSyncSubtitles] = createQueues(["queue_syncSubtitles"]);
+const queues = createQueues(["subtitles"]);
 
 (async () => {
     const redisClient = await connectRedis();
@@ -21,11 +21,12 @@ const [queueSyncSubtitles] = createQueues(["queue_syncSubtitles"]);
     app.use((req, res, next) => {
         req.database = database;
         req.redis = redisClient;
-        req.queues = {
-            subtitles: queueSyncSubtitles
-        }
+        req.queues = queues;
         next();
-    })
+    });
+    
+    const boardAdapter = createAdapter(Object.values(queues));
+    app.use('/admin/queues', boardAdapter.getRouter());
 
     routes.get.forEach(route => app.get(route.path, route.resolve))
     routes.post.forEach(route => app.post(route.path, route.resolve))
@@ -33,4 +34,7 @@ const [queueSyncSubtitles] = createQueues(["queue_syncSubtitles"]);
     app.listen(process.env.PORT || 9833, () => {
         console.log("Caribou server listen at localhost:9833 port");
     });
+
+    Object.values(queues)
+        .map(queue => queue.process(processQueue({ database, redis: redisClient })));
 })();

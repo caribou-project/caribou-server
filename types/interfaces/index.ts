@@ -1,4 +1,5 @@
 import { Request, Response } from 'express';
+import { MethodResponse } from '@types';
 
 export interface SignificantWord{
     word: string;

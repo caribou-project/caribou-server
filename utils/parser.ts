@@ -20,11 +20,11 @@ export const extractToSrt = (file: Buffer) => {
         }, "");
 };
 
-export const countWords = (text: string, opensubtitles_id: string): {word: string, count: number, opensubtitles_id: string}[] => {
+export const countWords = (text: string, track_id: string): {word: string, count: number, track_id: string}[] => {
     const words = text.split(" ");
     return Object.entries(words.reduce((acc, word) => {
         if(!word) return acc;
         acc[word] = (acc[word] || 0) + 1;
         return acc;
-    }, {})).map(([word, count]: [string, number]) => ({ word, count, opensubtitles_id }));
+    }, {})).map(([word, count]: [string, number]) => ({ word, count, track_id }));
 }
