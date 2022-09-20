@@ -10,9 +10,10 @@ export const connectRedis = async () => {
 }
 
 export const storeRarities = async (db, redis) => {
+    await redis.flushAll("ASYNC");
     const records = await db.collection('rarities').find({}).toArray();
-    records.forEach(record => {
+    return Promise.all(records.map(record => {
         const rarity = 1 / record.count / records.length;
-        redis.set(record.word, JSON.stringify({ rarity, count: record.count }));
-    });
+        return redis.set(record.word, JSON.stringify({ rarity, count: record.count }));
+    }));
 }

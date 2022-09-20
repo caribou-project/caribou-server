@@ -42,6 +42,10 @@ export const calculateRarities = async ({ database, redis, job }: MethodInput): 
             sum += text;
             return sum;
         });
+    
+    if(files_concatenated.length <= 0){
+        return { status: "ERROR", message: "Subtitle file is empty" };
+    }
 
     // count words by injecting the insertedId of subtitle object to the words array
     const words = countWords(files_concatenated, TRACK_ID);
