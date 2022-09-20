@@ -1,3 +1,5 @@
+import throat from 'throat';
+import fetch from 'node-fetch';
 import { MethodResponse, MethodInput } from "@types"
 import OSAPI from '@services/opensubtitles';
 import { extractToSrt, countWords } from '@utils/parser';
@@ -7,23 +9,42 @@ export const calculateRarities = async ({ database, redis, job }: MethodInput): 
         return { status: "ERROR", message: "No track_id provided." }
     }
 
-    const results = await OSAPI.search({ id: job.data.track_id });
-    if (!results || results?.total_count <= 0) {
+    const result = await OSAPI.search({ id: job.data.track_id });
+    if(typeof result === "string"){
+        return { status: "ERROR", message: "Service didn't return a JSON body value" }
+    }
+    if(result instanceof Error){
+        return { status: "ERROR", message: result.message };
+    }
+
+    if (!result || result?.total_count <= 0) {
         return { status: "ERROR", message: "Subtitle not found" }
     }
 
-    const [subtitle] = results.data;
+    const [subtitle] = result.data;
     if (!subtitle?.attributes?.legacy_subtitle_id) {
         return { status: "ERROR", message: "Subtitle legacy file not found" };
     }
 
     const TRACK_ID = subtitle.attributes.feature_details.feature_id;
+    const file_ids = subtitle.attributes.files.map(file => file.file_id);
 
-    const content = await OSAPI.download3rdParty({ file_id: subtitle.attributes.legacy_subtitle_id })
-    const rawData = extractToSrt(content);
+    const file_ids_requests = file_ids.map(throat(1, file_id => OSAPI.download({file_id})));
+    const file_download_objects = await Promise.all(file_ids_requests);
+
+    const file_content_requests = file_download_objects
+        .map(throat(1, content_request => fetch(content_request.link).then(res => res.text())));
+
+    const file_contents = await Promise.all(file_content_requests);
+
+    const files_concatenated = file_contents.map(extractToSrt)
+        .reduce((sum, text) => {
+            sum += text;
+            return sum;
+        });
 
     // count words by injecting the insertedId of subtitle object to the words array
-    const words = countWords(rawData, TRACK_ID);
+    const words = countWords(files_concatenated, TRACK_ID);
     const countOfWords = await database.collection('rarities').countDocuments();
     let contentScore = 0;
 

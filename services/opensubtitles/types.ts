@@ -3,7 +3,7 @@ type OrderType = "language" | "download_count" | "new_download_count" | "hearing
 type OrderDirection = "asc" | "desc";
 
 export interface IDownloadParams{
-    file_id: string;
+    file_id: number;
 }
 
 export interface ISearchParams {

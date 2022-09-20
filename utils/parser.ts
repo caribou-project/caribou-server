@@ -9,7 +9,7 @@ String.prototype.stripChars = function () {
         .toLowerCase();
 }
 
-export const extractToSrt = (file: Buffer) => {
+export const extractToSrt3rdParty = (file: Buffer) => {
     const entries = new AdmZip(file).getEntries()
     return entries
         .filter(entry => entry.entryName.endsWith(".srt"))
@@ -20,7 +20,11 @@ export const extractToSrt = (file: Buffer) => {
         }, "");
 };
 
-export const countWords = (text: string, track_id: string): {word: string, count: number, track_id: string}[] => {
+export const extractToSrt = (file: String) => {
+    return parseSRT(file).map(line => line.text).join(" ").stripChars();
+}
+
+export const countWords = (text: string, track_id: number): {word: string, count: number, track_id: number}[] => {
     const words = text.split(" ");
     return Object.entries(words.reduce((acc, word) => {
         if(!word) return acc;

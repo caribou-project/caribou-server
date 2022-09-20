@@ -1,3 +1,5 @@
+/// <reference path="../types/response.d.ts" />
+
 import { DoneCallback, Job, Queue as IQueue } from "bull";
 import { Db } from 'mongodb';
 import { RedisClientType } from '@redis/client';
@@ -14,3 +16,4 @@ export type MethodInput = {
     job: Job;
     redis: RedisClientType;
 }
+

@@ -6,6 +6,7 @@ import { BullAdapter } from '@bull-board/api/bullAdapter';
 import { Db } from 'mongodb';
 import * as Methods from '@services/queue/methods';
 import { ICreateQueue} from "@types";
+import { MethodResponse } from '../../types/types';
 
 const REDIS_URL = process.env.REDIS_URL;
 
@@ -35,18 +36,17 @@ export const processQueue = ({ database, redis }: { database: Db, redis: any }) 
     }
 
     Methods[job.data.method]({ database, redis, job })
-        .then(response => {
+        .then((response: MethodResponse) => {
             if (response?.status === "OK") {
-                done(null, response);
+                job.log(JSON.stringify(response));
+                return done(null, response);
             }
 
             if (response?.status === "ERROR") {
+                job.log(JSON.stringify(response));
                 return done(new Error(response.message));
             }
 
-            return done(new Error(JSON.stringify(response || {})));
-        }).catch(error => {
-            done(new Error(error.message));
         })
 }
 
