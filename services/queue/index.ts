@@ -4,7 +4,7 @@ import { createBullBoard } from '@bull-board/api';
 import { BullAdapter } from '@bull-board/api/bullAdapter';
 
 import Methods from '@services/queue/methods';
-import { ICreateQueue, MethodResponse, ProcessQueueInput, ProcessQueueReturn, IQueueMethod } from "@types";
+import { ICreateQueue, MethodResponse, ProcessQueueInput, ProcessQueueReturn, IQueueMethod, CreateQueueReturn } from "@types";
 
 const REDIS_URL = process.env.REDIS_URL;
 
@@ -19,7 +19,7 @@ const createQueue: ICreateQueue = (queue_alias): IQueue => {
     return queue;
 }
 
-export const createQueues = (aliases: string[]): { [key in string]: IQueue} => {
+export const createQueues = (aliases: string[]): CreateQueueReturn => {
     return aliases
         .reduce((obj, alias) => ({ ...obj, [alias]: createQueue(alias) }), {})
 }

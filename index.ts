@@ -11,7 +11,7 @@ import './types/declares';
 dotenv.config();
 const app = express();
 
-const queues = createQueues(["subtitles"]);
+const queues = createQueues(["subtitles", "contentScore"]);
 
 (async () => {
     const redisClient = await connectRedis();

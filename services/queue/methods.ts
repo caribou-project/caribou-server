@@ -78,7 +78,8 @@ const calculateRarities = async ({ database, redis, job }: MethodInput): Promise
         track_id: TRACK_ID,
         links: subtitle.attributes.related_links,
         opensubtitles_id: subtitle.attributes.legacy_subtitle_id,
-        contentScore
+        contentScore,
+        lastUpdate: new Date()
     };
 
     // writing the subtitle to the database
@@ -87,6 +88,39 @@ const calculateRarities = async ({ database, redis, job }: MethodInput): Promise
     return { status: "OK", message: "Subtitle processed successfully", }
 }
 
+const updateContentScore = async ({ database, redis, job }: MethodInput): Promise<MethodResponse> => {
+    if (!(job?.data?.track_id)) {
+        return { status: "ERROR", message: "No track_id provided." }
+    }
+
+    const [track] = await database.collection('words')
+        .aggregate([
+            {
+                $match: { track_id: job.data.track_id }
+            }, {
+                $lookup: {
+                    from: 'rarities',
+                    localField: 'word',
+                    foreignField: 'word',
+                    as: 'rarity'
+                }
+            }, {
+                $group: {
+                    _id: null,
+                    contentScore: { $sum: { $multiply: ['$count', { $first: "$rarity.rarity" }] } }
+                }
+            }
+        ]).toArray();
+
+    await database.collection('subtitles').updateOne(
+        { track_id: job.data.track_id },
+        { $set: { contentScore: track?.contentScore || 0, lastUpdate: new Date() } }
+    );
+    return { status: "OK", message: `The contentScore of the track has been re-calculated as ${track?.contentScore || 0}` }
+
+}
+
 export default {
-    calculateRarities
+    calculateRarities,
+    updateContentScore
 }

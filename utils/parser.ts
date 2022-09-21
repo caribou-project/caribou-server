@@ -5,7 +5,8 @@ import parseSRT from 'parse-srt';
 String.prototype.stripChars = function () {
     return this
         .replace(new RegExp("(https?:\/\/(?:www\.|(?!www))[a-zA-Z0-9][a-zA-Z0-9-]+[a-zA-Z0-9]\.[^\s]{2,}|www\.[a-zA-Z0-9][a-zA-Z0-9-]+[a-zA-Z0-9]\.[^\s]{2,}|https?:\/\/(?:www\.|(?!www))[a-zA-Z0-9]+\.[^\s]{2,}|www\.[a-zA-Z0-9]+\.[^\s]{2,})", "gim"), " ")
-        .replace(/(<[^>]*>|\-|[0-9]+|[\.\?\+\*\!\=\"\\'/\\\]\[\]\)\(\)\,])/g, " ")
+        .replace(/(<[^>]*>|\-|[0-9]+|[\.\?\+\*\!\=\"\/\\\]\[\]\)\(\)\,\:])/g, " ")
+        .replace(/\'/g, "")
         .toLowerCase();
 }
 

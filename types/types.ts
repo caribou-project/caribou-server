@@ -17,6 +17,10 @@ export type MethodInput = {
     redis: ReturnType<typeof createClient>;
 }
 
+export type CreateQueueReturn = {
+    [key in string]: IQueue
+}
+
 export type ProcessQueueInput = {
     database: Db;
     redis: ReturnType<typeof createClient>;

@@ -18,12 +18,12 @@ export const getSubtitles = async (req: Request, res: Response) => {
 }
 
 export const getSubtitle = async (req: Request, res: Response) => {
-    const doesExist = await req.database.collection('subtitles').findOne({ track_id: Number(req.params.track_id) });
+    const subtitleRecord = await req.database.collection('subtitles').findOne({ track_id: Number(req.params.track_id) });
 
-    if(!doesExist){
+    if (!subtitleRecord) {
         const jobs = await req.queues.subtitles.getJobs(["active", "waiting", "delayed", "paused"]);
         const isQueued = jobs.some(job => job.data.track_id === Number(req.params.track_id));
-        if(isQueued){
+        if (isQueued) {
             return res.json({ status: "in-queue", message: "The movie is waiting in the queue" });
         }
 
@@ -31,11 +31,14 @@ export const getSubtitle = async (req: Request, res: Response) => {
         return res.json({ status: "queued", message: "The movie added to the queue" })
     }
 
+    if (!(subtitleRecord?.lastUpdate) || subtitleRecord.lastUpdate < Date.now() - 1000 * 60 * 60 * 24) {
+        await req.queues.contentScore.add({ method: "updateContentScore", track_id: Number(req.params.track_id) });
+    }
+
     const words = await req.database.collection('words')
         .aggregate([{
-            $match: { track_id: doesExist.track_id }
+            $match: { track_id: subtitleRecord.track_id }
         },
-        { $sort: { rarityScore: -1 } },
         { $limit: 20 },
         {
             $lookup: {
@@ -51,10 +54,11 @@ export const getSubtitle = async (req: Request, res: Response) => {
                 word: 1, count: 1,
                 rarityScore: { $multiply: ["$count", "$rarity.rarity"] }
             }
-        }])
-        .toArray()
+        },
+        { $sort: { rarityScore: -1 } },
+    ]).toArray()
 
-    const response = Object.assign({}, doesExist, { words });
+    const response = Object.assign({}, subtitleRecord, { words });
     return res.json({
         status: "calculated",
         response
