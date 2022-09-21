@@ -26,7 +26,7 @@ const queues = createQueues(["subtitles"]);
     });
     
     const boardAdapter = createAdapter(Object.values(queues));
-    app.use('/admin/queues', boardAdapter.getRouter());
+    app.use('/monitor', boardAdapter.getRouter());
 
     routes.get.forEach(route => app.get(route.path, route.resolve))
     routes.post.forEach(route => app.post(route.path, route.resolve))

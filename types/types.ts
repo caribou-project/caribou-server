@@ -2,7 +2,7 @@
 
 import { DoneCallback, Job, Queue as IQueue } from "bull";
 import { Db } from 'mongodb';
-import { RedisClientType } from '@redis/client';
+import { createClient } from 'redis';
 
 export type SummaryType = [string, number]
 export type ICreateQueue = (queue_alias: string) => IQueue;
@@ -14,6 +14,14 @@ export type MethodResponse = {
 export type MethodInput = {
     database: Db;
     job: Job;
-    redis: RedisClientType;
+    redis: ReturnType<typeof createClient>;
 }
 
+export type ProcessQueueInput = {
+    database: Db;
+    redis: ReturnType<typeof createClient>;
+}
+
+export type ProcessQueueReturn = {
+    (job: Job, done: DoneCallback): Promise<void>;
+}

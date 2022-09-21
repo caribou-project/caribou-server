@@ -4,7 +4,7 @@ import { MethodResponse, MethodInput } from "@types"
 import OSAPI from '@services/opensubtitles';
 import { extractToSrt, countWords } from '@utils/parser';
 
-export const calculateRarities = async ({ database, redis, job }: MethodInput): Promise<MethodResponse> => {
+const calculateRarities = async ({ database, redis, job }: MethodInput): Promise<MethodResponse> => {
     if (!(job?.data?.track_id)) {
         return { status: "ERROR", message: "No track_id provided." }
     }
@@ -85,4 +85,8 @@ export const calculateRarities = async ({ database, redis, job }: MethodInput): 
     await database.collection('subtitles').insertOne(responseBody);
 
     return { status: "OK", message: "Subtitle processed successfully", }
+}
+
+export default {
+    calculateRarities
 }

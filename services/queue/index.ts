@@ -3,10 +3,8 @@ import { ExpressAdapter } from "@bull-board/express";
 import { createBullBoard } from '@bull-board/api';
 import { BullAdapter } from '@bull-board/api/bullAdapter';
 
-import { Db } from 'mongodb';
-import * as Methods from '@services/queue/methods';
-import { ICreateQueue} from "@types";
-import { MethodResponse } from '../../types/types';
+import Methods from '@services/queue/methods';
+import { ICreateQueue, MethodResponse, ProcessQueueInput, ProcessQueueReturn, IQueueMethod } from "@types";
 
 const REDIS_URL = process.env.REDIS_URL;
 
@@ -26,7 +24,7 @@ export const createQueues = (aliases: string[]): { [key in string]: IQueue} => 
         .reduce((obj, alias) => ({ ...obj, [alias]: createQueue(alias) }), {})
 }
 
-export const processQueue = ({ database, redis }: { database: Db, redis: any }) => async (job: Job, done: DoneCallback) => {
+export const processQueue = ({ database, redis }: ProcessQueueInput): ProcessQueueReturn => async (job, done) => {
     if(!(job?.data?.method)){
         return done(new Error("No method provided."));
     }
@@ -35,7 +33,8 @@ export const processQueue = ({ database, redis }: { database: Db, redis: any }) 
         return done(new Error("Invalid method provided."));
     }
 
-    Methods[job.data.method]({ database, redis, job })
+    const queueMethod: IQueueMethod = Methods[job.data.method];
+    queueMethod({ database, job, redis })
         .then((response: MethodResponse) => {
             if (response?.status === "OK") {
                 job.log(JSON.stringify(response));
@@ -46,13 +45,12 @@ export const processQueue = ({ database, redis }: { database: Db, redis: any }) 
                 job.log(JSON.stringify(response));
                 return done(new Error(response.message));
             }
-
         })
 }
 
 export const createAdapter = (queues: IQueue[]): ExpressAdapter => {
     const adapter = new ExpressAdapter();
-    adapter.setBasePath('/admin/queues');
+    adapter.setBasePath('/monitor');
 
     createBullBoard({
         queues: queues.map(queue => new BullAdapter(queue)),

@@ -1,5 +1,5 @@
 import { Request, Response } from 'express';
-import { MethodResponse } from '@types';
+import { MethodResponse, MethodInput } from '@types';
 
 export interface SignificantWord{
     word: string;
@@ -51,4 +51,8 @@ export interface IRoute{
 export interface IRoutes{
     get: IRoute[],
     post: IRoute[],
+}
+
+export interface IQueueMethod{
+    (input: MethodInput): Promise<MethodResponse>;
 }
