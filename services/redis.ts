@@ -12,7 +12,8 @@ export const connectRedis = async () => {
 }
 
 export const storeRarities = async (db: Db, redis: ReturnType<typeof createClient>) => {
-    await redis.flushAll("ASYNC");
+    await redis.flushAll();
+
     const records = await db.collection('rarities').find({}).toArray();
     return Promise.all(records.map(record => {
         const rarity = 1 / record.count / records.length;
