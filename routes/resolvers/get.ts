@@ -1,8 +1,9 @@
 import { Request, Response } from 'express';
 import OSAPI from '@services/opensubtitles';
 import { ISearchParams } from '@services/opensubtitles/types';
+import { mergeTracks } from '@utils';
 
-export const getSubtitles = async (req: Request, res: Response) => {
+export const searchSubtitles = async (req: Request, res: Response) => {
     const { limit = 20, offset = 0 } = req.query;
 
     if (Number.isNaN(Number(limit))) {
@@ -14,7 +15,13 @@ export const getSubtitles = async (req: Request, res: Response) => {
 
     const defaultParams: ISearchParams = { order_by: "download_count", order_direction: "desc", languages: "en", type: "Movie" };
     const results = await OSAPI.search(Object.assign({}, defaultParams, req.query));
-    return res.json(results);
+
+    if(results instanceof Error) {
+        return res.status(500).json({ error: results.message });
+    }
+
+    const merged_tracks = mergeTracks(results.data);
+    return res.json(merged_tracks);
 }
 
 export const getSubtitle = async (req: Request, res: Response) => {

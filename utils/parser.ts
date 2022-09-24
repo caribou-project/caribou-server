@@ -1,5 +1,4 @@
 import AdmZip from 'adm-zip';
-import { ObjectId } from 'mongodb';
 import parseSRT from 'parse-srt';
 
 String.prototype.stripChars = function () {

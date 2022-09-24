@@ -4,8 +4,8 @@ import { IRoutes } from '../types';
 
 const routes: IRoutes = {
     get: [{
-        path: "/subtitles",
-        resolve: GET.getSubtitles
+        path: "/search",
+        resolve: GET.searchSubtitles
     }, {
         path: '/subtitle/:track_id',
         resolve: GET.getSubtitle
