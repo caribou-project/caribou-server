@@ -9,6 +9,9 @@ const routes: IRoutes = {
     }, {
         path: '/subtitle/:track_id',
         resolve: GET.getSubtitle
+    }, {
+        path: '/subtitles',
+        resolve: GET.getSubtitles
     }],
     post: []
 }

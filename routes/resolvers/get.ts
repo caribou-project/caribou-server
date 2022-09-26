@@ -2,6 +2,7 @@ import { Request, Response } from 'express';
 import OSAPI from '@services/opensubtitles';
 import { ISearchParams } from '@services/opensubtitles/types';
 import { mergeTracks } from '@utils';
+import { Sort } from 'mongodb';
 
 export const searchSubtitles = async (req: Request, res: Response) => {
     const { limit = 20, offset = 0 } = req.query;
@@ -66,8 +67,16 @@ export const getSubtitle = async (req: Request, res: Response) => {
     ]).toArray()
 
     const response = Object.assign({}, subtitleRecord, { words });
-    return res.json({
-        status: "calculated",
-        response
-    });
+    return res.json({ status: "calculated", response });
+}
+
+export const getSubtitles = async (req: Request, res: Response) => {
+    const { limit = 20, offset = 0, sort = {contentScore: -1} } = req.query;
+    const subtitles = await req.database.collection('subtitles').find()
+        .sort(sort as Sort)
+        .limit(Number(limit))
+        .skip(Number(offset))
+        .toArray();
+    
+    return res.json(subtitles);
 }
