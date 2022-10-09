@@ -1,5 +1,5 @@
 
-export const mergeTracks = (tracks: OpenSubtitlesResponse.Tracks[]) => {
+export const mergeTracks = (tracks: OpenSubtitlesResponse.Tracks[] = []) => {
     const merge_by = "imdb_id";
 
     const merged_tracks = tracks.reduce((obj, track) => {
