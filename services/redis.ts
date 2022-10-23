@@ -5,7 +5,7 @@ import { createClient } from 'redis';
 const REDIS_URL = process.env.REDIS_URL;
 
 export const connectRedis = async () => {
-    let client: RedisClientType;
+    let client: ReturnType<typeof createClient>;
     if(REDIS_URL){
         client = createClient({ url: REDIS_URL });
     }else{
