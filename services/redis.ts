@@ -1,11 +1,17 @@
 import { Db } from 'mongodb';
+import { RedisClientType } from '@redis/client';
 import { createClient } from 'redis';
 
 const REDIS_URL = process.env.REDIS_URL;
 
 export const connectRedis = async () => {
-    const client = createClient();
-    client.on('error', (err) => console.log('Redis Client Error', err));
+    let client: RedisClientType;
+    if(REDIS_URL){
+        client = createClient({ url: REDIS_URL });
+    }else{
+        client = createClient();
+    }
+    client.on('error', (err: Error) => console.log('Redis Client Error', err));
 
     await client.connect();
     return client;
