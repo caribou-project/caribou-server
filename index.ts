@@ -1,10 +1,11 @@
 import express from 'express';
 import dotenv from 'dotenv';
+import Cache from 'node-cache';
 
 import routes from '@routes';
 
 import { createAdapter, createQueues, processQueue } from '@services/queue';
-import { connectRedis, storeRarities } from '@services/redis';
+import { connectRedis, storeRarities } from '@services/store';
 import { connect } from '@services/database';
 import './types/declares';
 
@@ -14,12 +15,15 @@ const app = express();
 const queues = createQueues(["subtitles", "contentScore"]);
 
 (async () => {
+    const store = new Cache();
     const redisClient = await connectRedis();
+
     const database = connect();
-    await storeRarities(database, redisClient);
+    await storeRarities(database, store);
 
     app.use((req, res, next) => {
         req.database = database;
+        req.store = store;
         req.redis = redisClient;
         req.queues = queues;
         next();
@@ -36,5 +40,5 @@ const queues = createQueues(["subtitles", "contentScore"]);
     });
 
     Object.values(queues)
-        .map(queue => queue.process(processQueue({ database, redis: redisClient })));
+        .map(queue => queue.process(processQueue({ database, store })));
 })();

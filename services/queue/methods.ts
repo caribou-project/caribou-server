@@ -1,10 +1,10 @@
 import throat from 'throat';
 import fetch from 'node-fetch';
-import { MethodResponse, MethodInput } from "@types"
+import { MethodResponse, MethodInput, Rarity } from "@types"
 import OSAPI from '@services/opensubtitles';
 import { extractToSrt, countWords } from '@utils/parser';
 
-const calculateRarities = async ({ database, redis, job }: MethodInput): Promise<MethodResponse> => {
+const calculateRarities = async ({ database, store, job }: MethodInput): Promise<MethodResponse> => {
     if (!(job?.data?.track_id)) {
         return { status: "ERROR", message: "No track_id provided." }
     }
@@ -53,10 +53,11 @@ const calculateRarities = async ({ database, redis, job }: MethodInput): Promise
     let contentScore = 0;
 
     const writeDocs_promise = words.map(async ({ word, count }) => {
-        const cachedWord = JSON.parse((await redis.get(word)) || "{}");
+        const cachedWord: Rarity = store.get(word) || undefined;
         const rarity = 1 / (count + (cachedWord?.count || 0)) / (countOfWords || words.length);
         contentScore += count * rarity;
-        redis.set(word, JSON.stringify({ rarity, count: count + (cachedWord?.count || 0) }));
+
+        store.set(word, { count: (cachedWord?.count || 0) + count, rarity });
 
         return {
             updateOne: {
@@ -88,7 +89,7 @@ const calculateRarities = async ({ database, redis, job }: MethodInput): Promise
     return { status: "OK", message: "Subtitle processed successfully", }
 }
 
-const updateContentScore = async ({ database, redis, job }: MethodInput): Promise<MethodResponse> => {
+const updateContentScore = async ({ database, store, job }: MethodInput): Promise<MethodResponse> => {
     if (!(job?.data?.track_id)) {
         return { status: "ERROR", message: "No track_id provided." }
     }
