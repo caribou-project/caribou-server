@@ -1,6 +1,6 @@
 import throat from 'throat';
 import fetch from 'node-fetch';
-import { MethodResponse, MethodInput, Rarity } from "@types"
+import { MethodResponse, MethodInput } from "@types"
 import OSAPI from '@services/opensubtitles';
 import { extractToSrt, countWords } from '@utils/parser';
 
@@ -53,7 +53,7 @@ const calculateRarities = async ({ database, store, job }: MethodInput): Promise
     let contentScore = 0;
 
     const writeDocs_promise = words.map(async ({ word, count }) => {
-        const cachedWord: Rarity = store.get(word) || undefined;
+        const cachedWord: { count: number; rarity: number; } = store.get(word) || undefined;
         const rarity = 1 / (count + (cachedWord?.count || 0)) / (countOfWords || words.length);
         contentScore += count * rarity;
 

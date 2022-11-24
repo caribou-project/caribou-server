@@ -2,7 +2,6 @@
 
 import { DoneCallback, Job, Queue as IQueue } from "bull";
 import { Db, ObjectId } from 'mongodb';
-import { createClient } from 'redis';
 import NodeCache from 'node-cache';
 
 export type SummaryType = [string, number]
@@ -34,11 +33,6 @@ export type ProcessQueueReturn = {
 export type Record = {
     _id: ObjectId;
     word: string;
-    count: number;
-    rarity: number;
-}
-
-export type Rarity = {
     count: number;
     rarity: number;
 }

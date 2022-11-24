@@ -6,7 +6,7 @@ import { BullAdapter } from '@bull-board/api/bullAdapter';
 import Methods from '@services/queue/methods';
 import {
     ICreateQueue, MethodResponse, ProcessQueueInput,
-    ProcessQueueReturn, IQueueMethod, CreateQueueReturn, Store
+    ProcessQueueReturn, IQueueMethod, CreateQueueReturn 
 } from "@types";
 
 const REDIS_URL = process.env.REDIS_URL;

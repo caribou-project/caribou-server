@@ -1,5 +1,4 @@
-import { Db } from 'mongodb';
-import { Record } from '@types';
+import { Db, WithId } from 'mongodb';
 import { createClient } from 'redis';
 import NodeCache from 'node-cache';
 
@@ -17,7 +16,7 @@ export const connectRedis = async () => {
 }
 
 export const storeRarities = async (db: Db, cache: NodeCache) => {
-    const records: Record[] = await db.collection('rarities').find({}).toArray();
+    const records = await db.collection('rarities').find({}).toArray();
     const rarities = records.map((record) => ({
         key: record.word,
         val: {
