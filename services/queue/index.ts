@@ -4,13 +4,16 @@ import { createBullBoard } from '@bull-board/api';
 import { BullAdapter } from '@bull-board/api/bullAdapter';
 
 import Methods from '@services/queue/methods';
-import { ICreateQueue, MethodResponse, ProcessQueueInput, ProcessQueueReturn, IQueueMethod, CreateQueueReturn } from "@types";
+import {
+    ICreateQueue, MethodResponse, ProcessQueueInput,
+    ProcessQueueReturn, IQueueMethod, CreateQueueReturn, Store
+} from "@types";
 
 const REDIS_URL = process.env.REDIS_URL;
 
 const createQueue: ICreateQueue = (queue_alias): IQueue => {
     const queue = new Queue(queue_alias, REDIS_URL);
-    queue.on('error', err => {
+    queue.on('error', err => {
         if (err.message.trim() === "connect ETIMEDOUT") {
             return console.log("[ERROR] Couldn't connect to the redis service.")
         }
@@ -19,22 +22,22 @@ const createQueue: ICreateQueue = (queue_alias): IQueue => {
     return queue;
 }
 
-export const createQueues = (aliases: string[]): CreateQueueReturn => {
+export const createQueues = (aliases: string[]): CreateQueueReturn => {
     return aliases
         .reduce((obj, alias) => ({ ...obj, [alias]: createQueue(alias) }), {})
 }
 
-export const processQueue = ({ database, redis }: ProcessQueueInput): ProcessQueueReturn => async (job, done) => {
-    if(!(job?.data?.method)){
+export const processQueue = ({ database, store }: ProcessQueueInput): ProcessQueueReturn => async (job, done) => {
+    if (!(job?.data?.method)) {
         return done(new Error("No method provided."));
     }
 
-    if(!(typeof job.data.method === "string") || !Methods[job.data.method]){
+    if (!(typeof job.data.method === "string") || !Methods[job.data.method]) {
         return done(new Error("Invalid method provided."));
     }
 
     const queueMethod: IQueueMethod = Methods[job.data.method];
-    queueMethod({ database, job, redis })
+    queueMethod({ database, job, store })
         .then((response: MethodResponse) => {
             if (response?.status === "OK") {
                 job.log(JSON.stringify(response));

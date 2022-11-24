@@ -1,8 +1,9 @@
 /// <reference path="../types/response.d.ts" />
 
 import { DoneCallback, Job, Queue as IQueue } from "bull";
-import { Db } from 'mongodb';
+import { Db, ObjectId } from 'mongodb';
 import { createClient } from 'redis';
+import NodeCache from 'node-cache';
 
 export type SummaryType = [string, number]
 export type ICreateQueue = (queue_alias: string) => IQueue;
@@ -14,7 +15,7 @@ export type MethodResponse = {
 export type MethodInput = {
     database: Db;
     job: Job;
-    redis: ReturnType<typeof createClient>;
+    store: NodeCache;
 }
 
 export type CreateQueueReturn = {
@@ -23,9 +24,21 @@ export type CreateQueueReturn = {
 
 export type ProcessQueueInput = {
     database: Db;
-    redis: ReturnType<typeof createClient>;
+    store: NodeCache;
 }
 
 export type ProcessQueueReturn = {
     (job: Job, done: DoneCallback): Promise<void>;
+}
+
+export type Record = {
+    _id: ObjectId;
+    word: string;
+    count: number;
+    rarity: number;
+}
+
+export type Rarity = {
+    count: number;
+    rarity: number;
 }
