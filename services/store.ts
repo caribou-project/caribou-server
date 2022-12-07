@@ -1,18 +1,29 @@
-import { Db, WithId } from 'mongodb';
+import { Db } from 'mongodb';
 import { createClient } from 'redis';
 import NodeCache from 'node-cache';
 
 const REDIS_URL = process.env.REDIS_URL;
 
-export const connectRedis = async () => {
+export const connectRedis = async (): Promise<any> => {
     let client: ReturnType<typeof createClient>;
-    if(REDIS_URL){
+    if (REDIS_URL) {
         client = createClient({ url: REDIS_URL });
-    }else{
+    } else {
         client = createClient();
     }
-    await client.connect();
-    return client;
+
+    try {
+        await client.connect();
+        console.log('Redis client connect successfully');
+        return client;
+    } catch (error) {
+        console.log('Redis client couldn\'t connect.');
+        console.log(error);
+
+        return new Promise((resolve, reject) => {
+            setTimeout(() => connectRedis().then(resolve), 5000);
+        })
+    }
 }
 
 export const storeRarities = async (db: Db, cache: NodeCache) => {
